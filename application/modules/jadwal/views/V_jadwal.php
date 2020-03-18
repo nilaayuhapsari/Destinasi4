@@ -6,7 +6,7 @@
                             <h1>Atur Jadwal Anda</h1>
 
                             <ul class="breadcrumb">
-                                <li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+                                <li><a href="<?=base_url ('cari'); ?>">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 
                             </ul>
                             <!-- /.breadcrumb -->
@@ -151,7 +151,7 @@
                                             <center><div class="row">
                                                 <br/>
                                                 <button type="submit" class="btn btn-danger">Batalkan</button>
-                                                <a href="index.html"><button type="submit" class="btn btn-success"><span class="fa fa-save"></span>&nbsp;Simpan Jadwal</button></a>
+                                                <a href="<?=base_url ('index'); ?>"><button type="submit" class="btn btn-success"><span class="fa fa-save"></span>&nbsp;Simpan Jadwal</button></a>
                                             </div></center>
                                             <!-- /.overview -->
                                         </div>
