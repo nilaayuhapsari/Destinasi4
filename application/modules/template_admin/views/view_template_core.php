@@ -38,6 +38,11 @@
 
                     <li class="nav-item">
                         <a href="<?= base_url ('admin_listings'); ?>" class="nav-link"><i class="md-icon">view_list</i> List Ajuan <span>3</span></a>
+					</li>
+					
+					<li class="nav-item">
+						<a href="<?= base_url('data');?>" class="nav-link"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
+					</li>
                     </li>
                     
                     <li class="nav-item">

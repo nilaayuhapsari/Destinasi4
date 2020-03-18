@@ -19,7 +19,7 @@
 </head>
 
 <body class="layout-empty">
-    <a href="index.html" class="return-back">
+    <a href="<?= base_url ('index'); ?>" class="return-back">
     <i class="fa fa-long-arrow-left"></i> Kembali</a>
 </a>
 

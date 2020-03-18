@@ -7,7 +7,7 @@
 		<h1>OLEH-OLEH</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="<?=base_url ('index'); ?>">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
@@ -69,8 +69,13 @@
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
+<<<<<<< HEAD
+		<a href="<?=base_url ('destinasi'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?=base_url ('destinasi'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+=======
 		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
 		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+>>>>>>> 8fa0536052f5d9a5691748f41f7033f798645667
 		<a href="<?=base_url ('destinasi'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->

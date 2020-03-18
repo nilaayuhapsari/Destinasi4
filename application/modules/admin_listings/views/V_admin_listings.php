@@ -25,7 +25,7 @@
                                         <a href="#" class="btn btn-secondary"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                     <td>
-                                        <a href="<?= base_url ('admin_detail_listings') ?>">
+                                        <a href="admin_detail_listings">
                                             <div class="text-primary"><b>Lihat Selengkapnya</b></div>
                                         </a>
                                     </td>
@@ -42,7 +42,7 @@
                                         <a href="#" class="btn btn-secondary"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                     <td>
-                                        <a href="<?= base_url ('admin_detail_listings') ?>">
+                                        <a href="admin_detail_listings">
                                             <div class="text-primary"><b>Lihat Selengkapnya</b></div>
                                         </a>
                                     </td>
@@ -59,7 +59,7 @@
                                         <a href="#" class="btn btn-secondary"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                     <td>
-                                        <a href="<?= base_url ('admin_detail_listings') ?>">
+                                        <a href="admin-detail-listings">
                                             <div class="text-primary"><b>Lihat Selengkapnya</b></div>
                                         </a>
                                     </td>
@@ -76,7 +76,7 @@
                                         <a href="#" class="btn btn-secondary"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                     <td>
-                                        <a href="<?= base_url ('admin_detail_listings') ?>">
+                                        <a href="admin-detail-listings">
                                             <div class="text-primary"><b>Lihat Selengkapnya</b></div>
                                         </a>
                                     </td>
@@ -117,7 +117,6 @@
                         </ul>
                     </nav>
                 </div>
-            
                 <!-- /.container-fluid -->
             </div>
             <!-- /.admin-content -->
