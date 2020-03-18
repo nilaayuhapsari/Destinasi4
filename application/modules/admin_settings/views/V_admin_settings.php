@@ -31,7 +31,7 @@
                                 <!-- /.col-* -->
                             </div>
                             <!-- /.row -->
-                            <a href="admin-dashboard.html" class="btn btn-primary">UBAH</a>
+                            <a href="<?= base_url ('admin_dashboard'); ?>" class="btn btn-primary">UBAH</a>
                         </fieldset>
 
                         <fieldset>
@@ -66,7 +66,7 @@
                                 <!-- /.col-* -->
                             </div>
                             <!-- /.row -->
-                            <a href="admin-dashboard.html" class="btn btn-primary">UBAH</a>
+                            <a href="<?= base_url ('admin_dashboard'); ?>" class="btn btn-primary">UBAH</a>
                         </fieldset>
 
 
@@ -116,7 +116,7 @@
                                 <!-- /.form-group -->
 
                             </fieldset>
-                            <a href="#" class="btn btn-primary btn-large">Simpan</a>
+                            <a href="<?= base_url ('admin_settings'); ?>" class="btn btn-primary btn-large">Simpan</a>
                         </form>
                         <!-- </div> -->
                     </div>
@@ -184,7 +184,7 @@
                             <!-- /.form-group -->
 
                         </fieldset>
-                        <a href="#" class="btn btn-primary btn-large">Simpan</a>
+                        <a href="<?= base_url ('admin_settings'); ?>" class="btn btn-primary btn-large">Simpan</a>
                     </form>
                     <!-- </div> -->
                 </div>
@@ -251,7 +251,7 @@
                                 <!-- /.form-group -->
 
                             </fieldset>
-                            <a href="#" class="btn btn-primary btn-large">Simpan</a>
+                            <a href="<?= base_url ('admin_settings'); ?>" class="btn btn-primary btn-large">Simpan</a>
                         </form>
                         <!-- </div> -->
                     </div>
@@ -487,7 +487,7 @@
                                     <!-- /.form-group -->
 
                                 </fieldset>
-                                <a href="#" class="btn btn-primary btn-large">Simpan</a>
+                                <a href="<?= base_url ('admin_settings'); ?>" class="btn btn-primary btn-large">Simpan</a>
                             </form>
                             <!-- </div> -->
                         </div>

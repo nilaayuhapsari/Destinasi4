@@ -32,15 +32,15 @@
 					<div class="nav-primary-wrapper collapse navbar-toggleable-sm">
 						<ul class="nav nav-pills ">
 							<li class="nav-item has-submenu">
-								<a href="index.html" class="nav-link ">Halaman Utama</a>							
+								<a href="<?= base_url ('index'); ?>" class="nav-link ">Halaman Utama</a>							
 							</li>
 
 							<li class="nav-item has-submenu">
-								<a href="listings.html" class="nav-link active">Buat Jadwal</a>
+								<a href="<?= base_url ('listings'); ?>" class="nav-link active">Buat Jadwal</a>
 							</li>
                             
                             <li class="nav-item has-submenu">
-									<a href="i1.html" class="nav-link ">Daftarkan Destinasi</a>
+									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
 								</li>
 						</ul><!-- /.nav -->
 					</div><!-- /.nav-primary-wrapper -->
@@ -52,8 +52,8 @@
 							<span class="user-avatar-status"></span>
 
 							<ul class="header-more-menu">
-								<li><a href="#">Profile</a></li>
-								<li><a href="login.html">Log in</a></li>
+								<li><a href="<?= base_url ('login_userr'); ?>">User</a></li>
+								<li><a href="<?= base_url ('login_admin'); ?>">Admin</a></li>
 							</ul>							
 						</li>
 					</ul>
@@ -75,24 +75,15 @@
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="listings-map.html" class="nav-link">WISATA</a></li>
+							<li class="nav-item"><a href="<?=base_url ('index_wisata'); ?>" class="nav-link">WISATA</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="index_kuliner.html" class="nav-link">KULINER</a></li>
+							<li class="nav-item"><a href="<?=base_url ('index_kuliner'); ?>" class="nav-link">KULINER</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="index_oleh.html" class="nav-link">OLEH-OLEH</a></li>
+							<li class="nav-item"><a href="<?= base_url ('index_oleh'); ?>" class="nav-link">OLEH-OLEH</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 						</ul><!-- /.nav -->
 
-						<div class="header-bottom-more">
-							<i class="md-icon">more_horiz</i>
-
-							<ul class="header-more-menu">
-								<li><a href="submit.html">Submit New</a></li>
-								<li><a href="listings.html">All Listings</a></li>
-								<li><a href="login.html">Login</a></li>
-								<li><a href="register.html">Register</a></li>
-							</ul>
-						</div><!-- /.header-bottom-more -->
+						
 					</div><!-- /.container -->
 				</div><!-- /.header-bottom -->		
 				

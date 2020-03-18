@@ -7,7 +7,7 @@
 				</form>
 			</div><!-- /.admin-header-search -->
 		</div><!-- /admin-header -->
-        <a href="listings.html"><div class="btn btn-primary" type="button" style="margin-left:1100px;">Kembali</div></a>
+        <a href="<?= base_url ('data'); ?>"><div class="btn btn-primary" type="button" style="margin-left:950px;">Kembali</div></a>
 		<div class="admin-content">
 			<div class="container-fluid">
 
@@ -677,7 +677,7 @@
                 </div>
             </div>
             </div><!--row-->
-                    <center><a href="data.html"><button  class="btn btn-primary btn-large" data-target="#1" data-toggle="modal">Buat</button></a></center>
+                    <center><a href="<?= base_url ('data'); ?>"><button  class="btn btn-primary btn-large" data-target="#1" data-toggle="modal">Buat</button></a></center>
         </div>
     </div>
     </br>

@@ -7,7 +7,7 @@
 		<h1>KULINER</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="<?=base_url ('index'); ?>">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
@@ -41,7 +41,7 @@
 
 	<div class="col-md-2">
 		<div class="form-group-btn form-group-btn-placeholder-gap">
-			<a href="listings-map2.html"><button type="submit" class="btn btn-primary btn-block">Cari</button></a>
+			<a href="<?=base_url ('listings-map2'); ?>"><button type="submit" class="btn btn-primary btn-block">Cari</button></a>
 		</div><!-- /.form-group -->		
 	</div><!-- /.col-* -->			
 </div><!-- /.row --> 
@@ -52,7 +52,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/tmp/foto/Yogyakarta.jpg');">
-		<a href="food-detail.html"></a> 
+		<a href="<?= base_url ('food_detail'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -64,14 +64,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="food-detail.html">Drink &amp; Food</a></h3>
-		<h2><a href="food-detail.html">Loko Coffe Shop</a></h2>
+		<h3><a href="<?= base_url ('food_detail'); ?>">Drink &amp; Food</a></h3>
+		<h2><a href="<?= base_url ('food_detail'); ?>">Loko Coffe Shop</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="food-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="food-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="food-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?= base_url ('food_detail'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?= base_url ('food_detail'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?= base_url ('food_detail'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->	
 			</div><!-- /.col-* -->
@@ -79,7 +79,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/tmp/foto/images.jpg');">
-		<a href="food-detail2.html"></a> 
+		<a href="<?= base_url ('food_detail2'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -91,14 +91,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="food-detail2.html">Drink &amp; Food</a></h3>
-		<h2><a href="food-detail2.html">Soto Betawi pak Mamad</a></h2>
+		<h3><a href="<?= base_url ('food_detail2'); ?>">Drink &amp; Food</a></h3>
+		<h2><a href="<?= base_url ('food_detail2'); ?>">Soto Betawi pak Mamad</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="food-detail2.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="food-detail2.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="food-detail2.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?= base_url ('food_detail2'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?= base_url ('food_detail2'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?= base_url ('food_detail2'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->	
 			</div><!-- /.col-* -->
@@ -106,7 +106,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/tmp/foto/buntul.jpg');">
-		<a href="food-detail3.html"></a> 
+		<a href="<?= base_url ('food_detail3'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -117,14 +117,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="food-detail3.html">Drink &amp; Food</a></h3>
-		<h2><a href="food-detail3.html">Sate Bunul Paino</a></h2>
+		<h3><a href="<?= base_url ('food_detail3'); ?>">Drink &amp; Food</a></h3>
+		<h2><a href="<?= base_url ('food_detail3'); ?>">Sate Bunul Paino</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="food-detail3.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="food-detail3.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="food-detail3.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?= base_url ('food_detail3'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?= base_url ('food_detail3'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?= base_url ('food_detail3'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->	
 			</div><!-- /.col-* -->
@@ -132,7 +132,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/tmp/foto/betutu.jpg');">
-		<a href="food-detail4.html"></a> 
+		<a href="<?= base_url ('food_detail4'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -144,14 +144,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="food-detail4.html">Food &amp; Drink</a></h3>
-		<h2><a href="food-detail4.html">Ayam Betutu Khas Gilimanuk</a></h2>
+		<h3><a href="<?= base_url ('food_detail4'); ?>">Food &amp; Drink</a></h3>
+		<h2><a href="<?= base_url ('food_detail4'); ?>">Ayam Betutu Khas Gilimanuk</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="food-detail4.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="food-detail4.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="food-detail4.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?= base_url ('food_detail4'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?= base_url ('food_detail4'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?= base_url ('food_detail4'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->	
 			</div><!-- /.col-* -->
@@ -159,7 +159,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/tmp/foto/seefod.jpg');">
-		<a href="food-detail5.html"></a> 
+		<a href="<?=base_url ('food_detail5'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -171,14 +171,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="food-detail5.html">Drink &amp; Food</a></h3>
-		<h2><a href="food-detail5.html">Seefod dan Ikan Bakar</a></h2>
+		<h3><a href="<?=base_url ('food_detail5'); ?>">Drink &amp; Food</a></h3>
+		<h2><a href="<?=base_url ('food_detail5'); ?>">Seefod dan Ikan Bakar</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="food-detail5.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="food-detail5.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="food-detail5.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?=base_url ('food_detail5'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?=base_url ('food_detail5'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?=base_url ('food_detail5'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->	
 			</div><!-- /.col-* -->
@@ -186,7 +186,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/tmp/foto/ah.jpg');">
-		<a href="food-detail6.html"></a> 
+		<a href="<?=base_url('food_detail6'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -198,14 +198,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="food-detail6.html">Food &amp; Drink</a></h3>
-		<h2><a href="food-detail6.html">Bakso President</a></h2>
+		<h3><a href="<?=base_url('food_detail6'); ?>">Food &amp; Drink</a></h3>
+		<h2><a href="<?=base_url('food_detail6'); ?>">Bakso President</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="food-detail6.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="food-detail6.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="food-detail6.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?=base_url('food_detail6'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?=base_url('food_detail6'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?=base_url('food_detail6'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->	
 			</div><!-- /.col-* -->
@@ -330,3 +330,19 @@
 			<!-- /.main -->
 		</div>
 		<!-- /.main-wrapper -->
+		<div id="1" class="modal" tabindex="-1" role="dialog">
+			<div class="modal-dialog" role="document">
+			  <div class="modal-content">
+				<div class="modal-header">
+				  <center><h4 class="modal-title">Apakah anda ingin menambahkan ini?</h4></center>
+				  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				  </button>
+				</div>
+				<div class="modal-footer">
+				  <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
+				  <a href="index_oleh.html"><button type="button" class="btn btn-primary">Iya</button></a>
+				</div>
+			  </div>
+			</div>
+		  </div>

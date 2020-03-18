@@ -29,35 +29,35 @@
             <div class="dashboard-nav-primary collapse navbar-toggleable-md">
                 <ul class="nav nav-pills nav-stacked">
                     <li class="nav-item">
-                        <a href="admin-dashboard.html" class="nav-link active"><i class="md-icon">home</i> Halaman admin</a>
+                        <a href="<?= base_url ('admin_dashboard'); ?>" class="nav-link active"><i class="md-icon">home</i> Halaman admin</a>
                     </li>
 
                     <li class="nav-item">
-                        <a href="admin-kategori.html" class="nav-link"><i class="md-icon">view_list</i> List Kategori <span>9</span></a>
+                        <a href="<?= base_url ('admin_kategori'); ?>" class="nav-link"><i class="md-icon">view_list</i> List Kategori <span>9</span></a>
                     </li>
 
                     <li class="nav-item">
-                        <a href="admin-listings.html" class="nav-link"><i class="md-icon">view_list</i> List Ajuan <span>3</span></a>
+                        <a href="<?= base_url ('admin_listings'); ?>" class="nav-link"><i class="md-icon">view_list</i> List Ajuan <span>3</span></a>
 					</li>
 					
 					<li class="nav-item">
-						<a href="data.html" class="nav-link"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
+						<a href="<?= base_url('data');?>" class="nav-link"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
 					</li>
 
                     <li class="nav-item">
-                        <a href="admin-reviews.html" class="nav-link "><i class="md-icon">rate_review</i> Komentar</a>
+                        <a href="<?= base_url ('admin_reviews'); ?>" class="nav-link "><i class="md-icon">rate_review</i> Komentar</a>
                     </li>
 
                     <li class="nav-item">
-                        <a href="admin-users.html" class="nav-link "><i class="md-icon">people</i> Pengguna <span>1</span></a>
+                        <a href="<?= base_url ('admin_users'); ?>" class="nav-link "><i class="md-icon">people</i> Pengguna <span>1</span></a>
                     </li>
 
                     <li class="nav-item">
-                        <a href="admin-settings.html" class="nav-link "><i class="md-icon">settings</i> Pengaturan</a>
+                        <a href="<?= base_url ('admin_settings'); ?>" class="nav-link "><i class="md-icon">settings</i> Pengaturan</a>
                     </li>
 
                     <li class="nav-item">
-                        <a href="index.html" class="nav-link"><i class="md-icon">power_settings_new</i> Keluar</a>
+                        <a href="<?= base_url ('index'); ?>" class="nav-link"><i class="md-icon">power_settings_new</i> Keluar</a>
                     </li>
                 </ul>
             </div>
@@ -82,7 +82,7 @@
 
                                 <ul class="header-more-menu">
                                     <li><a href="#">Profile</a></li>
-                                    <li><a href="index.html">Logout</a></li>
+                                    <li><a href="<?= base_url ('index'); ?>">Logout</a></li>
                                 </ul>
                             </li>
                         </ul>

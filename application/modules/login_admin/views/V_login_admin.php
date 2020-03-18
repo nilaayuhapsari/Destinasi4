@@ -20,7 +20,7 @@
 						<input type="text" class="form-control">
 					</div><!-- /.form-group -->
 				<div class="form-group-btn">
-					<a href="admin-dashboard.html"><p class="btn btn-primary pull-right">Sig In</p></a>
+					<a href="<?= base_url ('admin_dashboard'); ?>"><p class="btn btn-primary pull-right">Sig In</p></a>
 				</div><!-- /.form-group-btn -->
 
 				<div class="form-group-bottom-link">

@@ -7,7 +7,7 @@
 		<h1>OLEH-OLEH</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="<?=base_url ('index'); ?>">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
@@ -41,7 +41,7 @@
 
 	<div class="col-md-2">
 		<div class="form-group-btn form-group-btn-placeholder-gap">
-			<a href="listings-map2.html"><button type="submit" class="btn btn-primary btn-block">Cari</button></a>
+			<a href="<?=base_url ('listings_map2'); ?>"><button type="submit" class="btn btn-primary btn-block">Cari</button></a>
 		</div><!-- /.form-group -->		
 	</div><!-- /.col-* -->			
 </div><!-- /.row --> 
@@ -52,7 +52,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/oleh/jogjaa.jpg');">
-		<a href="oleh-detail1.html"></a> 
+		<a href="<?=base_url ('destinasi'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -64,14 +64,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="oleh-detail1.html">0LEH-OLEH</a></h3>
-		<h2><a href="oleh-detail1.html">PASAR BERINGHARJO</a></h2>
+		<h3><a href="<?=base_url ('destinasi'); ?>">0LEH-OLEH</a></h3>
+		<h2><a href="<?=base_url ('destinasi'); ?>">PASAR BERINGHARJO</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="oleh-detail1.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="oleh-detail1.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="oleh-detail1.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?=base_url ('destinasi'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?=base_url ('destinasi'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?=base_url ('destinasi'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 			</div><!-- /.col-* -->
@@ -79,7 +79,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/oleh/bali.jpg');">
-		<a href="oleh-detail2.html"></a> 
+		<a href="<?=base_url ('oleh_detail2'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -91,14 +91,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="oleh-detail2.html">OLEH-OLEH</a></h3>
-		<h2><a href="oleh-detail2.html">KRISNA</a></h2>
+		<h3><a href="<?=base_url ('oleh_detail2'); ?>">OLEH-OLEH</a></h3>
+		<h2><a href="<?=base_url ('oleh_detail2'); ?>">KRISNA</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="oleh-detail2.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="oleh-detail2.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="oleh-detail2.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="<?=base_url ('oleh_detail2'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="<?=base_url ('oleh_detail2'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?=base_url ('oleh_detail2'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 			</div><!-- /.col-* -->
@@ -106,7 +106,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/oleh/ledre2.jpg');">
-		<a href="oleh-detail3.html"></a> 
+		<a href="<?=base_url ('oleh_detail3'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -118,14 +118,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="oleh-detail3.html">OLEH-OLEH</a></h3>
-		<h2><a href="oleh-detail3.html">PISANG LEDRE BANGKA</a></h2>
+		<h3><a href="<?=base_url ('oleh_detail3'); ?>">OLEH-OLEH</a></h3>
+		<h2><a href="<?=base_url ('oleh_detail3'); ?>">PISANG LEDRE BANGKA</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="oleh-detail3.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="oleh-detail3.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="oleh-detail3.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?=base_url ('oleh_detail3'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 			</div><!-- /.col-* -->
@@ -133,7 +133,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/oleh/batagor.jpg');">
-		<a href="oleh-detail4.html"></a> 
+		<a href="<?= base_url ('oleh_detail4'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -145,14 +145,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="oleh-detail4.html">OLEH-OLEH</a></h3>
-		<h2><a href="oleh-detail4.html">BATAGOR RIRI</a></h2>
+		<h3><a href="<?= base_url ('oleh_detail4'); ?>">OLEH-OLEH</a></h3>
+		<h2><a href="<?= base_url ('oleh_detail4'); ?>">BATAGOR RIRI</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="oleh-detail4.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="oleh-detail4.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="oleh-detail4.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?= base_url ('oleh_detail4'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 			</div><!-- /.col-* -->
@@ -160,7 +160,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/oleh/jember.jpg');">
-		<a href="oleh-detail5.html"></a> 
+		<a href="<?=base_url ('oleh_detail5'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -172,14 +172,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="oleh-detail5.html">OLEH-OLEH</a></h3>
-		<h2><a href="oleh-detail5.html">Primadona suwar suwir</a></h2>
+		<h3><a href="<?=base_url ('oleh_detail5'); ?>">OLEH-OLEH</a></h3>
+		<h2><a href="<?=base_url ('oleh_detail5'); ?>">Primadona suwar suwir</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="oleh-detail5.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="oleh-detail5.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="oleh-detail5.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?=base_url ('oleh_detail5'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 			</div><!-- /.col-* -->
@@ -187,7 +187,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/oleh/bejo.jpg');">
-		<a href="oleh-detail6.html"></a> 
+		<a href="<?=base_url ('oleh_detail6'); ?>"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -199,14 +199,14 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="oleh-detail6.html">OLEH-OLEH</a></h3>
-		<h2><a href="oleh-detail6.html">KOPI LANANG MBOK BEDJO</a></h2>
+		<h3><a href="<?=base_url ('oleh_detail6'); ?>">OLEH-OLEH</a></h3>
+		<h2><a href="<?=base_url ('oleh_detail6'); ?>">KOPI LANANG MBOK BEDJO</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="oleh-detail6.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="oleh-detail6.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="oleh-detail6.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="<?=base_url ('oleh_detail6'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 			</div><!-- /.col-* -->
@@ -331,3 +331,19 @@
 							<!-- /.main -->
 						</div>
 						<!-- /.main-wrapper -->
+						<div id="1" class="modal" tabindex="-1" role="dialog">
+			<div class="modal-dialog" role="document">
+			  <div class="modal-content">
+				<div class="modal-header">
+				  <center><h4 class="modal-title">Apakah anda ingin menambahkan ini?</h4></center>
+				  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				  </button>
+				</div>
+				<div class="modal-footer">
+				  <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
+				  <a href="index_oleh.html"><button type="button" class="btn btn-primary">Iya</button></a>
+				</div>
+			  </div>
+			</div>
+		  </div>

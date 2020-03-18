@@ -1,13 +1,13 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Kuliner extends MX_Controller {
+class Index extends MX_Controller {
 
 	function __construct()
 	{
 		parent::__construct();
 		// model
-		 $this->load->model('m_kuliner');
+		 $this->load->model('m_index');
 	}
 
 	
@@ -15,8 +15,8 @@ class Kuliner extends MX_Controller {
 	function index()
 	{
 		$data = array(
-			'namamodule' 	=> "kuliner",
-			'namafileview' 	=> "v_kuliner",
+			'namamodule' 	=> "index",
+			'namafileview' 	=> "v_index",
 		);
 		echo Modules::run('template/tampilCore', $data);
     }

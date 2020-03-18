@@ -1,12 +1,9 @@
 <div class="row">
     <div class="col-md-12">
         <div class="container-fluid">
-            <div class="admin-title">
-
-            </div>
-            <!-- /.admin-title -->
+           
             <td>
-                <a href="tambah.html"><button type="button" class="btn btn-primary" style="margin-left: 90%;">Tambah</button></a>
+                <a href="<?= base_url ('tambah'); ?>"><button type="button" class="btn btn-primary" style="margin-left: 90%;">Tambah</button></a>
             </td>
             <br /><br />
 

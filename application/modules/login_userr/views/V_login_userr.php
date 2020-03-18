@@ -15,7 +15,7 @@
 				</div><!-- /.form-group -->
 
 				<div class="form-group-btn">
-					<a href="index.html"><p class="btn btn-primary pull-right">Sig In</p></a>
+					<a href="<?= base_url ('index'); ?>"><p class="btn btn-primary pull-right">Sig In</p></a>
 				</div><!-- /.form-group-btn -->
 
 				<div class="form-group-bottom-link">
