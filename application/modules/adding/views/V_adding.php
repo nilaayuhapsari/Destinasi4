@@ -7,7 +7,7 @@
                         <div class="content-title">
                             <div class="container">
                                     <img src="assets/img/icon.png" height="23px"></img>
-                                <h1>SURABAYA</h1>
+                                <h1>Malang</h1>
 
                                 <ul class="breadcrumb">
                                     <h7 style="">Tambahkan pilihan yang ingin anda kunjungi</h7>
