@@ -59,7 +59,7 @@
                                         <a href="#" class="btn btn-secondary"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                     <td>
-                                        <a href="admin-detail-listings">
+                                        <a href="admin_detail_listings">
                                             <div class="text-primary"><b>Lihat Selengkapnya</b></div>
                                         </a>
                                     </td>
@@ -76,7 +76,7 @@
                                         <a href="#" class="btn btn-secondary"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                     <td>
-                                        <a href="admin-detail-listings">
+                                        <a href="admin_detail_listings">
                                             <div class="text-primary"><b>Lihat Selengkapnya</b></div>
                                         </a>
                                     </td>
