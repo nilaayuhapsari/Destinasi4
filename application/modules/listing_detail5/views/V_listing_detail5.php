@@ -6,10 +6,11 @@
 	            <div class="content">
 	                <div class="content-title">
 	<div class="container">
-		<h1>Seafood dan Ikan Bakar</h1>
+		<h1>Museum Angkut</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index_kuliner.html">kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="listings-map.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
 </div><!-- /.content-title -->
@@ -38,157 +39,145 @@
 			<div class="push-top-bottom">
 				<div class="listing-detail">
 					<div class="gallery">
-    <div class="gallery-item" style="background-image: url('assets/img/tmp/gallery/cvr.jpg');"> 
+    <div class="gallery-item" style="background-image: url('assets/img/wisata/d1.jpg');"> 
         <div class="gallery-item-description">
+            Hiasan lampu warna warni pada malam hari
             </div><!-- /.gallery-item-description -->
     </div><!-- /.gallery-item -->            
 
-    <div class="gallery-item" style="background-image: url('assets/img/tmp/gallery/ppp.jpeg');">
+    <div class="gallery-item" style="background-image: url('assets/img/wisata/l3.jpg');">
         <div class="gallery-item-description">
         </div><!-- /.gallery-item-description -->
     </div><!-- /.gallery-item -->                
 
-    <div class="gallery-item" style="background-image: url('assets/img/tmp/gallery/ss.jpg');">
+    <div class="gallery-item" style="background-image: url('assets/img/wisata/l5.jpg');">
         <div class="gallery-item-description">
-        </div><!-- /.gallery-item-description -->    
+        </div><!-- /.gallery-item-description -->  
     </div><!-- /.gallery-item -->                 
 </div><!-- /.gallery -->
-
-<h2>Deskripsi Tempat </h2>
+<h2>Deskripsi Tempat</h2>
 <div class="card">
 	<div class="container">
-		<div class="col-7">
-			<div class="card-body">
-			</br>
-	<p>Layar Seafood merupakan salah satu restaurant seafood andalan di kota Surabaya. Rumah makan ini menggunakan concept seafood market dengan berbagai ikan hidup sebagai display yang tertampak dari sudut luar dimana mempermudah tamu untuk menentukan jenis masakan untuk ikan, udang, cumi ataupun kepiting yang akan dipilih.salah satu menu andalan nya adalah ikan kerapu lumpur kukus. </p>
-</div>
-    </div>
-	    </div>
-		    </div>
-			<div class="row">
-					<div class="col-sm-1 col-xl-12">
-							<div class="card">
-							<div class="container">
-								<div class="col-12">
-									<div class="container">
-								</br>
-							<h5 class="">FOTO MAKANAN</h5>
-							<div class="row">
-								<img src="assets/img/tmp/food.jpg" height="150" width="150">
-								<img src="assets/img/tmp/food1.jpg" height="150" width="150">
-								<img src="assets/img/tmp/food2.jpg" height="150" width="150">
-								<img src="assets/img/tmp/food2.jpg" height="150" width="150">
-								<img src="assets/img/tmp/food2.jpg" height="150" width="150">
-								</div>
-							</div>
-							</div>
-						</div>
-						<br/>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-1 col-xl-12">
-							<div class="card">
-							<div class="container">
-								<div class="col-12">
-									<div class="container">
-								</br>
-							<h5 class="">FOTO MINUMAN</h5>
-							<div class="row">
-								<img src="assets/img/tmp/minum.jpeg" height="150" width="150">
-								<img src="assets/img/tmp/minum.jpeg" height="150" width="150">
-								<img src="assets/img/tmp/minum.jpeg" height="150" width="150">
-								<img src="assets/img/tmp/minum.jpeg" height="150" width="150">
-								<img src="assets/img/tmp/minum.jpeg" height="150" width="150">
-								</div>
-							</div>
-						</div>
-						<br/>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-1 col-xl-12">
-							<div class="card">
-							<div class="container">
-								<div class="col-12">
-									<div class="container">
-								</br>
-							<h5 class="">FOTO TEMPAT</h5>
-							<div class="row">
-								<img src="assets/img/tmp/layar.jpg" height="150" width="150">
-								<img src="assets/img/tmp/laya1.jpg" height="150" width="150">
-								<img src="assets/img/tmp/layar2.jpg" height="150" width="150">
-								<img src="assets/img/tmp/layar3.jpg" height="150" width="150">
-								<img src="assets/img/tmp/layar3.jpg" height="150" width="150">
-								</div>
-							</div>
-							</div>
-						</div>
-						<br/>
-						</div>
-					</div>
-				</div>
-			
-								<h2>Fasilitas</h2>
-			
-			<ul class="amenities">
-				<li class=""><img src="assets/img/wisata/1/toilet.png" height="23px"></img> Kamar mandi</li>
-				<li class=""><img src="assets/img/wisata/1/rest.png" height="23px"></img> Rest Area</li>
-				<li class=""><img src="assets/img/wisata/1/food.png" height="23px"></img> Food Court</li>
-				<li class=""><img src="assets/img/wisata/1/informasi.png" height="23px"></img> Pusat Informasi</li>
-				<li class=""><img src="assets/img/wisata/1/masjid.png" height="22px"></img> Musholla</li>
-				<li class=""><img src="assets/img/wisata/1/kipas.jpg" height="22px"></img> Kipas Angin</li>
-				<li class=""><img src="assets/img/wisata/1/plastik.png" height="22px"></img> Bawa pulang tersedia</li>
+	<div class="col-7">
+	<div class="card-body">
+	</br>
+<h6 class="text-dark">
+	   adalah sebuah tempat rekreasi dan taman belajar yang terdapat di Kota Batu, Jawa Timur. Objek wisata ini berada sekitar 20 km barat Kota Malang, dan kini menjadi salah satu icon wisata Jawa Timur.
+</h6>
 
-			</ul>	
+<h6>
+		Jatim Park juga dinobatkan sebagai juara 1 kategori wisata buatan berskala besar tingkat nasional oleh Menteri Pariwisata dan Ekonomi Kreatif, Mari Elka Pangestu Pada tahun 2003.
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+		<div class="col-sm-1 col-xl-12">
+				<div class="card">
+				<div class="container">
+					<div class="col-12">
+						<div class="container">
+					</br>
+				<h5 class="">Foto Dalam</h5>
+				<div class="row">
+					<img src="assets/img/wisata/d1.jpg" height="150" width="150">
+					<img src="assets/img/wisata/d2.jpg" height="150" width="150">
+					<img src="assets/img/wisata/d3.jpg" height="150" width="150">
+					<img src="assets/img/wisata/d4.jpg" height="150" width="150">
+					<img src="assets/img/wisata/d5.jpg" height="150" width="150">
+
+					</div>
+				</div>
+			</div>
+			<br/>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-1 col-xl-12">
+				<div class="card">
+				<div class="container">
+					<div class="col-12">
+						<div class="container">
+					</br>
+				<h5 class="">Foto Luar</h5>
+				<div class="row">
+					<img src="assets/img/wisata/l1.jpg" height="150" width="150">
+					<img src="assets/img/wisata/l2.jpg" height="150" width="150">
+					<img src="assets/img/wisata/l3.jpg" height="150" width="150">
+					<img src="assets/img/wisata/l4.jpg" height="150" width="150">
+					<img src="assets/img/wisata/l5.jpg" height="150" width="150">
+					</div>
+				</div>
+			</div>
+			<br/>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-1 col-xl-12">
+				<div class="card">
+				<div class="container">
+					<div class="col-12">
+						<div class="container">
+					</br>
+				<h5 class="">Foto Lainya</h5>
+				<div class="row">
+					<img src="assets/img/wisata/d1.jpg" height="150" width="150">
+					<img src="assets/img/wisata/l2.jpg" height="150" width="150">
+					<img src="assets/img/wisata/d3.jpg" height="150" width="150">
+					<img src="assets/img/wisata/d4.jpg" height="150" width="150">
+					<img src="assets/img/wisata/l5.jpg" height="150" width="150">
+					</div>
+				</div>
+			</div>
+			<br/>
+				</div>
+			</div>
+		</div>
+	</div>
+					<h2>Fasilitas</h2>
+
+<ul class="amenities">
+    <li class=""><img src="assets/img/wisata/1/toilet.png" height="23px"></img> Kamar mandi</li>
+    <li class=""><img src="assets/img/wisata/1/pasar.png" height="23px"></img> Pasar Wisata</li>
+    <li class=""><img src="assets/img/wisata/1/rest.png" height="23px"></img> Rest Area</li>
+    <li class=""><img src="assets/img/wisata/1/wifi.png" height="23px"></img> Wifi Gratis</li>
+    <li class=""><img src="assets/img/wisata/1/klinik.png" height="23px"></img> Klinik</li>
+    <li class=""><img src="assets/img/wisata/1/food.png" height="23px"></img> Food Court</li>
+    <li class=""><img src="assets/img/wisata/1/informasi.png" height="23px"></img> Pusat Informasi</li>
+    <li class=""><img src="assets/img/wisata/1/masjid.png" height="22px"></img> Musholla</li>
+</ul>	
+
 					<h2>Jadwal Buka</h2>
 
 <div class="opening-hours-wrapper">
     <table class="opening-hours">
-            <thead>
-                    <tr>
-                        <th>Senin</th>
-                        <th>Selasa</th>
-                        <th>Rabu</th>
-                    </tr>
-                </thead>
-        
-                <tbody>
-                    <tr>
-                        <td class="open">
-                            <span class="from">11.00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">11.00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">11.00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-                    </tr>
-                </tbody>
+        <thead>
+            <tr>
+                <th>Buka setiap hari 24 jam</th>
+            </tr>
+        </thead>
     </table>
-</div><!-- /.opening-hours-wrapper -->	
- 
+</div><!-- /.opening-hours-wrapper -->		
+
 					<h2>Lokasi Tujuan</h2>
 
-<div id="listing-position">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.652821686964!2d112.76537811427951!3d-7.280285594745218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fa33a25d2beb%3A0x4bd9c5d2f4aae059!2sLayar%20Seafood!5e0!3m2!1sen!2sid!4v1582106923083!5m2!1sen!2sid" width="800" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</div><!-- /.listing-position -->				
+					<div id="listing-position">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.1551984838434!2d112.51795691432737!3d-7.878825080537195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78872dd3cd2c13%3A0x3295038cd23c1d38!2sMuseum%20Angkut!5e0!3m2!1sid!2sid!4v1582433828969!5m2!1sid!2sid" width="810" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+					</div><!-- /.listing-position -->				
 
-								
+									
 					
-				 	<h2>3 komentar</h2>
+<h2>3 komentar</h2>
 
 <ul class="comments">
 	<li>
 		<div class="comment">			
 			<div class="comment-author">
-				<a href="#" style="background-image: url('assets/img/tmp/ayam.jpg');"></a>
+				<a href="#" style="background-image: url('assets/img/tmp/user-2.jpg');"></a>
 			</div><!-- /.comment-author -->
 
 			<div class="comment-content">			
@@ -212,28 +201,28 @@
 						<i class="md-icon">star</i>
 						<i class="md-icon">star</i>
 						<i class="md-icon">star</i>
-						<i class="md-icon">star</i>
 					</div><!-- /.comment-rating -->
 					Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
 				</div><!-- /.comment-body -->
 			</div><!-- /.comment-content -->
 		</div><!-- /.comment -->		
 
+
 		<ul>
 			<li>
 				<div class="comment">			
 					<div class="comment-author">
-						<a href="#" style="background-image: url('assets/img/tmp/ayam2.jpg');"></a>
+						<a href="#" style="background-image: url('assets/img/tmp/user-7.jpg');"></a>
 					</div><!-- /.comment-author -->
 
 					<div class="comment-content">			
 						<div class="comment-meta">
 							<div class="comment-meta-author">
-								Di posting oleh <a href="#">Pengguna</a>
+								Posted by <a href="#">Pengguna</a>
 							</div><!-- /.comment-meta-author -->
 
 							<div class="comment-meta-reply">
-								<a href="#">Balasan</a>
+								<a href="#">Reply</a>
 							</div>
 
 							<div class="comment-meta-date">
@@ -249,7 +238,8 @@
 								<i class="fa fa-star-half-o"></i>
 								<i class="fa fa-star-o"></i>
 							</div><!-- /.comment-rating -->
-							Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+
+							Donec malesuada orci et mi fermentum, ac tincidunt arcu tincidunt. Ut fringilla tellus sem, quis rhoncus dolor condimentum id. Vivamus ut commodo felis. Fusce in lacus egestas, mattis ex et, molestie est.
 						</div><!-- /.comment-body -->
 					</div><!-- /.comment-content -->
 				</div><!-- /.comment -->									
@@ -266,11 +256,11 @@
 			<div class="comment-content">			
 				<div class="comment-meta">
 					<div class="comment-meta-author">
-						Di posting oleh <a href="#">Pengguna</a>
+						Posted by <a href="#">Pengguna</a>
 					</div><!-- /.comment-meta-author -->
 
 					<div class="comment-meta-reply">
-						<a href="#">Balasan</a>
+						<a href="#">Reply</a>
 					</div>
 
 					<div class="comment-meta-date">
@@ -286,7 +276,8 @@
 						<i class="fa fa-star"></i>
 						<i class="fa fa-star-half-o"></i>
 					</div><!-- /.comment-rating -->
-					Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+
+					Integer condimentum sodales metus, quis pellentesque nisi tempor at. Quisque ornare efficitur risus eu bibendum. Donec feugiat consequat magna in interdum. Donec malesuada orci et mi fermentum
 				</div><!-- /.comment-body -->
 			</div><!-- /.comment-content -->
 		</div><!-- /.comment -->		
@@ -316,11 +307,10 @@
 					<input type="email" class="form-control">
 				</div><!-- /.form-group -->
 			</div><!-- /.col-* -->
-						
 		</div><!-- /.row -->
 
 		<div class="form-group-btn">
-			<a href="#" class="btn btn-primary btn-large pull-right">Kirim komentar</a>
+			<a href="#" class="btn btn-primary btn-large pull-right">Kirim Ulasan</a>
 		</div><!-- /.form-group-btn -->
 	</form>
 </div><!-- /.comment-create -->
@@ -333,12 +323,15 @@
 				<div class="widget">
     <div class="overview">        
         <ul>
-            <li><strong>Harga</strong><span>Rp. 100.000 - Rp. 200.000 /orang </span></li>
-            <li><strong>Lokasi</strong><span>Jl. Manyar Kertoarjo No.62-64, Manyar Sabrangan, Kec. Mulyorejo, Kota SBY, Jawa Timur 60285</span></li>
-			<li><strong>Kategori</strong><span>Restaurant</span></li>
-			<li><strong>Ratings</strong><span>4.6 by 5,551 reviews</span></li>
-            <li><strong>No Telp</strong><span>(031) 5947666</span></li>
-            <li><strong>Website</strong><span><a href="layarseafood.com"></a></span></li>                    
+            <li><strong>Harga</strong><span>Hari Senin-Kamis (weekdays)  : <br/> Rp. 70.000,-
+				<br/>
+				<br/>
+					Hari Jumat-Minggu (weekend) : <br/> Rp. 100.000,-</span></li>
+            <li><strong>Lokasi</strong><span>Jl. Terusan Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65314</span></li>
+			<li><strong>Kategory</strong><span>Wisata</span></li>
+			<li><strong>Ratings</strong><h6><span>4.7 by 41,944 reviews</span></li>
+            <li><strong>No Telp</strong><span>(0274) 540790</span></li>
+            <li><strong>Website</strong><span><a href="jtp.id"></a>jtp.id</span></li>                    
         </ul>
     </div><!-- /.overview -->
 </div><!-- /.widget -->
@@ -347,15 +340,15 @@
 	<h2 class="widgettitle">Kontak Informasi</h2>
 
 	<ul class="contact">
-		<li><i class="md-icon">email</i> <a href="layarseafood.com">layarseafood.com</a></span></li>
-		<li><i class="md-icon">link</i> <a href="#">layarseafood.com</a></li>
-		<li><i class="md-icon">phone</i>(031) 5947666</li>
-		<li><i class="md-icon">location_on</i>Jl. Manyar Kertoarjo No.62-64, Manyar Sabrangan, Kec. Mulyorejo, Kota SBY, Jawa Timur 60285</li>
+		<li><i class="md-icon">email</i> <a href="jtp.id">jtp.id</a></li>
+		<li><i class="md-icon">link</i> <a href="#">jtp.id</a></li>
+		<li><i class="md-icon">phone</i> +01-23-456-789</li>
+		<li><i class="md-icon">location_on</i>Jl. Terusan Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65314</li>
 	</ul>
 </div><!-- /.widget -->
 
 				<div class="widget widget-background-white">
-    <h3 class="widgettitle">Formulir</h3>
+    <h3 class="widgettitle">Formulir Pertanyaan</h3>
 
     <form method="post" action="?">
         <div class="form-group">

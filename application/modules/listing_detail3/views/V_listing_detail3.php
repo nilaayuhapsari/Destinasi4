@@ -1,5 +1,4 @@
-
-    <div class="main-wrapper">
+<div class="main-wrapper">
 	    <div class="main">
 	        <div class="main-inner">
 	        	
@@ -7,10 +6,11 @@
 	            <div class="content">
 	                <div class="content-title">
 	<div class="container">
-		<h1>Sate Kambing</h1>
+		<h1>Flora wisata San Terra</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="listings-map.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
 </div><!-- /.content-title -->
@@ -39,174 +39,140 @@
 			<div class="push-top-bottom">
 				<div class="listing-detail">
 					<div class="gallery">
-    <div class="gallery-item" style="background-image: url('assets/img/tmp/gallery/Satel.jpg');"> 
+    <div class="gallery-item" style="background-image: url('assets/img/wisata/3.jpg');"> 
         <div class="gallery-item-description">
+            Hiasan lampu warna warni pada malam hari
             </div><!-- /.gallery-item-description -->
     </div><!-- /.gallery-item -->            
 
-    <div class="gallery-item" style="background-image: url('assets/img/tmp/gallery/sate.jpg');">
+    <div class="gallery-item" style="background-image: url('assets/img/wisata/3.jpg');">
         <div class="gallery-item-description">
         </div><!-- /.gallery-item-description -->
     </div><!-- /.gallery-item -->                
 
-    <div class="gallery-item" style="background-image: url('assets/img/tmp/gallery/te.jpg');">
+    <div class="gallery-item" style="background-image: url('assets/img/wisata/3.jpg');">
         <div class="gallery-item-description">
-        </div><!-- /.gallery-item-description -->    
+        </div><!-- /.gallery-item-description -->  
     </div><!-- /.gallery-item -->                 
 </div><!-- /.gallery -->
-
-<h2>Deskripsi Tempat </h2>
+<h2>Deskripsi Tempat</h2>
 <div class="card">
 	<div class="container">
-		<div class="col-7">
-			<div class="card-body">
-			</br>
-	<p> Berawal dari Sate Gerobak
-        Sate Bunul H. Paino persisnya berada di samping Pasar Bunul, Jalan Raya Bunul Kota Malang. Dibuka mulai pukul 10.00 hingga pukul 22.00. Satenya Bunul H. Paino terkenal dengan keempukannya. Bakarannya pas, rasa gulenya juga sedap. Lebih menggoyang lidah bila ditambah dengan jeruk nipis dan sambal yang ada di atas meja. Rasanya, makin mantap.
-        Biasanya, warung Sate Bunul H. Paino ramai pada saat jam makan siang ataupun menjelang makan malam. Sudah tentu, belasan kursi dan meja yang disediakan, pasti penuh. Saat ini, warung itu sudah memiliki dua tempat makan yang nyaman. Satu ruangan untuk pengunjung yang ingin bebas dari asap rokok, dan satu ruangan lagi khusus untuk perokok.</p>
+	<div class="col-7">
+	<div class="card-body">
+	</br>
+<h6 class="text-dark">
+	   adalah sebuah tempat rekreasi dan taman belajar yang terdapat di Kota Batu, Jawa Timur. Objek wisata ini berada sekitar 20 km barat Kota Malang, dan kini menjadi salah satu icon wisata Jawa Timur.
+</h6>
+
+<h6>
+		Jatim Park juga dinobatkan sebagai juara 1 kategori wisata buatan berskala besar tingkat nasional oleh Menteri Pariwisata dan Ekonomi Kreatif, Mari Elka Pangestu Pada tahun 2003.
 </div>
-    </div>
-	    </div>
+</div>
+</div>
+</div>
+<div class="row">
+		<div class="col-sm-1 col-xl-12">
+				<div class="card">
+				<div class="container">
+					<div class="col-12">
+						<div class="container">
+					</br>
+				<h5 class="">Foto Dalam</h5>
+				<div class="row">
+					<img src="assets/img/wisata/o.jpg" height="150" width="150">
+					<img src="assets/img/wisata/p.jpg" height="150" width="150">
+					<img src="assets/img/wisata/q.jpg" height="150" width="150">
+					<img src="assets/img/wisata/r.jpg" height="150" width="150">
+					<img src="assets/img/wisata/s.jpg" height="150" width="150">
+					</div>
+				</div>
 			</div>
-			<div class="row">
-					<div class="col-sm-1 col-xl-12">
-						<div class="cards-wrapper">
-							<div class="card">
-							<div class="container">
-								<div class="col-12">
-									<div class="container">
-								</br>
-								<h5 class="">FOTO TEMPAT</h5>
-								<div class="row">
-									<img src="assets/img/tmp/sate.jpg" height="150" width="150">
-									<img src="assets/img/tmp/sate.jpg" height="150" width="150">
-									<img src="assets/img/tmp/sate.jpg" height="150" width="150">
-									<img src="assets/img/tmp/sate.jpg" height="150" width="150">
-									<img src="assets/img/tmp/sate.jpg" height="150" width="150">
-									</div>
-							</div>
-							</div>
-						</div>
-						<br/>
-							</div>
-						</div>
-					</div>
+			<br/>
 				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-1 col-xl-12">
+				<div class="card">
+				<div class="container">
+					<div class="col-12">
+						<div class="container">
+					</br>
+				<h5 class="">Foto Luar</h5>
 				<div class="row">
-					<div class="col-sm-1 col-xl-12">
-						<div class="cards-wrapper">
-							<div class="card">
-							<div class="container">
-								<div class="col-12">
-									<div class="container">
-								</br>
-								<h5 class="">FOTO MAKANAN</h5>
-								<div class="row">
-									<img src="assets/img/tmp/smm.jpg" height="150" width="150">
-									<img src="assets/img/tmp/smm.jpg" height="150" width="150">
-									<img src="assets/img/tmp/smm.jpg" height="150" width="150">
-									<img src="assets/img/tmp/smm.jpg" height="150" width="150">
-									<img src="assets/img/tmp/smm.jpg" height="150" width="150">
-									</div>
-							</div>
-							</div>
-						</div>
-						<br/>
-							</div>
-						</div>
+					<img src="assets/img/wisata/t.jpg" height="150" width="150">
+					<img src="assets/img/wisata/u.jpg" height="150" width="150">
+					<img src="assets/img/wisata/v.jpg" height="150" width="150">
+					<img src="assets/img/wisata/w.jpg" height="150" width="150">
+					<img src="assets/img/wisata/x.jpg" height="150" width="150">
+
 					</div>
 				</div>
+			</div>
+			<br/>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-1 col-xl-12">
+				<div class="card">
+				<div class="container">
+					<div class="col-12">
+						<div class="container">
+					</br>
+				<h5 class="">Foto Lainyya</h5>
 				<div class="row">
-					<div class="col-sm-1 col-xl-12">
-							<div class="card">
-							<div class="container">
-								<div class="col-12">
-									<div class="container">
-								</br>
-								<h5 class="">FOTO MINUMAN</h5>
-								<div class="row">
-									<img src="assets/img/tmp/ngombe.jpg" height="150" width="150">
-									<img src="assets/img/tmp/ngombe.jpg" height="150" width="150">
-									<img src="assets/img/tmp/ngombe.jpg" height="150" width="150">
-									<img src="assets/img/tmp/ngombe.jpg" height="150" width="150">
-									<img src="assets/img/tmp/ngombe.jpg" height="150" width="150">
-									</div>
-							</div>
-							</div>
-						</div>
-						<br/>
-						</div>
+					<img src="assets/img/wisata/q.jpg" height="150" width="150">
+					<img src="assets/img/wisata/s.jpg" height="150" width="150">
+					<img src="assets/img/wisata/v.jpg" height="150" width="150">
+					<img src="assets/img/wisata/p.jpg" height="150" width="150">
+					<img src="assets/img/wisata/o.jpg" height="150" width="150">
+
 					</div>
 				</div>
-			
-								<h2>Fasilitas</h2>
-			
-			<ul class="amenities">
-					<li class=""><img src="assets/img/wisata/1/toilet.png" height="23px"></img> Kamar mandi</li>
-					<li class=""><img src="assets/img/wisata/1/parkir.jpg" height="23px"></img> Parkir</li>
-					<li class=""><img src="assets/img/wisata/1/pasar.png" height="23px"></img> Pasar</li>
-					<li class=""><img src="assets/img/wisata/1/food.png" height="23px"></img> Food Court</li>
-			</ul>	
+			</div>
+			<br/>
+				</div>
+			</div>
+		</div>
+	</div>
+					<h2>Fasilitas</h2>
+
+<ul class="amenities">
+    <li class=""><img src="assets/img/wisata/1/toilet.png" height="23px"></img> Kamar mandi</li>
+    <li class=""><img src="assets/img/wisata/1/pasar.png" height="23px"></img> Pasar Wisata</li>
+    <li class=""><img src="assets/img/wisata/1/rest.png" height="23px"></img> Rest Area</li>
+    <li class=""><img src="assets/img/wisata/1/wifi.png" height="23px"></img> Wifi Gratis</li>
+    <li class=""><img src="assets/img/wisata/1/klinik.png" height="23px"></img> Klinik</li>
+    <li class=""><img src="assets/img/wisata/1/food.png" height="23px"></img> Food Court</li>
+    <li class=""><img src="assets/img/wisata/1/informasi.png" height="23px"></img> Pusat Informasi</li>
+    <li class=""><img src="assets/img/wisata/1/masjid.png" height="22px"></img> Musholla</li>
+</ul>	
 
 					<h2>Jadwal Buka</h2>
 
 <div class="opening-hours-wrapper">
     <table class="opening-hours">
-            <thead>
-                    <tr>
-                        <th>Senin</th>
-                        <th>Selasa</th>
-                        <th>Rabu</th>
-                        <th>Kamis</th>
-                        <th>Jum'at</th>
-                        <th>Sabtu</th>
-                        <th>Minggu</th>
-                    </tr>
-                </thead>
-        
-                <tbody>
-                    <tr>
-                        <td class="open">
-                            <span class="from">10:00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">10:00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">10:00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">10:00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">10:00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">10:00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-        
-                        <td class="other-day">
-                            <span class="from">10:00 am</span> <span class="separator">-</span> <span class="to">22:00 pm</span>                        
-                        </td>
-                    </tr>
-                </tbody>
+        <thead>
+            <tr>
+                <th>Buka setiap hari 24 jam</th>
+            </tr>
+        </thead>
     </table>
-</div><!-- /.opening-hours-wrapper -->	
- 
+</div><!-- /.opening-hours-wrapper -->		
+
 					<h2>Lokasi Tujuan</h2>
 
-<div id="listing-position">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.2528296644496!2d112.64427941428467!3d-7.972801394257735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd628465571d9d1%3A0x20be5b208eadd659!2sSate%20Bunul%20Hj.Paino!5e0!3m2!1sen!2sid!4v1582106736309!5m2!1sen!2sid" width="800" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</div><!-- /.listing-position -->				
+					<div id="listing-position">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.387770856782!2d112.48330321432712!3d-7.854422980241609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78876ffdc1c6f5%3A0x700544497a18f08f!2sFLORAWISATA%20San%20Terra!5e0!3m2!1sid!2sid!4v1582433265916!5m2!1sid!2sid" width="810" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+					</div><!-- /.listing-position -->				
 
 									
 					
-				 	<h2>3 komentar</h2>
+<h2>3 komentar</h2>
 
 <ul class="comments">
 	<li>
@@ -218,7 +184,7 @@
 			<div class="comment-content">			
 				<div class="comment-meta">
 					<div class="comment-meta-author">
-						Di posting oleh <a href="#">Pengguna</a>
+						Di posting oleh <a href="#">admin</a>
 					</div><!-- /.comment-meta-author -->
 
 					<div class="comment-meta-reply">
@@ -236,12 +202,12 @@
 						<i class="md-icon">star</i>
 						<i class="md-icon">star</i>
 						<i class="md-icon">star</i>
-						<i class="md-icon">star</i>
 					</div><!-- /.comment-rating -->
 					Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
 				</div><!-- /.comment-body -->
 			</div><!-- /.comment-content -->
 		</div><!-- /.comment -->		
+
 
 		<ul>
 			<li>
@@ -253,11 +219,11 @@
 					<div class="comment-content">			
 						<div class="comment-meta">
 							<div class="comment-meta-author">
-								Di posting oleh <a href="#">Pengguna</a>
+								Posted by <a href="#">Pengguna</a>
 							</div><!-- /.comment-meta-author -->
 
 							<div class="comment-meta-reply">
-								<a href="#">Balasan</a>
+								<a href="#">Reply</a>
 							</div>
 
 							<div class="comment-meta-date">
@@ -273,7 +239,8 @@
 								<i class="fa fa-star-half-o"></i>
 								<i class="fa fa-star-o"></i>
 							</div><!-- /.comment-rating -->
-							Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+
+							Donec malesuada orci et mi fermentum, ac tincidunt arcu tincidunt. Ut fringilla tellus sem, quis rhoncus dolor condimentum id. Vivamus ut commodo felis. Fusce in lacus egestas, mattis ex et, molestie est.
 						</div><!-- /.comment-body -->
 					</div><!-- /.comment-content -->
 				</div><!-- /.comment -->									
@@ -290,11 +257,11 @@
 			<div class="comment-content">			
 				<div class="comment-meta">
 					<div class="comment-meta-author">
-						Di posting oleh <a href="#">Pengguna</a>
+						Posted by <a href="#">Pengguna</a>
 					</div><!-- /.comment-meta-author -->
 
 					<div class="comment-meta-reply">
-						<a href="#">Balasan</a>
+						<a href="#">Reply</a>
 					</div>
 
 					<div class="comment-meta-date">
@@ -310,7 +277,8 @@
 						<i class="fa fa-star"></i>
 						<i class="fa fa-star-half-o"></i>
 					</div><!-- /.comment-rating -->
-					Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+
+					Integer condimentum sodales metus, quis pellentesque nisi tempor at. Quisque ornare efficitur risus eu bibendum. Donec feugiat consequat magna in interdum. Donec malesuada orci et mi fermentum
 				</div><!-- /.comment-body -->
 			</div><!-- /.comment-content -->
 		</div><!-- /.comment -->		
@@ -340,11 +308,10 @@
 					<input type="email" class="form-control">
 				</div><!-- /.form-group -->
 			</div><!-- /.col-* -->
-						
 		</div><!-- /.row -->
 
 		<div class="form-group-btn">
-			<a href="#" class="btn btn-primary btn-large pull-right">Kirim komentar</a>
+			<a href="#" class="btn btn-primary btn-large pull-right">Kirim Ulasan</a>
 		</div><!-- /.form-group-btn -->
 	</form>
 </div><!-- /.comment-create -->
@@ -357,14 +324,14 @@
 				<div class="widget">
     <div class="overview">        
         <ul>
-            <li><strong>Harga</strong><span>Sate Kambing Rp.33.000-43.000
-                <div></div>
-                Sate Ayam Rp.23.000-33.000
-            </span></li>
-            <li><strong>Lokasi</strong><span>No.315, Jalan Hamid Rusdi Timur No.IV, Bunulrejo, Blimbing, Bunulrejo, Kec. Blimbing, Kota Malang, Jawa Timur 65123</span></li>
-			<li><strong>Kategori</strong><span>Satay Restaurant</span></li>
-			<li><strong>Ratings</strong><span>4.9 by 955 reviews</span></li>
-            <li><strong>No Telp</strong><span>(0341) 322934</span></li>
+            <li><strong>Harga</strong><span>Weekday Rp.20.000
+				<br/>
+				Weekend Rp.25.000
+			</span></li>
+            <li><strong>Lokasi</strong><span>Jl. Truno Joyo, Jurangrejo, Pandesari, Kec. Pujon, Malang, Jawa Timur 65391</span></li>
+			<li><strong>Kategory</strong><span>Wisata</span></li>
+			<li><strong>Ratings</strong><h6><span>4.5 by 6,44 reviews</span></li>
+            <li><strong>No Telp</strong><span>0852-3235-1435</span></li>
             <li><strong>Website</strong><span><a href="http://example.com">example.com</a></span></li>                    
         </ul>
     </div><!-- /.overview -->
@@ -376,13 +343,13 @@
 	<ul class="contact">
 		<li><i class="md-icon">email</i> <a href="mailto:hi@example.com">hi@example.com</a></li>
 		<li><i class="md-icon">link</i> <a href="#">example.com</a></li>
-		<li><i class="md-icon">phone</i>(0341) 322934</li>
-		<li><i class="md-icon">location_on</i>No.315, Jalan Hamid Rusdi Timur No.IV, Bunulrejo, Blimbing, Bunulrejo, Kec. Blimbing, Kota Malang, Jawa Timur 65123</li>
+		<li><i class="md-icon">phone</i>0852-3235-1435</li>
+		<li><i class="md-icon">location_on</i>  Jl. Truno Joyo, Jurangrejo, Pandesari, Kec. Pujon, Malang, Jawa Timur 65391</li>
 	</ul>
 </div><!-- /.widget -->
 
 				<div class="widget widget-background-white">
-    <h3 class="widgettitle">Formulir</h3>
+    <h3 class="widgettitle">Formulir Pertanyaan</h3>
 
     <form method="post" action="?">
         <div class="form-group">

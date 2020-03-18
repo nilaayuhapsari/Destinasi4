@@ -11,7 +11,7 @@
 
 				<div class="input-group col-sm-12 col-md-9">
 						<div class="input-group-addon">
-							<i class="md-icon">searchoi</i>
+							<i class="md-icon">search</i>
 						</div><!-- /.input-group-addon -->
 				
 						<div class="form-group">
