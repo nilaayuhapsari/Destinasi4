@@ -68,8 +68,8 @@
                                     <td><a href="#">Wisata</a></td>
                                     <td>
 
-                                        <a href="admin-detail-listings2.html" class="btn btn-info">Detail</a>
-                                        <a href="admin-detail-kategori.html" class="btn btn-warning">Edit</a>
+                                        <a href="admin_detail_listings2" class="btn btn-info">Detail</a>
+                                        <a href="admin_detail_kategori" class="btn btn-warning">Edit</a>
                                         <a href="#" class="btn btn-danger"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                 </tr>
@@ -80,8 +80,8 @@
                                     <td><a href="#">Wisata</a></td>
                                     <td>
 
-                                        <a href="admin-detail-kategori.html" class="btn btn-info">Detail</a>
-                                        <a href="#" class="btn btn-warning">Edit</a>
+                                        <a href="admin_detail_listings2" class="btn btn-info">Detail</a>
+                                        <a href="admin_detail_kategori" class="btn btn-warning">Edit</a>
                                         <a href="#" class="btn btn-danger"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
                                 </tr>
@@ -92,7 +92,7 @@
                                     <td><a href="#">Kuliner</a></td>
                                     <td>
 
-                                        <a href="admin-detail-kategori.html" class="btn btn-info">Detail</a>
+                                        <a href="admin_detail_listings2" class="btn btn-info">Detail</a>
                                         <a href="#" class="btn btn-warning">Edit</a>
                                         <a href="#" class="btn btn-danger"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
@@ -104,7 +104,7 @@
                                     <td><a href="#">Food &amp; Drink</a></td>
                                     <td>
 
-                                        <a href="admin-detail-kategori.html" class="btn btn-info">Detail</a>
+                                        <a href="admin_detail_listings2" class="btn btn-info">Detail</a>
                                         <a href="#" class="btn btn-warning">Edit</a>
                                         <a href="#" class="btn btn-danger"><i class="md-icon">delete</i> Hapus</a>
                                     </td>
