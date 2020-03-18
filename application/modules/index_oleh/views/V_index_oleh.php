@@ -43,7 +43,7 @@
 		<div class="form-group-btn form-group-btn-placeholder-gap">
 			<a href="<?=base_url ('listings_map2'); ?>"><button type="submit" class="btn btn-primary btn-block">Cari</button></a>
 		</div><!-- /.form-group -->		
-	</div><!-- /.col-* -->			
+	</div><!-- /.col-* -->					
 </div><!-- /.row --> 
 	</div><!-- /.filter -->
 
@@ -69,8 +69,13 @@
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
+<<<<<<< HEAD
 		<a href="<?=base_url ('destinasi'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
 		<a href="<?=base_url ('destinasi'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+=======
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+>>>>>>> 8fa0536052f5d9a5691748f41f7033f798645667
 		<a href="<?=base_url ('destinasi'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->

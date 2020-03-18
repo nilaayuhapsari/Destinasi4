@@ -38,11 +38,19 @@
 
                     <li class="nav-item">
                         <a href="<?= base_url ('admin_listings'); ?>" class="nav-link"><i class="md-icon">view_list</i> List Ajuan <span>3</span></a>
+<<<<<<< HEAD
 					</li>
 					
 					<li class="nav-item">
 						<a href="<?= base_url('data');?>" class="nav-link"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
 					</li>
+=======
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a href="<?= base_url('data');?>" class="nav-link"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
+                    </li>
+>>>>>>> 8fa0536052f5d9a5691748f41f7033f798645667
 
                     <li class="nav-item">
                         <a href="<?= base_url ('admin_reviews'); ?>" class="nav-link "><i class="md-icon">rate_review</i> Komentar</a>
@@ -62,6 +70,7 @@
                 </ul>
             </div>
 
+
             <hr class="hidden-md-down">
 
         </div>
@@ -76,6 +85,11 @@
                         </ul>
 
                         <ul class="nav nav-pills secondary">
+                            <li class="nav-item user-avatar-wrapper hidden-sm-down">
+                                <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
+                                <span class="user-avatar-status"></span>
+
+                                <ul class="nav nav-pills secondary">
                             <li class="nav-item user-avatar-wrapper hidden-sm-down">
                                 <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
                                 <span class="user-avatar-status"></span>
