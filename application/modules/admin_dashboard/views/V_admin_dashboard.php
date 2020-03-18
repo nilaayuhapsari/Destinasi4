@@ -133,7 +133,7 @@
 						
 					</table>
 				</div><!-- /.admin-box -->
-				<a href="<?= base_url ('admin_listings') ?>"><DIV class="text-right"><h6 class="text-primary"><b>Lihat Selengkapnya</b></h6></DIV></a>
+				<a href="admin_listings"><DIV class="text-right"><h6 class="text-primary"><b>Lihat Selengkapnya</b></h6></DIV></a>
 			</div><!-- /.col-* -->
 	</div><!-- row -->
 
