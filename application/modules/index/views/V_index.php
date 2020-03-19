@@ -652,7 +652,7 @@
 									<div class="col-sm-5 col-md-3">
 										<div class="card">
 				<div class="card-image" style="background-image: url('assets/img/oleh/1.jpg');">
-					<a href="o1.html"></a> 
+					<a href="<?=base_url ('o1'); ?>"></a> 
 			
 					<div class="card-image-rating">
 						<i class="md-icon">star</i>
@@ -664,14 +664,14 @@
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="o1.html">Pusat Oleh oleh</a></h3>
-					<h2><a href="o1.html">Istana Oleh-oleh Brawijaya Batu</a></h2>
+					<h3><a href="<?=base_url ('o1'); ?>">Pusat Oleh oleh</a></h3>
+					<h2><a href="<?=base_url ('o1'); ?>">Istana Oleh-oleh Brawijaya Batu</a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="<?=base_url ('o1'); ?>" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 									</div><!-- /.col-* -->
