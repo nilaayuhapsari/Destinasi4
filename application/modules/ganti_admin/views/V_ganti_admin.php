@@ -22,8 +22,8 @@
 					<!-- <div class="form-group-btn"> -->
 							<div class="form-group-bottom-link">
 								<center>
-									<b><a href="<?=base_url ('ganti'); ?>" class="btn btn-primary">Batal</a></b>
-									<b><a href="<?=base_url ('login_admin'); ?>" class="btn btn-primary">Simpan Perubahan</a></b>
+									<b><a href="<?=base_url ('ganti.html'); ?>" class="btn btn-primary">Batal</a></b>
+									<b><a href="<?=base_url ('login_admin.html'); ?>" class="btn btn-primary">Simpan Perubahan</a></b>
 								</center>
 								</br></br></br>
 								</div><!-- /.form-group-bottom-link -->
