@@ -3,7 +3,7 @@
 		<div class="col-lg-4 col-lg-offset-4">
 			<form method="post">
 				<div class="form-group">
-					<label for="">Tuliskan alamat e-mail anda untuk mengirim password anda</label>
+					<label for="">Tuliskan alamat e-mail anda untuk mengirim password anda sekarang</label>
 					<input type="text" class="form-control">
 				</div><!-- /.form-group -->
 
