@@ -24,7 +24,7 @@
 				</div><!-- /.form-group-btn -->
 
 				<div class="form-group-bottom-link">
-					<a href="<?=base_url ('reset_password'); ?>"><i class="fa fa-primary pull-left">Lupa Kata Sandi?</i></a>
+					<a href="<?=base_url ('reset_admin'); ?>"><i class="fa fa-primary pull-left">Lupa Kata Sandi?</i></a>
 					<a href="<?=base_url ('ganti'); ?>"><i class="fa fa-primary pull-right">Ganti Password?</i></a>
 				</div><!-- /.form-group-bottom-link -->
 				</div><!-- /.form-group-bottom-link -->
