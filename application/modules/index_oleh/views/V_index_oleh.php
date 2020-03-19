@@ -69,8 +69,6 @@
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="<?=base_url ('destinasi'); ?>" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="<?=base_url ('destinasi'); ?>"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
 		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
 		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
 		<a href="<?=base_url ('destinasi'); ?>" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>

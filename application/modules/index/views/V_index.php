@@ -46,9 +46,9 @@
 			<strong class="hidden-sm-down">Atau cari berdasrkan kategori</strong>
 
 			<ul>
-				<li><a href="listings-map.html">Wisata</a></li>
-				<li><a href="index_kuliner.html">Kuliner</a></li>
-				<li><a href="index_oleh.html">Oleh-Oleh</a></li>
+				<li><a href="<?=base_url ('index_wisata'); ?>">Wisata</a></li>
+				<li><a href="<?=base_url ('index_kuliner'); ?>">Kuliner</a></li>
+				<li><a href="<?=base_url ('index_oleh'); ?>">Oleh-Oleh</a></li>
 			</ul>
 		</div>
 	</div><!-- /.container -->
@@ -70,7 +70,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line" style="background-image: url('assets/img/wisata/borobudur.jpg');">
-									<a href="listings-map.html"></a>
+									<a href="<?=base_url ('index_wisata'); ?>"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">room</i>
@@ -84,9 +84,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="listings-map.html">Wisata</a>
+										<a href="<?=base_url ('index_wisata'); ?>">Wisata</a>
 		
-										<a href="listings-map.html" class="btn btn-transparent">Show All</a>
+										<a href="<?=base_url ('index_wisata'); ?>" class="btn btn-transparent">Selengkapnya</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -95,7 +95,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png');">
-									<a href="index_kuliner.html"></a>
+									<a href="<?=base_url ('index_kuliner'); ?>"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">restaurant_menu</i>
@@ -109,9 +109,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="index_kuliner.html">Kuliner</a>
+										<a href="<?=base_url ('index_kuliner'); ?>">Kuliner</a>
 		
-										<a href="index_kuliner.html" class="btn btn-transparent">Show All</a>
+										<a href="<?=base_url ('index_kuliner'); ?>" class="btn btn-transparent">Selengkapnya</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -120,7 +120,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line" style="background-image: url('assets/img/oleh/legong3.jpg');">
-									<a href="index_oleh.html"></a>
+									<a href="<?=base_url ('index_oleh'); ?>"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">event</i>
@@ -134,9 +134,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="index_oleh.html">Oleh-oleh</a>
+										<a href="<?=base_url ('index_oleh'); ?>">Oleh-oleh</a>
 		
-										<a href="index_oleh.html" class="btn btn-transparent">Show All</a>
+										<a href="<?=base_url ('index_oleh'); ?>" class="btn btn-transparent">Selengkapnya</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -373,7 +373,7 @@
 </div><!-- /.card -->
 						</div><!-- /.col-* -->
 		<div class="col-md-3">
-		<a href="listings-map.html" class="btn btn-primary text-center">Lihat lebih banyak</a>
+		<a href="<?=base_url ('index_wisata'); ?>" class="btn btn-primary text-center">Lihat lebih banyak</a>
 		</div><!-- /.form-group -->		
 				</div><!-- /.row -->
 			</div><!-- /.card-wrapper -->
@@ -626,7 +626,7 @@
 	</div><!-- /.card -->
 							</div><!-- /.col-* -->
 		<div class="col-md-3">
-		<a href="index_kuliner.html" class="btn btn-primary">Lihat lebih banyak</a>
+		<a href="<?=base_url ('index_kuliner'); ?>" class="btn btn-primary">Lihat lebih banyak</a>
 		</div><!-- /.form-group -->		
 					</div><!-- /.row -->
 				</div><!-- /.card-wrapper -->
@@ -863,7 +863,7 @@
 			</div><!-- /.card -->
 									</div><!-- /.col-* -->
 				<div class="col-md-3">
-				<a href="index_oleh.html" class="btn btn-primary">Lihat lebih banyak</a>
+				<a href="<?=base_url ('index_oleh'); ?>" class="btn btn-primary">Lihat lebih banyak</a>
 				</div><!-- /.form-group -->		
 			</div><!-- /.col-* -->
 							</div><!-- /.row -->
