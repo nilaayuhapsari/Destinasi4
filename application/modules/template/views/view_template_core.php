@@ -40,17 +40,8 @@
 							</li>
                             
                             <li class="nav-item has-submenu">
-									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
-								<a href="<?=base_url ('index'); ?>" class="nav-link ">Halaman Utama</a>							
+									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>						
 							</li>
-
-							<li class="nav-item has-submenu">
-								<a href="<?=base_url ('listings'); ?>" class="nav-link active">Buat Jadwal</a>
-							</li>
-                            
-                            <li class="nav-item has-submenu">
-									<a href="<?=base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
-								</li>
 						</ul><!-- /.nav -->
 					</div><!-- /.nav-primary-wrapper -->
 
@@ -99,24 +90,6 @@
 
 						
 					</div><!-- /.container -->
-				</div><!-- /.header-bottom -->		
-				
-                        <ul class="nav nav-pills">
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                            <li class="nav-item"><a href="<?=base_url ('index_wisata'); ?>" class="nav-link">WISATA</a></li>
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                            <li class="nav-item"><a href="<?=base_url ('index_kuliner'); ?>" class="nav-link">KULINER</a></li>
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                            <li class="nav-item"><a href="<?= base_url ('index_oleh'); ?>" class="nav-link">OLEH-OLEH</a></li>
-                            <li class="nav-item"><a href="" class="nav-link">   </a></li>
-                        </ul><!-- /.nav -->
-
-                        
-                    </div><!-- /.container -->
                 </div><!-- /.header-bottom -->      
 		</div><!-- /.header-inner -->
 	</div><!-- /.header -->
