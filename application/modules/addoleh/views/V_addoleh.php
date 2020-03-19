@@ -15,12 +15,12 @@
 						</div><!-- /.input-group-addon -->
 				
 						<div class="form-group">
-							<input type="text" class="form-control" placeholder="   Nama Tujuan">
+							<input type="text" class="form-control" placeholder="Nama Tujuan">
 						</div><!-- /.form-group -->
 					</div><!-- /.col-* -->
 
 	<div class="col-md-2">
-		<a href="listings-map2.html"><div class="form-group-btn form-group-btn-placeholder-gap">
+		<a href="listings_map2"><div class="form-group-btn form-group-btn-placeholder-gap">
 			<button type="button" class="btn btn-primary btn-block">Cari</button></a>
 		</div><!-- /.form-group -->		
 	</div><!-- /.col-* -->			
@@ -32,7 +32,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/wisata/1.jpg');">
-		<a href="listing-detail.html"></a> 
+		<a href="listing_detail"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -44,8 +44,8 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="listing-detail.html">Kebun Binatang</a></h3>
-		<h2><a href="listing-detail.html">Jatim Park</a></h2>
+		<h3><a href="listing_detail">Kebun Binatang</a></h3>
+		<h2><a href="listing_detail">Jatim Park</a></h2>
 	</div><!-- /.card-content -->
 	<div class="container">
 			<div id="demo-state-btn" type="button" data-target="#1" data-toggle="modal" class="btn btn-primary btn-block" data-loading-text="Loading...">tambah</div>
@@ -57,7 +57,7 @@
 			<div class="col-sm-4">
 					<div class="card">
 		<div class="card-image" style="background-image: url('assets/img/wisata/2.jpg');">
-			<a href="listing-detail2.html"></a> 
+			<a href="listing_detail2"></a> 
 	
 			<div class="card-image-rating">
 				<i class="md-icon">star</i>
@@ -68,8 +68,8 @@
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail2.html">Wisata</a></h3>
-			<h2><a href="listing-detail2.html">Malang Night Paradise</a></h2>
+			<h3><a href="listing_detail2">Wisata</a></h3>
+			<h2><a href="listing_detail2">Malang Night Paradise</a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="container">
@@ -82,7 +82,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/wisata/3.jpg');">
-		<a href="listing-detail3.html"></a> 
+		<a href="listing_detail3"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -93,8 +93,8 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="listing-detail3.html">Drink &amp; Food</a></h3>
-		<h2><a href="listing-detail3.html">Flora Wisata San Terra</a></h2>
+		<h3><a href="listing_detail3">Drink &amp; Food</a></h3>
+		<h2><a href="listing_detail3">Flora Wisata San Terra</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="container">
@@ -107,7 +107,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/wisata/4.jpg');">
-		<a href="listing-detail4.html"></a> 
+		<a href="listing_detail4"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -119,8 +119,8 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="listing-detail4.html">Wisata</a></h3>
-		<h2><a href="listing-detail4.html">Bukit Kuneer Singosari</a></h2>
+		<h3><a href="listing_detail4">Wisata</a></h3>
+		<h2><a href="listing_detail4">Bukit Kuneer Singosari</a></h2>
 	</div><!-- /.card-content -->
 	<div class="container">
 			<div id="demo-state-btn" type="button" data-target="#1" data-toggle="modal" class="btn btn-primary btn-block" data-loading-text="Loading...">tambah</div>
@@ -144,8 +144,8 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="listing-detail5.html">Wisata</a></h3>
-		<h2><a href="listing-detail5.html">Museum Angkut</a></h2>
+		<h3><a href="listing_detail5">Wisata</a></h3>
+		<h2><a href="listing_detail5">Museum Angkut</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="container">
@@ -158,7 +158,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/wisata/6.jpg');">
-		<a href="listing-detail6.html"></a> 
+		<a href="listing_detail6"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
@@ -170,8 +170,8 @@
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="listing-detail6.html">Wisata</a></h3>
-		<h2><a href="listing-detail6.html">Mata Air Sirra</a></h2>
+		<h3><a href="listing_detail6">Wisata</a></h3>
+		<h2><a href="listing_detail6">Mata Air Sirra</a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="container">
@@ -214,7 +214,7 @@
 </nav>
 <div class="col-sm-5">
 		<div class="card">
-                <center><a href="adding.html"><div type="button" class="btn btn-primary btn-block">Kembali ke daftar tambah</div></center></a>
+                <center><a href="adding"><div type="button" class="btn btn-primary btn-block">Kembali ke daftar tambah</div></center></a>
 </div><!-- /.push-top-bottom -->
 </div>
 </div>
@@ -294,7 +294,7 @@
                     </div>
                     <div class="modal-footer">
                       <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
-                      <a href="listings-map.html"><button type="button" class="btn btn-primary">Iya</button></a>
+                      <a href="listings_map"><button type="button" class="btn btn-primary">Iya</button></a>
                     </div>
                   </div>
                 </div>
@@ -310,7 +310,7 @@
 						</div>
 						<div class="modal-footer">
 						  <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
-						  <a href="adding.html"><button type="button" class="btn btn-primary">Iya</button></a>
+						  <a href="adding><button type="button" class="btn btn-primary">Iya</button></a>
 						</div>
 					  </div>
 					</div>
