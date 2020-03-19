@@ -32,7 +32,6 @@
 					<div class="nav-primary-wrapper collapse navbar-toggleable-sm">
 						<ul class="nav nav-pills ">
 							<li class="nav-item has-submenu">
-<<<<<<< HEAD
 								<a href="<?= base_url ('index'); ?>" class="nav-link ">Halaman Utama</a>							
 							</li>
 
@@ -42,7 +41,6 @@
                             
                             <li class="nav-item has-submenu">
 									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
-=======
 								<a href="<?=base_url ('index'); ?>" class="nav-link ">Halaman Utama</a>							
 							</li>
 
@@ -52,7 +50,6 @@
                             
                             <li class="nav-item has-submenu">
 									<a href="<?=base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
->>>>>>> 8fa0536052f5d9a5691748f41f7033f798645667
 								</li>
 						</ul><!-- /.nav -->
 					</div><!-- /.nav-primary-wrapper -->
@@ -63,21 +60,18 @@
                             <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
                             <span class="user-avatar-status"></span>
 
-<<<<<<< HEAD
 							<ul class="header-more-menu">
 								<li><a href="<?= base_url ('login_userr'); ?>">User</a></li>
 								<li><a href="<?= base_url ('login_admin'); ?>">Admin</a></li>
 							</ul>							
 						</li>
 					</ul>
-=======
                             <ul class="header-more-menu">
                                 <li><a href="<?= base_url ('login_userr'); ?>">User</a></li>
                                 <li><a href="<?= base_url ('login_admin'); ?>">Admin</a></li>
                             </ul>                           
                         </li>
                     </ul>
->>>>>>> 8fa0536052f5d9a5691748f41f7033f798645667
 
 					<button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target=".nav-primary-wrapper">
                         <i class="md-icon">menu</i>
@@ -89,8 +83,6 @@
 				<div class="header-bottom">
                     <div class="container">
 
-
-<<<<<<< HEAD
 						<ul class="nav nav-pills">
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
@@ -109,7 +101,6 @@
 					</div><!-- /.container -->
 				</div><!-- /.header-bottom -->		
 				
-=======
                         <ul class="nav nav-pills">
                             <li class="nav-item"><a href="" class="nav-link">   </a></li>
                             <li class="nav-item"><a href="" class="nav-link">   </a></li>
@@ -127,7 +118,6 @@
                         
                     </div><!-- /.container -->
                 </div><!-- /.header-bottom -->      
->>>>>>> 8fa0536052f5d9a5691748f41f7033f798645667
 		</div><!-- /.header-inner -->
 	</div><!-- /.header -->
 </div><!-- /.header-wrapper -->
