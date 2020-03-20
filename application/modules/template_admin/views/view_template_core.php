@@ -43,11 +43,6 @@
 					<li class="nav-item">
 						<a href="<?= base_url('data');?>" class="nav-link"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
 					</li>
-                    </li>
-                    
-                    <li class="nav-item">
-                        <a href="<?= base_url('data');?>" class="nav-link"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
-                    </li>
 
                     <li class="nav-item">
                         <a href="<?= base_url ('admin_reviews'); ?>" class="nav-link "><i class="md-icon">rate_review</i> Komentar</a>

@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">    
+    <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/libraries/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.markercluster.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.markercluster.default.css" rel="stylesheet" type="text/css">        
+    <link href="assets/css/materialist.css" rel="stylesheet" type="text/css" id="css-primary">
+	
+    <title>NHITB - Wisata,kuliner dan oleh-oleh</title>
+</head>
+
+<body class="">
+<div class="page-wrapper">
+	<div class="header-wrapper">
+	<div class="header">
+		<div class="header-inner">
+			<div class="header-top">
+				<div class="container">
+					<a href="/">
+						<img src="assets/img/logo1.png" alt="" class="header-top-logo">
+					</a>
+
+					<div class="nav-primary-wrapper collapse navbar-toggleable-sm">
+						<ul class="nav nav-pills ">
+							<li class="nav-item has-submenu">
+								<a href="index.html" class="nav-link ">Halaman Utama</a>							
+							</li>
+
+							<li class="nav-item has-submenu">
+								<a href="listings.html" class="nav-link ">Buat Jadwal</a>
+							</li>
+                            <li class="nav-item has-submenu">
+								<a href="admin.html" class="nav-link active">Daftarkan Destinasi</a>
+							</li>
+						</ul><!-- /.nav -->
+					</div><!-- /.nav-primary-wrapper -->
+
+					<ul class="nav nav-pills secondary">
+						
+						<li class="nav-item user-avatar-wrapper">
+							<a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
+							<span class="user-avatar-status"></span>
+
+							<ul class="header-more-menu">
+								<li><a href="#">Profile</a></li>
+								<li><a href="login.html">Log in</a></li>
+							</ul>							
+						</li>
+					</ul>
+
+					<button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target=".nav-primary-wrapper">
+                        <i class="md-icon">menu</i>
+                    </button>						
+				</div><!-- /.container -->
+			</div><!-- /.header-top -->
+
+			
+				<div class="header-bottom">
+					<div class="container">
+
+
+						<ul class="nav nav-pills">
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="listings-map.html" class="nav-link">WISATA</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="index_kuliner.html" class="nav-link">KULINER</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="index_oleh.html" class="nav-link">OLEH-OLEH</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+						</ul><!-- /.nav -->
+
+						</div><!-- /.header-bottom-more -->
+					</div><!-- /.container -->
+				
+		</div><!-- /.header-inner -->
+	</div><!-- /.header -->
+</div><!-- /.header-wrapper -->
+    
+<div class="admin-content">
+        <div class="container">
+            <div class="card-wrapper btn-block" style="background-color: #dcdcdc">
+            <div class="admin-title">
+                <center><h2><b>ATUR DESTINASI YANG AKAN ANDA AJUKAN!</b></h2></center>
+                <ul class="breadcrumb">
+                        <li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+                        
+                    </ul><!-- /.breadcrumb -->
+            </div>
+        </div>
+            <!-- /.admin-title -->
+            
+            <div class="container">
+                <div class="">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <center>
+                                <h2><b>Slide Gambar</b></h2>
+                            </center>
+                            <div class="col-xs-6 col-sm-6 col-lg-4">
+                                <div class="card">
+                                    <div class="card-image small no-line" style="background-image: url('assets/img/tanya.jpg');">
+                                        <a href="listings-map.html"></a>
+                                        <!-- /.card-image-icon -->
+
+                                        <div class="card-image-count">
+                                        </div>
+                                        <!-- /.card-image-count -->
+                                    </div>
+                                    <!-- /.card-image -->
+
+                                    <div class="card-content">
+                                        <h2>
+                                            <input type="file" class="">
+                                        </h2>
+                                    </div>
+                                    <!-- /.card-content -->
+                                </div>
+                                <!-- /.card -->
+                            </div>
+                            <!-- /.col-* -->
+
+                            <div class="col-xs-12 col-sm-6 col-lg-4">
+                                <div class="card">
+                                    <div class="card-image small no-line" style="background-image: url('assets/img/tanya.jpg');">
+                                        <a href="index_kuliner.html"></a>
+
+                                        <!-- /.card-image-icon -->
+
+                                        <div class="card-image-count">
+                                        </div>
+                                        <!-- /.card-image-count -->
+                                    </div>
+                                    <!-- /.card-image -->
+
+                                    <div class="card-content">
+                                        <h2>
+                                            <input type="file" class="">
+                                        </h2>
+                                    </div>
+                                    <!-- /.card-content -->
+                                </div>
+                                <!-- /.card -->
+                            </div>
+                            <!-- /.col-* -->
+
+                            <div class="col-xs-12 col-sm-6 col-lg-4">
+                                <div class="card">
+                                    <div class="card-image small no-line" style="background-image: url('assets/img/tanya.jpg');">
+                                        <a href="index_oleh.html"></a>
+                                        <!-- /.card-image-icon -->
+
+                                        <div class="card-image-count">
+                                        </div>
+                                        <!-- /.card-image-count -->
+                                    </div>
+                                    <!-- /.card-image -->
+
+                                    <div class="card-content">
+                                        <h2>
+                                                <input type="file" class="">
+                                        </h2>
+                                    </div>
+                                    <!-- /.card-content -->
+                                </div>
+                                <!-- /.card -->
+                            </div>
+                        </div>
+                        <!-- /.col-* -->
+                </div>
+                <!-- /.cards-wrapper -->
+            </div>
+            <!-- /container -->
+            <div class="container">
+                    <div class="">
+                            <div class="col-lg-8">
+                                <center>
+                                    <h2><b>Deskripsi</b></h2>
+                                </center>
+                                <div class="col-xs-6 col-sm-6 col-lg-12">
+                                    <div class="card">
+                                        <div class="container">
+                                        <center><p></br> adalah sebuah tempat rekreasi dan taman belajar yang terdapat di Kota Batu, Jawa Timur. Objek wisata ini berada sekitar 20 km barat Kota Malang, dan kini menjadi salah satu icon wisata Jawa Timur.
+                                                Jatim Park juga dinobatkan sebagai juara 1 kategori wisata buatan berskala besar tingkat nasional oleh Menteri Pariwisata dan Ekonomi Kreatif, Mari Elka Pangestu Pada tahun 2003.</p></center>
+                                                <div class="btn btn-success" float="right"; type="button"><b>Edit</b></div>
+                                        </br>
+                                    </br>
+                                    </div>
+                                </div>
+                                    <!-- /.card -->
+                                </div>
+                                <!-- /.col-* -->
+                    </div>
+                    <!-- /.cards-wrapper -->
+                </div>
+                <!-- /container -->
+                <div class="container">
+                        <div class="">
+                                <div class="row">
+                                        <div class="col-lg-9">
+                                                <center>
+                                                    <h2><b>Foto Dalam</b></h2>
+                                                </center>
+                                                <div class="col-xs-6 col-sm-6 col-lg-2">
+                                                    <div class="card">
+                                                        <div class="card-image small no-line" style="background-image: url('assets/img/wisata/borobudur.jpg'); height: 100px">
+                                                            <a href="listings-map.html"></a>
+                                                            <!-- /.card-image-icon -->
+            
+                                                            <div class="card-image-count">
+                                                            </div>
+                                                            <!-- /.card-image-count -->
+                                                        </div>
+                                                        <!-- /.card-image -->
+            
+                                                        <div class="card-content">
+                                                            <h2>
+                                                                <input type="file" class="">
+                                                            </h2>
+                                                        </div>
+                                                        <!-- /.card-content -->
+                                                    </div>
+                                                    <!-- /.card -->
+                                                </div>
+                                                <!-- /.col-* -->
+            
+                                                
+                                                <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                        <div class="card">
+                                                            <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                <a href="index_kuliner.html"></a>
+                
+                                                                <!-- /.card-image-icon -->
+                
+                                                                <div class="card-image-count">
+                                                                </div>
+                                                                <!-- /.card-image-count -->
+                                                            </div>
+                                                            <!-- /.card-image -->
+                
+                                                            <div class="card-content">
+                                                                <h2>
+                                                                    <input type="file" class="">
+                                                                </h2>
+                                                            </div>
+                                                            <!-- /.card-content -->
+                                                        </div>
+                                                        <!-- /.card -->
+                                                    </div>
+                                                    <!-- /.col-* -->
+                                                    <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                            <div class="card">
+                                                                <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                    <a href="index_kuliner.html"></a>
+                    
+                                                                    <!-- /.card-image-icon -->
+                    
+                                                                    <div class="card-image-count">
+                                                                    </div>
+                                                                    <!-- /.card-image-count -->
+                                                                </div>
+                                                                <!-- /.card-image -->
+                    
+                                                                <div class="card-content">
+                                                                    <h2>
+                                                                        <input type="file" class="">
+                                                                    </h2>
+                                                                </div>
+                                                                <!-- /.card-content -->
+                                                            </div>
+                                                            <!-- /.card -->
+                                                        </div>
+                                                        <!-- /.col-* -->
+                                                        <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                                <div class="card">
+                                                                    <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                        <a href="index_kuliner.html"></a>
+                        
+                                                                        <!-- /.card-image-icon -->
+                        
+                                                                        <div class="card-image-count">
+                                                                        </div>
+                                                                        <!-- /.card-image-count -->
+                                                                    </div>
+                                                                    <!-- /.card-image -->
+                        
+                                                                    <div class="card-content">
+                                                                        <h2>
+                                                                            <input type="file" class="">
+                                                                        </h2>
+                                                                    </div>
+                                                                    <!-- /.card-content -->
+                                                                </div>
+                                                                <!-- /.card -->
+                                                            </div>
+                                                            <!-- /.col-* -->
+            
+                                                <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                    <div class="card">
+                                                        <div class="card-image small no-line" style="background-image: url('assets/img/oleh/legong3.jpg'); height: 100px">
+                                                            <a href="index_oleh.html"></a>
+                                                            <!-- /.card-image-icon -->
+            
+                                                            <div class="card-image-count">
+                                                            </div>
+                                                            <!-- /.card-image-count -->
+                                                        </div>
+                                                        <!-- /.card-image -->
+            
+                                                        <div class="card-content">
+                                                            <h2>
+                                                                    <input type="file" class="">
+                                                            </h2>
+                                                        </div>
+                                                        <!-- /.card-content -->
+                                                    </div>
+                                                    <!-- /.card -->
+                                                </div>
+                                            </div>
+                                            <!-- /.col-* -->
+                                        </div>
+                                </div>
+                                <!-- /.row -->
+                            </div>
+                            <!-- /.cards-wrapper -->
+                        </div>
+                        <!-- /container -->
+                <div class="container">
+                        <div class="">
+                            <div class="row">
+                                    <div class="col-lg-9">
+                                            <center>
+                                                <h2><b>Foto Luar</b></h2>
+                                            </center>
+                                            <div class="col-xs-6 col-sm-6 col-lg-2">
+                                                <div class="card">
+                                                    <div class="card-image small no-line" style="background-image: url('assets/img/wisata/borobudur.jpg'); height: 100px">
+                                                        <a href="listings-map.html"></a>
+                                                        <!-- /.card-image-icon -->
+        
+                                                        <div class="card-image-count">
+                                                        </div>
+                                                        <!-- /.card-image-count -->
+                                                    </div>
+                                                    <!-- /.card-image -->
+        
+                                                    <div class="card-content">
+                                                        <h2>
+                                                            <input type="file" class="">
+                                                        </h2>
+                                                    </div>
+                                                    <!-- /.card-content -->
+                                                </div>
+                                                <!-- /.card -->
+                                            </div>
+                                            <!-- /.col-* -->
+        
+                                            
+                                            <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                    <div class="card">
+                                                        <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                            <a href="index_kuliner.html"></a>
+            
+                                                            <!-- /.card-image-icon -->
+            
+                                                            <div class="card-image-count">
+                                                            </div>
+                                                            <!-- /.card-image-count -->
+                                                        </div>
+                                                        <!-- /.card-image -->
+            
+                                                        <div class="card-content">
+                                                            <h2>
+                                                                <input type="file" class="">
+                                                            </h2>
+                                                        </div>
+                                                        <!-- /.card-content -->
+                                                    </div>
+                                                    <!-- /.card -->
+                                                </div>
+                                                <!-- /.col-* -->
+                                                <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                        <div class="card">
+                                                            <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                <a href="index_kuliner.html"></a>
+                
+                                                                <!-- /.card-image-icon -->
+                
+                                                                <div class="card-image-count">
+                                                                </div>
+                                                                <!-- /.card-image-count -->
+                                                            </div>
+                                                            <!-- /.card-image -->
+                
+                                                            <div class="card-content">
+                                                                <h2>
+                                                                    <input type="file" class="">
+                                                                </h2>
+                                                            </div>
+                                                            <!-- /.card-content -->
+                                                        </div>
+                                                        <!-- /.card -->
+                                                    </div>
+                                                    <!-- /.col-* -->
+                                                    <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                            <div class="card">
+                                                                <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                    <a href="index_kuliner.html"></a>
+                    
+                                                                    <!-- /.card-image-icon -->
+                    
+                                                                    <div class="card-image-count">
+                                                                    </div>
+                                                                    <!-- /.card-image-count -->
+                                                                </div>
+                                                                <!-- /.card-image -->
+                    
+                                                                <div class="card-content">
+                                                                    <h2>
+                                                                        <input type="file" class="">
+                                                                    </h2>
+                                                                </div>
+                                                                <!-- /.card-content -->
+                                                            </div>
+                                                            <!-- /.card -->
+                                                        </div>
+                                                        <!-- /.col-* -->
+        
+                                            <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                <div class="card">
+                                                    <div class="card-image small no-line" style="background-image: url('assets/img/oleh/legong3.jpg'); height: 100px">
+                                                        <a href="index_oleh.html"></a>
+                                                        <!-- /.card-image-icon -->
+        
+                                                        <div class="card-image-count">
+                                                        </div>
+                                                        <!-- /.card-image-count -->
+                                                    </div>
+                                                    <!-- /.card-image -->
+        
+                                                    <div class="card-content">
+                                                        <h2>
+                                                                <input type="file" class="">
+                                                        </h2>
+                                                    </div>
+                                                    <!-- /.card-content -->
+                                                </div>
+                                                <!-- /.card -->
+                                            </div>
+                                        </div>
+                                        <!-- /.col-* -->
+                                    </div>
+                            </div>
+                            <!-- /.row -->
+                        </div>
+                        <!-- /.cards-wrapper -->
+                    </div>
+                    <!-- /container -->
+                    
+                    <div class="container">
+                            <div class="">
+                                <div class="row">
+                                        <div class="col-lg-9">
+                                                <center>
+                                                    <h2><b>Foto Lain-lain</b></h2>
+                                                </center>
+                                                <div class="col-xs-6 col-sm-6 col-lg-2">
+                                                    <div class="card">
+                                                        <div class="card-image small no-line" style="background-image: url('assets/img/wisata/borobudur.jpg'); height: 100px">
+                                                            <a href="listings-map.html"></a>
+                                                            <!-- /.card-image-icon -->
+            
+                                                            <div class="card-image-count">
+                                                            </div>
+                                                            <!-- /.card-image-count -->
+                                                        </div>
+                                                        <!-- /.card-image -->
+            
+                                                        <div class="card-content">
+                                                            <h2>
+                                                                <input type="file" class="">
+                                                            </h2>
+                                                        </div>
+                                                        <!-- /.card-content -->
+                                                    </div>
+                                                    <!-- /.card -->
+                                                </div>
+                                                <!-- /.col-* -->
+            
+                                                
+                                                <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                        <div class="card">
+                                                            <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                <a href="index_kuliner.html"></a>
+                
+                                                                <!-- /.card-image-icon -->
+                
+                                                                <div class="card-image-count">
+                                                                </div>
+                                                                <!-- /.card-image-count -->
+                                                            </div>
+                                                            <!-- /.card-image -->
+                
+                                                            <div class="card-content">
+                                                                <h2>
+                                                                    <input type="file" class="">
+                                                                </h2>
+                                                            </div>
+                                                            <!-- /.card-content -->
+                                                        </div>
+                                                        <!-- /.card -->
+                                                    </div>
+                                                    <!-- /.col-* -->
+                                                    <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                            <div class="card">
+                                                                <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                    <a href="index_kuliner.html"></a>
+                    
+                                                                    <!-- /.card-image-icon -->
+                    
+                                                                    <div class="card-image-count">
+                                                                    </div>
+                                                                    <!-- /.card-image-count -->
+                                                                </div>
+                                                                <!-- /.card-image -->
+                    
+                                                                <div class="card-content">
+                                                                    <h2>
+                                                                        <input type="file" class="">
+                                                                    </h2>
+                                                                </div>
+                                                                <!-- /.card-content -->
+                                                            </div>
+                                                            <!-- /.card -->
+                                                        </div>
+                                                        <!-- /.col-* -->
+                                                        <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                                <div class="card">
+                                                                    <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png'); height: 100px">
+                                                                        <a href="index_kuliner.html"></a>
+                        
+                                                                        <!-- /.card-image-icon -->
+                        
+                                                                        <div class="card-image-count">
+                                                                        </div>
+                                                                        <!-- /.card-image-count -->
+                                                                    </div>
+                                                                    <!-- /.card-image -->
+                        
+                                                                    <div class="card-content">
+                                                                        <h2>
+                                                                            <input type="file" class="">
+                                                                        </h2>
+                                                                    </div>
+                                                                    <!-- /.card-content -->
+                                                                </div>
+                                                                <!-- /.card -->
+                                                            </div>
+                                                            <!-- /.col-* -->
+            
+                                                <div class="col-xs-12 col-sm-6 col-lg-2">
+                                                    <div class="card">
+                                                        <div class="card-image small no-line" style="background-image: url('assets/img/oleh/legong3.jpg'); height: 100px">
+                                                            <a href="index_oleh.html"></a>
+                                                            <!-- /.card-image-icon -->
+            
+                                                            <div class="card-image-count">
+                                                            </div>
+                                                            <!-- /.card-image-count -->
+                                                        </div>
+                                                        <!-- /.card-image -->
+            
+                                                        <div class="card-content">
+                                                            <h2>
+                                                                    <input type="file" class="">
+                                                            </h2>
+                                                        </div>
+                                                        <!-- /.card-content -->
+                                                    </div>
+                                                    <!-- /.card -->
+                                                </div>
+                                            </div>
+                                            <!-- /.col-* -->
+                                        </div>
+                                </div>
+                                <!-- /.row -->
+                            </div>
+                            <!-- /.cards-wrapper -->
+                        </div>
+                        <!-- /container -->
+                        <div class="container">
+                                <div class="">
+                                    <div class="row">
+                                        <div class="col-lg-9">
+                                            <center>
+                                                <h2><b>Fasilitas</b></h2>
+                                            
+                                            <ul class="amenities">
+                                                    <li class=""><img src="assets/img/wisata/1/toilet.png" height="23px"></img> Kamar mandi</li>
+                                                    <li class=""><img src="assets/img/wisata/1/pasar.png" height="23px"></img> Pasar Wisata</li>
+                                                    <li class=""><img src="assets/img/wisata/1/rest.png" height="23px"></img> Rest Area</li>
+                                                    <li class=""><img src="assets/img/wisata/1/wifi.png" height="23px"></img> Wifi Gratis</li>
+                                                    <li class=""><img src="assets/img/wisata/1/klinik.png" height="23px"></img> Klinik</li>
+                                                    <li class=""><img src="assets/img/wisata/1/food.png" height="23px"></img> Food Court</li>
+                                                    <li class=""><img src="assets/img/wisata/1/informasi.png" height="23px"></img> Pusat Informasi</li>
+                                                    <li class=""><img src="assets/img/wisata/1/masjid.png" height="22px"></img> Musholla</li>
+                                                </ul>
+                                            </center>
+                                                <div class="btn btn-success" float="right"; type="button"><b>Edit</b></div>
+                                        </br>
+                                    </div>
+                                    <!-- /.row -->
+                                </div>
+                                <!-- /.cards-wrapper -->
+                            </div>
+                            <!-- /container -->
+                            <div class="container">
+                                    <div class="">
+                                        <div class="row">
+                                            <div class="col-lg-9">
+                                                <center>
+                                                    <h2><b>Jadwal Buka</b></h2>
+                                                
+                                                    <div class="opening-hours-wrapper">
+                                                            <table class="opening-hours">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>Buka setiap hari 24 jam</th>
+                                                                    </tr>
+                                                                </thead>
+                                                            </table>
+                                                        </div>
+                                                </center>
+                                                    <div class="btn btn-success" float="right"; type="button"><b>Edit</b></div>
+                                            </br>
+                                        </div>
+                                        <!-- /.row -->
+                                    </div>
+                                    <!-- /.cards-wrapper -->
+                                </div>
+                                <!-- /container -->
+                                
+                                    <div class="container">
+                                            <div class="cards-wrapper">
+                                                <div class="row">
+                                                    <div class="col-lg-9">
+                                                        <center>
+                                                            <h2><b>Lokasi Tujuan</b></h2>
+                                                        
+                                                            <div id="listing-position">
+                                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.1551984838434!2d112.51795691432737!3d-7.878825080537195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78872dd3cd2c13%3A0x3295038cd23c1d38!2sMuseum%20Angkut!5e0!3m2!1sid!2sid!4v1582433828969!5m2!1sid!2sid"
+                                                                        width="810" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                                                                </div>
+                                                        </center>
+                                                    </br>
+                                                            <div class="btn btn-success" float="right"; type="button"><b>Edit</b></div>
+                                                    </br>
+                                                    <div class="col-md-4 col-lg-3">
+                                                            <div class="row">
+                                                        </div>
+                                                        <!-- /.col-* -->
+                                            </div>
+                                            <!-- /.cards-wrapper -->
+                                        </div>
+                                        <!-- /container -->
+                                        <div class="container">
+                                                <div class="">
+                                                    <div class="row">
+                                                        <div class="col-lg-12">
+                                                            
+                                                            <div class="col-xs-6 col-sm-6 col-lg-6">
+                                                </br>
+                                                <br/>
+                                                    <b><h2>DETAIL</h2></b>
+                                        <form class="form-inline">
+                                                <b><h5>Harga</h5></b>
+                                                <div class="form-group mb-6">
+                                                  <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="100k / Orang">
+                                                </div>
+                                                <div class="form-group mx-sm-3 mb-6">
+                                                  <label for="inputPassword2" class="sr-only">Password</label>
+                                                  <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Harga">
+                                                </div>
+                                                <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                              </form>
+
+                                              <form class="form-inline">
+                                                    <b><h5>Lokasi</h5></b>
+                                                    <div class="form-group mb-6">
+                                                      <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Malang">
+                                                    </div>
+                                                    <div class="form-group mx-sm-3 mb-6">
+                                                      <label for="inputPassword2" class="sr-only">Password</label>
+                                                      <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Lokasi">
+                                                    </div>
+                                                    <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                                  </form>
+
+                                                  <form class="form-inline">
+                                                        <b><h5>Kategori</h5></b>
+                                                        <div class="form-group mb-6">
+                                                          <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Wisata">
+                                                        </div>
+                                                        <div class="form-group mx-sm-3 mb-6">
+                                                          <label for="inputPassword2" class="sr-only">Password</label>
+                                                          <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Kategori">
+                                                        </div>
+                                                        <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                                      </form>
+
+                                                      <form class="form-inline">
+                                                            <b><h5>No.Telp</h5></b>
+                                                            <div class="form-group mb-6">
+                                                              <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="(0274) 540790">
+                                                            </div>
+                                                            <div class="form-group mx-sm-3 mb-6">
+                                                              <label for="inputPassword2" class="sr-only">Password</label>
+                                                              <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti No.Telp">
+                                                            </div>
+                                                            <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                                          </form>
+
+                                                          <form class="form-inline">
+                                                                <b><h5>Website</h5></b>
+                                                                <div class="form-group mb-6">
+                                                                  <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="example.com">
+                                                                </div>
+                                                                <div class="form-group mx-sm-3 mb-6">
+                                                                  <label for="inputPassword2" class="sr-only">Password</label>
+                                                                  <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Alamat Website">
+                                                                </div>
+                                                                <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                                              </form>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-lg-6">
+                                                </br>
+                                            </br>
+                                                    <b><h2>KONTAK INFORMASI</h2></b>
+                                        <form class="form-inline">
+                                                <b><h5>E-mail</h5></b>
+                                                <div class="form-group mb-6">
+                                                  <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="example.com">
+                                                </div>
+                                                <div class="form-group mx-sm-3 mb-6">
+                                                  <label for="inputPassword2" class="sr-only">Password</label>
+                                                  <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Email">
+                                                </div>
+                                                <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                              </form>
+
+                                              <form class="form-inline">
+                                                    <b><h5>Faximile</h5></b>
+                                                    <div class="form-group mb-6">
+                                                      <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="example">
+                                                    </div>
+                                                    <div class="form-group mx-sm-3 mb-6">
+                                                      <label for="inputPassword2" class="sr-only">Password</label>
+                                                      <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Lokasi">
+                                                    </div>
+                                                    <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                                  </form>
+
+                                                  <form class="form-inline">
+                                                        <b><h5>No.Whatsapp</h5></b>
+                                                        <div class="form-group mb-6">
+                                                          <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="+01-23-456-789">
+                                                        </div>
+                                                        <div class="form-group mx-sm-3 mb-6">
+                                                          <label for="inputPassword2" class="sr-only">Password</label>
+                                                          <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Nomor">
+                                                        </div>
+                                                        <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                                      </form>
+
+                                                      <form class="form-inline">
+                                                            <b><h5>Alamat</h5></b>
+                                                            <div class="form-group mb-6">
+                                                              <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Jl. Terusan Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65314">
+                                                            </div>
+                                                            <div class="form-group mx-sm-3 mb-6">
+                                                              <label for="inputPassword2" class="sr-only">Password</label>
+                                                              <input type="password" class="form-control" id="inputPassword2" placeholder="Ganti Alamat">
+                                                            </div>
+                                                            <button type="submit" class="btn btn-primary mb-3">Ganti</button>
+                                                          </form>
+
+                                                          
+                                            </div>
+                                            </div>
+                                            <a href="index.html"><button class="btn btn-primary" type="button" data-target="#1" data-toggle="modal">AJUKAN</button></a>
+</br>
+        <div id="1" class="modal" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <center><h4 class="modal-title">Terima Kasih,permintaan anda sedang dikirim kepada admin</h4></center>
+                    </div>
+                    <div class="modal-footer">
+                      <a href="index.html"><button type="button" class="btn btn-success">Oke</button></a>
+                    </div>
+                  </div>
+                </div>
+
+    <div class="footer-wrapper">
+            <div class="footer">
+                <div class="footer-widgets">
+                            <div class="counter">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-sm-12 col-md-3">
+                                                <h2>Web Liburan terbaik dengan banyak koneksi dan pilihan</h2>
+                                            </div><!-- /.col-* -->
+                                
+                                            <div class="col-sm-12 col-md-9">
+                                                <div class="row">
+                                                    <div class="col-sm-3">
+                                                        <i class="md-icon">people</i> 
+                                                        <h3>11340 lebih</h3>
+                                                        <p>Pengunjung</p>
+                                                    </div><!-- /.col-* -->
+                                                    <div class="col-sm-3">
+                                                            <i class="md-icon">room</i> 
+                                                            <h3>697</h3>
+                                                            <p>Wisata yang terdaftar</p>
+                                                        </div><!-- /.col-* -->
+                                                    <div class="col-sm-3">
+                                                        <i class="md-icon">location_city</i> 
+                                                        <h3>593</h3>
+                                                        <p>Kuliner yang terdaftar </p>
+                                                    </div><!-- /.col-* -->							
+                                
+                                                    <div class="col-sm-3">
+                                                        <i class="md-icon">restaurant_menu</i> 
+                                                        <h3>408</h3>
+                                                        <p>Pusat oleh-oleh yang terdaftar</p>
+                                                    </div><!-- /.col-* -->														
+                                                </div><!-- /.row -->
+                                            </div><!-- /.col-* -->
+                                        </div><!-- /.row -->
+                                    </div><!-- /.container -->
+                </div><!-- /.footer-widgets -->
+        
+                <div class="footer-top">
+                    <div class="container">
+                        <div class="footer-top-left">
+                                NHITB,Web terbaik untuk berlibur - Created by <a href="#">Kelompok3</a>
+                        </div><!-- /.footer-top-left -->
+        
+                        <div class="footer-top-right">
+                            <a class="footer-top-action">
+                                <i class="md-icon">vertical_align_top</i>
+                            </a><!-- /.footer-top-action -->
+        
+                            <ul class="nav nav-pills">
+                                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
+                            </ul>
+                        </div><!-- /.footer-top-right -->
+                    </div><!-- /.container -->
+                </div><!-- /.footer-top -->
+        
+                
+            </div><!-- /.footer -->
+        </div><!-- /.footer-wrapper -->
+        </div><!-- /.page-wrapper -->
+        
+        <div class="customizer">
+            <div class="customizer-content">
+                <h2>Color Variant</h2>
+        
+                <ul>
+                    <li><a href="assets/css/materialist-red.css" class="background-red"></a></li>
+                    <li><a href="assets/css/materialist-pink.css" class="background-pink"></a></li>
+                    <li><a href="assets/css/materialist-purple.css" class="background-purple"></a></li>			
+                    <li><a href="assets/css/materialist-deep-purple.css" class="background-deep-purple"></a></li>			
+                    <li><a href="assets/css/materialist-indigo.css" class="background-indigo"></a></li>			
+                    <li><a href="assets/css/materialist-blue.css" class="background-blue"></a></li>			
+                    <li><a href="assets/css/materialist-light-blue.css" class="background-light-blue"></a></li>			
+                    <li><a href="assets/css/materialist-cyan.css" class="background-cyan"></a></li>			
+                    <li><a href="assets/css/materialist-teal.css" class="background-teal"></a></li>			
+                    <li><a href="assets/css/materialist-green.css" class="background-green"></a></li>			
+                    <li><a href="assets/css/materialist-light-green.css" class="background-light-green"></a></li>			
+                    <li><a href="assets/css/materialist-lime.css" class="background-lime"></a></li>			
+                    <li><a href="assets/css/materialist-yellow.css" class="background-yellow"></a></li>			
+                    <li><a href="assets/css/materialist-amber.css" class="background-amber"></a></li>			
+                    <li><a href="assets/css/materialist-orange.css" class="background-orange"></a></li>			
+                    <li><a href="assets/css/materialist-deep-orange.css" class="background-deep-orange"></a></li>			
+                    <li><a href="assets/css/materialist-brown.css" class="background-brown"></a></li>			
+                    <li><a href="assets/css/materialist-blue-grey.css" class="background-blue-grey"></a></li>			
+                </ul> 
+            </div><!-- /.customizer-content -->
+        
+            <div class="customizer-title">
+                <span><i class="fa fa-cog"></i> Customizer</span>
+            </div><!-- /.customizer-title -->
+        </div><!-- /.customizer -->
+        
+        <script type="text/javascript" src="assets/js/jquery.js"></script>
+        <script type="text/javascript" src="assets/js/tether.min.js"></script>
+        <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.markercluster.js"></script>
+        <script type="text/javascript" src="assets/libraries/owl-carousel/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="assets/js/materialist.js"></script>
+        </body>
+        </html>

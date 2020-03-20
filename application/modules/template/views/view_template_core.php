@@ -40,7 +40,12 @@
 							</li>
                             
                             <li class="nav-item has-submenu">
+<<<<<<< HEAD
 									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
+=======
+									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>						
+							</li>
+>>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
 						</ul><!-- /.nav -->
 					</div><!-- /.nav-primary-wrapper -->
 
@@ -49,6 +54,10 @@
                         <li class="nav-item user-avatar-wrapper">
                             <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
                             <span class="user-avatar-status"></span>
+<<<<<<< HEAD
+=======
+
+>>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
 							<ul class="header-more-menu">
 								<li><a href="<?= base_url ('login_userr'); ?>">User</a></li>
 								<li><a href="<?= base_url ('login_admin'); ?>">Admin</a></li>
@@ -71,6 +80,10 @@
 			
 				<div class="header-bottom">
                     <div class="container">
+<<<<<<< HEAD
+=======
+
+>>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
 						<ul class="nav nav-pills">
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
@@ -87,7 +100,11 @@
 
 						
 					</div><!-- /.container -->
+<<<<<<< HEAD
 				</div><!-- /.header-bottom -->		
+=======
+                </div><!-- /.header-bottom -->      
+>>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
 		</div><!-- /.header-inner -->
 	</div><!-- /.header -->
 </div><!-- /.header-wrapper -->

@@ -35,7 +35,7 @@
                                                 </div><!-- /.col-* -->
                                             
                                                 <div class="col-md-2">
-                                                    <a href="listings-map2.html"><div class="form-group-btn form-group-btn-placeholder-gap">
+                                                    <a href="<?=base_url ('listings_map2'); ?>"><div class="form-group-btn form-group-btn-placeholder-gap">
                                                         <button type="button" class="btn btn-primary btn-block">Cari</button></a>
                                                     </div><!-- /.form-group -->		
                                                 </div><!-- /.col-* -->			
@@ -63,7 +63,7 @@
                                                     <div class="col-xs-12 col-sm-6 col-lg-4">
                                                         <div class="card">
                                                             <div class="card-image small no-line" style="background-image: url('assets/img/wisata/borobudur.jpg');">
-                                                                <a href="addwisata.html"></a>
+                                                                <a href="<?=base_url ('addwisata'); ?>"></a>
                                     
                                                                 <div class="card-image-icon">
                                                                     <i class="md-icon">room</i>
@@ -77,9 +77,9 @@
                                     
                                                             <div class="card-content">
                                                                 <h2>
-                                                                    <a href="addwisata.html">Wisata</a>
+                                                                    <a href="<?=base_url ('addwisata'); ?>">Wisata</a>
                                     
-                                                                    <a href="addwisata.html" class="btn btn-transparent">Show All</a>
+                                                                    <a href="<?=base_url ('addwisata'); ?>" class="btn btn-transparent">Show all</a>
                                                                 </h2>
                                                             </div><!-- /.card-content -->
                                                         </div><!-- /.card -->
@@ -88,7 +88,7 @@
                                                     <div class="col-xs-12 col-sm-6 col-lg-4">
                                                         <div class="card">
                                                             <div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png');">
-                                                                <a href="addkuliner.html"></a>
+                                                                <a href="<?=base_url ('addkuliner'); ?>"></a>
                                     
                                                                 <div class="card-image-icon">
                                                                     <i class="md-icon">restaurant_menu</i>
@@ -102,9 +102,9 @@
                                     
                                                             <div class="card-content">
                                                                 <h2>
-                                                                    <a href="addkuliner.html">Kuliner</a>
+                                                                    <a href="<?=base_url ('addkuliner'); ?>">Kuliner</a>
                                     
-                                                                    <a href="addkuliner.html" class="btn btn-transparent">Show All</a>
+                                                                    <a href="<?=base_url ('addkuliner'); ?>" class="btn btn-transparent">Show all</a>
                                                                 </h2>
                                                             </div><!-- /.card-content -->
                                                         </div><!-- /.card -->
@@ -113,7 +113,7 @@
                                                     <div class="col-xs-12 col-sm-6 col-lg-4">
                                                         <div class="card">
                                                             <div class="card-image small no-line" style="background-image: url('assets/img/oleh/legong3.jpg');">
-                                                                <a href="addoleh.html"></a>
+                                                                <a href="<?=base_url ('addoleh'); ?>"></a>
                                     
                                                                 <div class="card-image-icon">
                                                                     <i class="md-icon">event</i>
@@ -127,16 +127,16 @@
                                     
                                                             <div class="card-content">
                                                                 <h2>
-                                                                    <a href="addoleh.html">Oleh-oleh</a>
+                                                                    <a href="<?=base_url ('addoleh'); ?>">Oleh-oleh</a>
                                     
-                                                                    <a href="addoleh.html" class="btn btn-transparent">Show All</a>
+                                                                    <a href="<?=base_url ('addoleh'); ?>" class="btn btn-transparent">Show all</a>
                                                                 </h2>
                                                             </div><!-- /.card-content -->
                                                         </div><!-- /.card -->
                                                     </div><!-- /.col-* -->
                                             </div><!-- /.row -->
                                         </div><!-- /.cards-wrapper -->
-                                        <a href="listings.html"><div class="btn btn-primary" type="button">Kembali</div></a>
+                                        <a href="<?=base_url ('listings'); ?>"><div class="btn btn-primary" type="button">Kembali</div></a>
                                 </div><!-- /.page-title -->
                                 </div><!--container-->
                             </div>
@@ -187,7 +187,7 @@
                                                     </table><!-- /.table -->
                                                 </div><!-- /.admin-box -->
                                                 <div class="container">
-                                                <center><a href="jadwal.html"><div class="btn btn-success" type="button">Atur Jadwal</div></a></center>
+                                                <center><a href="<?=base_url ('jadwal'); ?>"><div class="btn btn-success" type="button">Atur Jadwal</div></a></center>
                                                 </br>
                                     </div>
                                 </div>
@@ -216,7 +216,7 @@
                     </div>
                     <div class="modal-footer">
                       <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
-                      <a href="adding.html"><button type="button" class="btn btn-primary">Iya</button></a>
+                      <a href="<?=base_url ('adding'); ?>"><button type="button" class="btn btn-primary">Iya</button></a>
                     </div>
                   </div>
                 </div>

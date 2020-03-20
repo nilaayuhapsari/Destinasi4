@@ -1,0 +1,546 @@
+		<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">    
+    <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/libraries/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.markercluster.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.markercluster.default.css" rel="stylesheet" type="text/css">        
+    <link href="assets/css/materialist.css" rel="stylesheet" type="text/css" id="css-primary">
+	
+    <title>NHITB - Wisata,kuliner dan oleh-oleh</title>
+</head>
+
+<body class="">
+<div class="page-wrapper">
+	<div class="header-wrapper">
+	<div class="header">
+		<div class="header-inner">
+			<div class="header-top">
+				<div class="container">
+					<a href="/">
+						<img src="assets/img/logo1.png" alt="" class="header-top-logo">
+					</a>
+
+					<div class="nav-primary-wrapper collapse navbar-toggleable-sm">
+						<ul class="nav nav-pills ">
+							<li class="nav-item has-submenu">
+								<a href="index.html" class="nav-link ">Halaman Utama</a>							
+							</li>
+
+							<li class="nav-item has-submenu">
+								<a href="listings.html" class="nav-link ">Buat Jadwal</a>
+							</li>
+							<li class="nav-item has-submenu">
+									<a href="i1.html" class="nav-link ">Daftarkan Destinasi</a>
+								</li>
+						</ul><!-- /.nav -->
+					</div><!-- /.nav-primary-wrapper -->
+
+					<ul class="nav nav-pills secondary">
+						
+						<li class="nav-item user-avatar-wrapper">
+							<a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
+							<span class="user-avatar-status"></span>
+
+							<ul class="header-more-menu">
+								<li><a href="login.html">User</a></li>
+								<li><a href="login-admin.html">Admin</a></li>
+							</ul>								
+						</li>
+					</ul>
+
+					<button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target=".nav-primary-wrapper">
+                        <i class="md-icon">menu</i>
+                    </button>						
+				</div><!-- /.container -->
+			</div><!-- /.header-top -->
+
+			
+				<div class="header-bottom">
+					<div class="container">
+
+
+						<ul class="nav nav-pills">
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="listings-map.html" class="nav-link">WISATA</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="index_kuliner.html" class="nav-link">KULINER</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+							<li class="nav-item"><a href="index_oleh.html" class="nav-link">OLEH-OLEH</a></li>
+							<li class="nav-item"><a href="" class="nav-link">	</a></li>
+						</ul><!-- /.nav -->
+
+						</div><!-- /.header-bottom-more -->
+					</div><!-- /.container -->	
+				
+		</div><!-- /.header-inner -->
+	</div><!-- /.header -->
+</div><!-- /.header-wrapper -->
+	
+    <div class="main-wrapper">
+	    <div class="main">
+	        <div class="main-inner">
+	        		        
+					<div class="content-title">
+	<div class="container">
+		<h1>OLEH-OLEH</h1>
+
+		<ul class="breadcrumb">
+			<li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			
+		</ul><!-- /.breadcrumb -->
+	</div><!-- /.container -->
+</div><!-- /.content-title -->
+				
+
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-lg-9">
+				            <div class="content">
+				                <div class="push-top-bottom">
+	<div class="filter filter-white">
+		<div class="row">
+	<div class="col-md-4">
+		<div class="form-group">
+			<select class="form-control">
+				<option>Malang</option>
+				<option>Surabaya</option>
+				<option>Lumajang</option>
+				<option>Jember</option>
+				<option>Banyuwangi</option>
+			</select>
+		</div><!-- /.form-group -->
+	</div><!-- /.col-* -->
+
+	<div class="col-md-6">
+		<div class="form-group">
+			<input type="text" class="form-control" placeholder="Nama Lokasi">
+		</div><!-- /.form-group -->
+	</div><!-- /.col-* -->
+
+	<div class="col-md-2">
+		<div class="form-group-btn form-group-btn-placeholder-gap">
+			<a href="listings-map2.html"><button type="submit" class="btn btn-primary btn-block">Cari</button></a>
+		</div><!-- /.form-group -->		
+	</div><!-- /.col-* -->			
+</div><!-- /.row --> 
+	</div><!-- /.filter -->
+
+	<div class="row">
+		
+			<div class="col-sm-4">
+				<div class="card">
+	<div class="card-image" style="background-image: url('assets/img/oleh/jogjaa.jpg');">
+		<a href="oleh-detail1.html"></a> 
+
+		<div class="card-image-rating">
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+		</div><!-- /.card-image-rating -->
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="oleh-detail1.html">0LEH-OLEH</a></h3>
+		<h2><a href="oleh-detail1.html">PASAR BERINGHARJO</a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="oleh-detail1.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="oleh-detail1.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="oleh-detail1.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+			</div><!-- /.col-* -->
+		
+			<div class="col-sm-4">
+				<div class="card">
+	<div class="card-image" style="background-image: url('assets/img/oleh/bali.jpg');">
+		<a href="oleh-detail2.html"></a> 
+
+		<div class="card-image-rating">
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+		</div><!-- /.card-image-rating -->
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="oleh-detail2.html">OLEH-OLEH</a></h3>
+		<h2><a href="oleh-detail2.html">KRISNA</a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="oleh-detail2.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="oleh-detail2.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="oleh-detail2.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+			</div><!-- /.col-* -->
+		
+			<div class="col-sm-4">
+				<div class="card">
+	<div class="card-image" style="background-image: url('assets/img/oleh/ledre2.jpg');">
+		<a href="oleh-detail3.html"></a> 
+
+		<div class="card-image-rating">
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+		</div><!-- /.card-image-rating -->
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="oleh-detail3.html">OLEH-OLEH</a></h3>
+		<h2><a href="oleh-detail3.html">PISANG LEDRE BANGKA</a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="oleh-detail3.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="oleh-detail3.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="oleh-detail3.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+			</div><!-- /.col-* -->
+		
+			<div class="col-sm-4">
+				<div class="card">
+	<div class="card-image" style="background-image: url('assets/img/oleh/batagor.jpg');">
+		<a href="oleh-detail4.html"></a> 
+
+		<div class="card-image-rating">
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+		</div><!-- /.card-image-rating -->
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="oleh-detail4.html">OLEH-OLEH</a></h3>
+		<h2><a href="oleh-detail4.html">BATAGOR RIRI</a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="oleh-detail4.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="oleh-detail4.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="oleh-detail4.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+			</div><!-- /.col-* -->
+		
+			<div class="col-sm-4">
+				<div class="card">
+	<div class="card-image" style="background-image: url('assets/img/oleh/jember.jpg');">
+		<a href="oleh-detail5.html"></a> 
+
+		<div class="card-image-rating">
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+		</div><!-- /.card-image-rating -->
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="oleh-detail5.html">OLEH-OLEH</a></h3>
+		<h2><a href="oleh-detail5.html">Primadona suwar suwir</a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="oleh-detail5.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="oleh-detail5.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="oleh-detail5.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+			</div><!-- /.col-* -->
+		
+			<div class="col-sm-4">
+				<div class="card">
+	<div class="card-image" style="background-image: url('assets/img/oleh/bejo.jpg');">
+		<a href="oleh-detail6.html"></a> 
+
+		<div class="card-image-rating">
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+			<i class="md-icon">star</i>
+		</div><!-- /.card-image-rating -->
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="oleh-detail6.html">OLEH-OLEH</a></h3>
+		<h2><a href="oleh-detail6.html">KOPI LANANG MBOK BEDJO</a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="oleh-detail6.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="oleh-detail6.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="oleh-detail6.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+			</div><!-- /.col-* -->
+		
+	</div><!-- /.row -->
+
+	<nav class="pagination-wrapper">
+	<ul class="pagination">
+		<li class="page-item disabled">
+			<a class="page-link" href="#" aria-label="Previous">
+				<span aria-hidden="true">&laquo;</span>
+				<span class="sr-only">Previous</span>
+			</a>
+		</li>
+
+		<li class="page-item active">
+			<a class="page-link" href="#">1 <span class="sr-only">(current)</span></a>
+		</li>
+
+		<li class="page-item">
+			<a class="page-link" href="#">2</a>
+		</li>
+
+		<li class="page-item">
+			<a class="page-link" href="#">3</a>
+		</li>
+
+		<li class="page-item">
+			<a class="page-link" href="#" aria-label="Next">
+				<span aria-hidden="true">&raquo;</span>
+				<span class="sr-only">Next</span>
+			</a>
+		</li>
+	</ul>
+</nav>
+<div class="col-sm-4">
+	<div class="card">
+</div><!-- /.push-top-bottom -->
+</div>
+</div>
+				            </div><!-- /.content -->
+			            </div><!-- /.col-* -->
+
+										<div class="col-md-4 col-lg-3">
+												<div class="sidebar">
+													<div class="widget">
+														<h2 class="widgettitle">Daftar Populer</h2>
+				
+														<div class="cards-small-wrapper">
+				
+															<div class="card-small">
+																<div class="card-small-image">
+																	<a href="#" style="background-image: url('assets/img/tmp/foto/sambal.jpg');"></a>
+																</div>
+																<!-- /.card-small-image -->
+				
+																<div class="card-small-content">
+																	<h3><a href="k1.html">Spesial Sambal</a></h3>
+																	<h4><a href="k1.html">Kuliner</a></h4>
+																</div>
+																<!-- /.card-small-content -->
+															</div>
+															<!-- /.card-small -->
+				
+															<div class="card-small">
+																<div class="card-small-image">
+																	<a href="#" style="background-image: url('assets/img/tmp/foto/sisi.jpg');"></a>
+																</div>
+																<!-- /.card-small-image -->
+				
+																<div class="card-small-content">
+																	<h3><a href="k1.html">Piano Lessons For Beginners</a></h3>
+																	<h4><a href="k1.html">Wisata</a></h4>
+																</div>
+																<!-- /.card-small-content -->
+															</div>
+															<!-- /.card-small -->
+				
+															<div class="card-small">
+																<div class="card-small-image">
+																	<a href="#" style="background-image: url('assets/img/tmp/foto/sambal.jpg');"></a>
+																</div>
+																<!-- /.card-small-image -->
+				
+																<div class="card-small-content">
+																	<h3><a href="k1.html">Delicious Ocean Restaurant</a></h3>
+																	<h4><a href="k1.html">Kuliner</a></h4>
+																</div>
+																<!-- /.card-small-content -->
+															</div>
+															<!-- /.card-small -->
+				
+															<div class="card-small">
+																<div class="card-small-image">
+																	<a href="#" style="background-image: url('assets/img/tmp/foto/sambal.jpg');"></a>
+																</div>
+																<!-- /.card-small-image -->
+				
+																<div class="card-small-content">
+																	<h3><a href="k1.html">Healthy Breakfast</a></h3>
+																	<h4><a href="k1.html">Kuliner</a></h4>
+																</div>
+																<!-- /.card-small-content -->
+															</div>
+															<!-- /.card-small -->
+				
+														</div>
+														<!-- /.cards-small-wrapper -->
+													</div>
+													<!-- /.widget -->
+												</div>
+												<!-- /.sidebar -->
+											</div>
+											<!-- /.col-* -->
+										</div>
+										<!-- /.row -->
+									</div>
+									<!-- /.container -->
+								</div>
+								<!-- /.main-inner -->
+							</div>
+							<!-- /.main -->
+						</div>
+						<!-- /.main-wrapper -->
+
+						<div id="1" class="modal" tabindex="-1" role="dialog">
+								<div class="modal-dialog" role="document">
+								  <div class="modal-content">
+									<div class="modal-header">
+									  <center><h4 class="modal-title">Apakah anda ingin menambahkan ini?</h4></center>
+									  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+									  </button>
+									</div>
+									<div class="modal-footer">
+									  <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
+									  <a href="index_oleh.html"><button type="button" class="btn btn-primary">Iya</button></a>
+									</div>
+								  </div>
+								</div>
+							  </div>
+    <div class="footer-wrapper">
+			<div class="footer">
+				<div class="footer-widgets">
+							<div class="counter">
+									<div class="container">
+										<div class="row">
+											<div class="col-sm-12 col-md-3">
+												<h2>Web Liburan terbaik dengan banyak koneksi dan pilihan</h2>
+											</div><!-- /.col-* -->
+								
+											<div class="col-sm-12 col-md-9">
+												<div class="row">
+													<div class="col-sm-3">
+														<i class="md-icon">people</i> 
+														<h3>11340 lebih</h3>
+														<p>Pengunjung</p>
+													</div><!-- /.col-* -->
+													<div class="col-sm-3">
+															<i class="md-icon">room</i> 
+															<h3>697</h3>
+															<p>Wisata yang terdaftar</p>
+														</div><!-- /.col-* -->
+													<div class="col-sm-3">
+														<i class="md-icon">location_city</i> 
+														<h3>593</h3>
+														<p>Kuliner yang terdaftar </p>
+													</div><!-- /.col-* -->							
+								
+													<div class="col-sm-3">
+														<i class="md-icon">restaurant_menu</i> 
+														<h3>408</h3>
+														<p>Pusat oleh-oleh yang terdaftar</p>
+													</div><!-- /.col-* -->														
+												</div><!-- /.row -->
+											</div><!-- /.col-* -->
+										</div><!-- /.row -->
+									</div><!-- /.container -->
+				</div><!-- /.footer-widgets -->
+		
+				<div class="footer-top">
+					<div class="container">
+						<div class="footer-top-left">
+								NHITB,Web terbaik untuk berlibur - Created by <a href="#">Kelompok3</a>
+						</div><!-- /.footer-top-left -->
+		
+						<div class="footer-top-right">
+							<a class="footer-top-action">
+								<i class="md-icon">vertical_align_top</i>
+							</a><!-- /.footer-top-action -->
+		
+							<ul class="nav nav-pills">
+								<li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+								<li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
+								<li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
+								<li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
+							</ul>
+						</div><!-- /.footer-top-right -->
+					</div><!-- /.container -->
+				</div><!-- /.footer-top -->
+		
+				
+			</div><!-- /.footer -->
+		</div><!-- /.footer-wrapper -->
+		</div><!-- /.page-wrapper -->
+		
+		<div class="customizer">
+			<div class="customizer-content">
+				<h2>Color Variant</h2>
+		
+				<ul>
+					<li><a href="assets/css/materialist-red.css" class="background-red"></a></li>
+					<li><a href="assets/css/materialist-pink.css" class="background-pink"></a></li>
+					<li><a href="assets/css/materialist-purple.css" class="background-purple"></a></li>			
+					<li><a href="assets/css/materialist-deep-purple.css" class="background-deep-purple"></a></li>			
+					<li><a href="assets/css/materialist-indigo.css" class="background-indigo"></a></li>			
+					<li><a href="assets/css/materialist-blue.css" class="background-blue"></a></li>			
+					<li><a href="assets/css/materialist-light-blue.css" class="background-light-blue"></a></li>			
+					<li><a href="assets/css/materialist-cyan.css" class="background-cyan"></a></li>			
+					<li><a href="assets/css/materialist-teal.css" class="background-teal"></a></li>			
+					<li><a href="assets/css/materialist-green.css" class="background-green"></a></li>			
+					<li><a href="assets/css/materialist-light-green.css" class="background-light-green"></a></li>			
+					<li><a href="assets/css/materialist-lime.css" class="background-lime"></a></li>			
+					<li><a href="assets/css/materialist-yellow.css" class="background-yellow"></a></li>			
+					<li><a href="assets/css/materialist-amber.css" class="background-amber"></a></li>			
+					<li><a href="assets/css/materialist-orange.css" class="background-orange"></a></li>			
+					<li><a href="assets/css/materialist-deep-orange.css" class="background-deep-orange"></a></li>			
+					<li><a href="assets/css/materialist-brown.css" class="background-brown"></a></li>			
+					<li><a href="assets/css/materialist-blue-grey.css" class="background-blue-grey"></a></li>			
+				</ul> 
+			</div><!-- /.customizer-content -->
+		
+			<div class="customizer-title">
+				<span><i class="fa fa-cog"></i> Customizer</span>
+			</div><!-- /.customizer-title -->
+		</div><!-- /.customizer -->
+		
+		<script type="text/javascript" src="assets/js/jquery.js"></script>
+		<script type="text/javascript" src="assets/js/tether.min.js"></script>
+		<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="assets/js/leaflet.js"></script>
+		<script type="text/javascript" src="assets/js/leaflet.markercluster.js"></script>
+		<script type="text/javascript" src="assets/libraries/owl-carousel/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="assets/js/materialist.js"></script>
+		</body>
+		</html>
