@@ -41,7 +41,7 @@
         <h2><a href="<?=base_url ('food_detail'); ?>">Loko Coffe Shop</a></h2>
     </div><!-- /.card-content -->
 
-    <div class="card-actions"><div id="demo-state-btn" type="button" data-target="#1" data-toggle="modal" class="btn btn-primary btn-block" data-loading-text="Loading..."a>Tambah</div>
+    <div class="card-actions"><div id="demo-state-btn" type="button" data-target="#1" data-toggle="modal" class="btn btn-primary btn-block" data-loading-text="Loading..."a>tambah</div>
     </div><!-- /.card-actions -->
 </div><!-- /.card -->
             </div><!-- /.col-* -->
