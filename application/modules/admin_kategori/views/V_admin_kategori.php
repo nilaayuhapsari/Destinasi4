@@ -37,7 +37,7 @@
 
                             <div class="col-md-1">
                                 <div class="form-group-btn form-group-btn-placeholder-gap">
-                                    <a href="admin-kategori-cari.html"><button type="submit"
+                                    <a href="admin_kategori_cari"><button type="submit"
 											class="btn btn-primary btn-block">Cari</button></a>
                                 </div>
                                 <!-- /.form-group -->

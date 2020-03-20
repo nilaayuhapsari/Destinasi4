@@ -86,11 +86,6 @@
                                 <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
                                 <span class="user-avatar-status"></span>
 
-                                <ul class="nav nav-pills secondary">
-                            <li class="nav-item user-avatar-wrapper hidden-sm-down">
-                                <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
-                                <span class="user-avatar-status"></span>
-
                                 <ul class="header-more-menu">
                                     <li><a href="#">Profile</a></li>
                                     <li><a href="<?= base_url ('index'); ?>">Logout</a></li>

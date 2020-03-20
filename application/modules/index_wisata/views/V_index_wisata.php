@@ -41,7 +41,7 @@
 	</div><!-- /.col-* -->
 
 	<div class="col-md-2">
-		<a href="<?=base_url ('listings-map3'); ?>"><div class="form-group-btn form-group-btn-placeholder-gap">
+		<a href="<?=base_url ('listings_map3'); ?>"><div class="form-group-btn form-group-btn-placeholder-gap">
 			<button type="button" class="btn btn-primary btn-block">Cari</button></a>
 		</div><!-- /.form-group -->		
 	</div><!-- /.col-* -->			
