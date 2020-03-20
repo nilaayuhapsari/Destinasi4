@@ -7,103 +7,246 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">
     <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="assets/libraries/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">
     <link href="assets/css/leaflet.css" rel="stylesheet" type="text/css">
     <link href="assets/css/leaflet.markercluster.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/leaflet.markercluster.default.css" rel="stylesheet" type="text/css">        
+    <link href="assets/css/leaflet.markercluster.default.css" rel="stylesheet" type="text/css">
     <link href="assets/css/materialist.css" rel="stylesheet" type="text/css" id="css-primary">
-	
+
     <title>NHITB - Wisata,kuliner dan oleh-oleh</title>
 </head>
 
 <body class="">
-<div class="page-wrapper">
-	<div class="header-wrapper">
-	<div class="header">
-		<div class="header-inner">
-			<div class="header-top">
-				<div class="container">
-					<a href="/">
-						<img src="assets/img/logo1.png" alt="" class="header-top-logo">
-					</a>
+    <div class="page-wrapper">
+        <div class="header-wrapper">
+            <div class="header">
+                <div class="header-inner">
+                    <div class="header-top">
+                        <div class="container">
+                            <a href="/">
+                                <img src="assets/img/logo1.png" alt="" class="header-top-logo">
+                            </a>
 
-					<div class="nav-primary-wrapper collapse navbar-toggleable-sm">
-						<ul class="nav nav-pills ">
-							<li class="nav-item has-submenu">
-								<a href="<?= base_url ('index'); ?>" class="nav-link ">Halaman Utama</a>							
-							</li>
+                            <div class="nav-primary-wrapper collapse navbar-toggleable-sm">
+                                <ul class="nav nav-pills ">
+                                    <li class="nav-item has-submenu">
+                                        <a href="<?= base_url('index'); ?>" class="nav-link ">Halaman Utama</a>
+                                    </li>
 
-							<li class="nav-item has-submenu">
-								<a href="<?= base_url ('listings'); ?>" class="nav-link active">Buat Jadwal</a>
-							</li>
-                            
-                            <li class="nav-item has-submenu">
-<<<<<<< HEAD
-									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
-=======
-									<a href="<?= base_url ('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>						
-							</li>
->>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
-						</ul><!-- /.nav -->
-					</div><!-- /.nav-primary-wrapper -->
+                                    <li class="nav-item has-submenu">
+                                        <a href="<?= base_url('listings'); ?>" class="nav-link active">Buat Jadwal</a>
+                                    </li>
 
-					<ul class="nav nav-pills secondary">
-                        
-                        <li class="nav-item user-avatar-wrapper">
-                            <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
-                            <span class="user-avatar-status"></span>
-<<<<<<< HEAD
-=======
+                                    <li class="nav-item has-submenu">
+                                        <a href="<?= base_url('i1'); ?>" class="nav-link ">Daftarkan Destinasi</a>
+                                    </li>
+                                </ul><!-- /.nav -->
+                            </div><!-- /.nav-primary-wrapper -->
 
->>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
-							<ul class="header-more-menu">
-								<li><a href="<?= base_url ('login_userr'); ?>">User</a></li>
-								<li><a href="<?= base_url ('login_admin'); ?>">Admin</a></li>
-							</ul>							
-						</li>
-					</ul>
-					<button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target=".nav-primary-wrapper">
-                        <i class="md-icon">menu</i>
-                    </button>						
-				</div><!-- /.container -->
-			</div><!-- /.header-top -->
+                            <ul class="nav nav-pills secondary">
 
-			
-				<div class="header-bottom">
+                                <li class="nav-item user-avatar-wrapper">
+                                    <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
+                                    <span class="user-avatar-status"></span>
+                                    <ul class="header-more-menu">
+                                        <li><a href="<?= base_url('login_userr'); ?>">User</a></li>
+                                        <li><a href="<?= base_url('login_admin'); ?>">Admin</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target=".nav-primary-wrapper">
+                                <i class="md-icon">menu</i>
+                            </button>
+                        </div><!-- /.container -->
+                    </div><!-- /.header-top -->
+
+
+                    <div class="header-bottom">
+                        <div class="container">
+                            <ul class="nav nav-pills">
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                                <li class="nav-item"><a href="<?= base_url('index_wisata'); ?>" class="nav-link">WISATA</a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                                <li class="nav-item"><a href="<?= base_url('index_kuliner'); ?>" class="nav-link">KULINER</a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                                <li class="nav-item"><a href="<?= base_url('index_oleh'); ?>" class="nav-link">OLEH-OLEH</a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> </a></li>
+                            </ul><!-- /.nav -->
+
+
+                        </div><!-- /.container -->
+                    </div><!-- /.header-bottom -->
+                </div><!-- /.header-inner -->
+            </div><!-- /.header -->
+        </div><!-- /.header-wrapper -->
+
+        <div class="main-wrapper">
+            <div class="main">
+                <div class="main-inner">
+
+                    <div class="content-title">
+                        <div class="container">
+                            <h1><b>Buat Jadwal Anda Disini!</b></h1>
+
+                            <ul class="breadcrumb">
+                                <li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+                            <!-- /.breadcrumb -->
+                        </div>
+                        <!-- /.container -->
+                    </div>
+                    <!-- /.content-title -->
+
+
                     <div class="container">
-<<<<<<< HEAD
-=======
+                        <div class="row">
+                            <div class="col-md-7">
+                            </br>
+                                <form>
+                                    <div class="form-group">
+                                            <label for=""><h5>Buat Nama Daftar Perjalanan Anda</h5></label>
+                                            <input type="text" class="form-control" id="">
+                                          </div>
+                                        </form>
+                                <div class="content">
+                                        <div class="filter filter-white">
+                                            <div class="row">
+                                                <h5>Tentukan tujuan mu disini!</h5>
+                                                <div class="col-md-9">
+                                                    <div class="form-group">
+                                                        <select class="form-control">
+															<option>Malang</option>
+															<option>Surabaya</option>
+															<option>Lumajang</option>
+															<option>Jember</option>
+															<option>Banyuwangi</option>
+															<option>dll.</option>
+														</select>
+                                                    </div>
+                                                    <!-- /.form-group -->
+                                                </div>
+                                                <!-- /.col-* -->
 
->>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
-						<ul class="nav nav-pills">
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="<?=base_url ('index_wisata'); ?>" class="nav-link">WISATA</a></li>
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="<?=base_url ('index_kuliner'); ?>" class="nav-link">KULINER</a></li>
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="<?= base_url ('index_oleh'); ?>" class="nav-link">OLEH-OLEH</a></li>
-							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-						</ul><!-- /.nav -->
+                                                
+                                                <!-- /.col-* -->
 
-						
-					</div><!-- /.container -->
-<<<<<<< HEAD
-				</div><!-- /.header-bottom -->		
-=======
-                </div><!-- /.header-bottom -->      
->>>>>>> e0239e6e3982018e55deeca9ab6562c2471b3d86
-		</div><!-- /.header-inner -->
-	</div><!-- /.header -->
-</div><!-- /.header-wrapper -->
+                                                <div class="col-md-2">
+                                                    <a href="adding.html"><div class="form-group-btn form-group-btn-placeholder-gap">
+                                                        <button type="submit" class="btn btn-primary btn-block">Buat</button>
+                                                    </div></a>
+                                                    <!-- /.form-group -->
+                                                </div>
+                                                <!-- /.col-* -->
+                                            </div>
+                                            <!-- /.row -->
+                                        </div>
+                                        <!-- /.filter -->
+                                        <center><h5><b>ATAU</b></h5></center>
+                                        <div class="content">
+                                                    <div class="filter filter-white">
+                                                        <div class="row">
+                                                            <h5>Masukkan Nama Tujuan Anda</h5>
+                                                            <div class="col-md-9">
+                                                                    <div class="form-group">
+                                                                            <input type="text" class="form-control">
+                                                                        </div><!-- /.form-group -->
+                                                                <!-- /.form-group -->
+                                                            </div>
+                                                            <!-- /.col-* -->
+            
+                                                            
+                                                            <!-- /.col-* -->
+            
+                                                            <div class="col-md-2">
+                                                                <a href="adding.html"><div class="form-group-btn form-group-btn-placeholder-gap">
+                                                                    <a href="cari.html"><button type="submit" class="btn btn-primary btn-block">Buat</button></a>
+                                                                </div></a>
+                                                                <!-- /.form-group -->
+                                                            </div>
+                                                            <!-- /.col-* -->
+                                                        </div>
+                                                        <!-- /.row -->
+                                                    </div>
+                                                    <!-- /.filter -->
 
-        
-       <!-- <?php $this->load->view($namamodule . '/' . $namafileview); ?> -->
+                                        </div>
+
+                                    <!-- /.push-top-bottom -->
+                                </div>
+                                <!-- /.content -->
+                            </div>
+                            <!-- /.col-* -->
+                            <br/>
+                            <div class="col-md-5">
+                                <div class="sidebar">
+                                    <div class="widget">
+                                        <h2 class="widgettitle">Daftar Perjalanan Yang Telah Anda Buat</h2>
+
+                                        <div class="cards-small-wrapper">
+                                            <div class="admin-box no-padding">
+                                                <table class="table small-header">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>No</th>
+                                                            <th>Nama</th>
+                                                            <th>Waktu</th>
+                                                        </tr>
+                                                    </thead>
+
+                                                    <tbody>
+                                                        
+                                                            <tr>
+                                                                <td>1</td>
+                                                                <td>Liburan akhir tahun</td>
+                                                                <td>2 jam yang lalu</td>  
+                                                                <td class="min-width">
+                                                                    <a href="#"><i class="md-icon">delete</i></a>
+                                                                </td>           
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2</td>
+                                                                <td>Liburan sekolah</td>
+                                                                <td>5 menit yang lalu</td>  
+                                                                <td class="min-width">
+                                                                    <a href="#"><i class="md-icon">delete</i></a>
+                                                                </td>           
+                                                            </tr>
+                                                             <tr>
+                                                                <td>3</td>
+                                                                <td>Liburan sekolah</td>
+                                                                <td>5 menit yang lalu</td>  
+                                                                <td class="min-width">
+                                                                    <a href="#"><i class="md-icon">delete</i></a>
+                                                                </td>           
+                                                            </tr>
+                                                            
+                                                        
+                                                    </tbody>
+                                                </table><!-- /.table -->
+                                            </div><!-- /.admin-box -->
+                                        </div>
+                                        <!-- /.cards-small-wrapper -->
+                                    </div>
+                                    <!-- /.widget -->
+                                </div>
+                                <!-- /.sidebar -->
+                            </div>
+                            <!-- /.col-* -->
+                        </div>
+                        <!-- /.row -->
+                    </div>
+                    <!-- /.container -->
+                </div>
+                <!-- /.main-inner -->
+            </div>
+            <!-- /.main -->
+        </div>
+        <!-- /.main-wrapper -->
 
         <div class="footer-wrapper">
                 <div class="footer">
