@@ -18,8 +18,6 @@
                     <!-- /.container -->
                 </div>
                 <!-- /.content-title -->
-<<<<<<< HEAD
-<<<<<<< HEAD
                 </br>
                 </br>
                 <div class="container">
@@ -50,7 +48,6 @@
                     </div>
                 </div>
                 </br>
-=======
                 </br>
                 </br>
                 <div class="container">
@@ -81,15 +78,12 @@
                     </div>
                 </div>
                 </br>
->>>>>>> 018db4f21ab8f7a2113f6c8a42c0038168b34b80
-
                 <div class="row">
                     <div class="col-md-7">
                         <div class="container">
                             <div class="page-title">
 
                                 </br>
-<<<<<<< HEAD
                             </br>
                         </br>
                                     <div class="cards-wrapper">
@@ -229,9 +223,6 @@
                                 </div>
                                 <!-- /.col-* -->
                                 </div>
-=======
->>>>>>> 018db4f21ab8f7a2113f6c8a42c0038168b34b80
-=======
                 </br>
                 </br>
                 <div class="container">
@@ -269,7 +260,6 @@
                             <div class="page-title">
 
                                 </br>
->>>>>>> 018db4f21ab8f7a2113f6c8a42c0038168b34b80
                                 </br>
                                 </br>
                                 <div class="cards-wrapper">
@@ -425,8 +415,6 @@
 </div>
 <!-- /.main -->
 </div>
-<<<<<<< HEAD
-<<<<<<< HEAD
         <div id="1" class="modal" tabindex="-1" role="dialog">
                 <div class="modal-dialog" role="document">
                   <div class="modal-content">
@@ -443,12 +431,6 @@
                   </div>
                 </div>
               </div>
-=======
-
->>>>>>> 018db4f21ab8f7a2113f6c8a42c0038168b34b80
-=======
-
->>>>>>> 018db4f21ab8f7a2113f6c8a42c0038168b34b80
 <div id="1" class="modal" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -466,13 +448,7 @@
             </div>
         </div>
     </div>
-<<<<<<< HEAD
-<<<<<<< HEAD
 </div>
 </div>
-=======
 </div>
->>>>>>> 018db4f21ab8f7a2113f6c8a42c0038168b34b80
-=======
 </div>
->>>>>>> 018db4f21ab8f7a2113f6c8a42c0038168b34b80
