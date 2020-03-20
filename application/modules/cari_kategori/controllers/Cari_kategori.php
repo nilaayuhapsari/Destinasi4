@@ -17,6 +17,7 @@ class Cari_kategori extends MX_Controller {
 		$data = array(
 			'namamodule' 	=> "cari_kategori",
 			'namafileview' 	=> "v_cari_kategori",
+			'menu'			=> "Data Kategori"
 		);
 		echo Modules::run('template_admin/tampilCore', $data);
     }
