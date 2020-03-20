@@ -676,7 +676,7 @@
             </div>
         </div>
         </div><!--row-->
-                <center><a href="index.html" data-target="#1" data-toggle="modal" class="btn btn-primary btn-large">Ajukan</a></center>
+                <center><a href="<?=base_url ('index'); ?>" data-target="#1" data-toggle="modal" class="btn btn-primary btn-large">Ajukan</a></center>
     </div>
 </div>
 </br>
@@ -687,7 +687,7 @@
                       <center><h4 class="modal-title">Terima Kasih,permintaan anda sedang dikirim kepada admin</h4></center>
                     </div>
                     <div class="modal-footer">
-                      <a href="index.html"><button type="button" class="btn btn-success">Oke</button></a>
+                      <a href="<?=base_url ('index'); ?>"><button type="button" class="btn btn-success">Oke</button></a>
                     </div>
                   </div>
                 </div>
