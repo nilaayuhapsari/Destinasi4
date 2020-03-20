@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">
+    <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/libraries/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.markercluster.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/leaflet.markercluster.default.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/materialist.css" rel="stylesheet" type="text/css" id="css-primary">
+
+    <title>NHITB - Wisata,kuliner dan oleh-oleh</title>
+</head>
+
+<body class="">
+
+    <div class="admin-wrapper">
+        <div class="admin-sidebar">
+            <a href="/" class="hidden-md-down">
+                <img src="assets/img/logo-light1.png" alt="" class="admin-sidebar-logo">
+            </a>
+
+            <div class="dashboard-nav-primary collapse navbar-toggleable-md">
+                <ul class="nav nav-pills nav-stacked">
+                    <li class="nav-item">
+                        <a href="admin-dashboard.html" class="nav-link"><i class="md-icon">home</i> Halaman Admin</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="admin-kategori.html" class="nav-link"><i class="md-icon">view_list</i> List Kategori <span>9</span></a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="admin-listings.html" class="nav-link"><i class="md-icon">view_list</i> List Ajuan <span>3</span></a>
+					</li>
+					
+					<li class="nav-item">
+						<a href="data.html" class="nav-link active"><i class="md-icon">view_list</i> Data Kategori <span>3</span></a>
+					</li>
+
+                    <li class="nav-item">
+                        <a href="admin-reviews.html" class="nav-link "><i class="md-icon">rate_review</i> Komentar</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="admin-users.html" class="nav-link "><i class="md-icon">people</i> Pengguna <span>1</span></a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="admin-settings.html" class="nav-link "><i class="md-icon">settings</i> Pengaturan</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link"><i class="md-icon">power_settings_new</i> Keluar</a>
+                    </li>
+                </ul>
+            </div>
+
+            <hr class="hidden-md-down">
+
+        </div>
+        <!-- /.admin-sidebar -->
+
+        <div class="admin-main">
+            <div class="admin-header">
+                <div class="admin-header-navigation">
+                    <div class="container-fluid">
+                        <ul class="nav nav-pills">
+                                <h1>Data Kategori</h1>
+                        </ul>
+
+                        <ul class="nav nav-pills secondary">
+                            <li class="nav-item user-avatar-wrapper hidden-sm-down">
+                                <a href="#" class="nav-link circle user-avatar-image" style="background-image: url('assets/img/ar.png')"></a>
+                                <span class="user-avatar-status"></span>
+
+                                <ul class="header-more-menu">
+                                    <li><a href="#">Profile</a></li>
+                                    <li><a href="index.html">Logout</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                        <button class="navbar-toggler pull-xs-right hidden-lg-up" type="button" data-toggle="collapse" data-target=".dashboard-nav-primary">
+                        <i class="md-icon">menu</i>
+                    </button>
+                    </div>
+                    <!-- /.container -->
+                </div>
+                <!-- /.admin-header-navigation -->
+
+			<div class="admin-header-search">
+				<form method="get" action="?">
+					<div class="input-group">
+						<div class="input-group-addon">
+							
+						</div><!-- /.input-group-addon -->
+				</form>
+			</div><!-- /.admin-header-search -->
+        </div><!-- /admin-header -->
+        
+<div class="row">
+    <div class="col-md-12">
+                    <div class="container-fluid">
+                        <div class="admin-title">
+    
+                        </div>
+                        <!-- /.admin-title -->
+                            <td>
+                                    <a href="tambah.html"><button type="button" class="btn btn-primary" style="margin-left: 90%;">Tambah</button></a>
+                            </td>
+                            <br/><br/>
+                            
+                        <div class="admin-box no-padding">
+                            <table class="table medium-header">
+                                
+                                    <tr>
+                                    </br>
+                                            <div class="container">
+                                        <th"><h3 class="text-center"><b>KATEGORI</b></h3></th>
+                                        <thead>
+                                                <th><center><a href="#"><b>WISATA</b></a></center></th>
+                                                <th><center><a href="#"><b>KULINER</b></a></center></th>
+                                                <th><center><a href="#"><b>OLEH-OLEH</b></a></center></th>
+                                            </thead>
+                                    </div>
+                                    </tr>
+                                <tbody>
+    
+                                    <tr>
+                                        <td>
+                                        </br>
+                                           <center><div class="form-group mb-6">
+                                                <input type="text" id="staticEmail2" placeholder="Kebun Binatang">
+                                                <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+
+                                              </div></center>
+                                            </br>
+                                              <center><div class="form-group mb-6">
+                                                    <input type="text" id="staticEmail2" placeholder="Taman Hiburan">
+                                                  
+                                                  <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                                                </div></center>
+                                            </br>
+                                                <center><div class="form-group mb-6">
+                                                        <input type="text" id="staticEmail2" placeholder="Pantai">
+                                                        <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+        
+                                                      </div></center>
+                                                    </br>
+                                               <center>       <div class="form-group mb-6">
+                                                            <input type="text" id="staticEmail2" placeholder="Taman Bunga">
+                                                            <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+            
+                                                          </div></center>
+                                                        </br>
+                                                    <center>    <div class="form-group mb-6">
+                                                                <input type="text" id="staticEmail2" placeholder="Museum">
+                                                                <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                
+                                                    </div></center>
+
+                                            <!-- kuliner -->
+                                            </td>
+                                            <td>
+                                            </br>
+                                            <center>   <div class="form-group mb-6">
+                                                    <input type="text" id="staticEmail2" placeholder="Seafood">
+                                                    <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+    
+                                                  </div> </center> 
+                                                </br>
+                                                <center>  <div class="form-group mb-6">
+                                                        <input type="text" id="staticEmail2" placeholder="Minuman">
+                                                        <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+        
+                                                      </div></center>
+                                                    </br>
+                                                <center><div class="form-group mb-6">
+                                                            <input type="text" id="staticEmail2" placeholder="Masakan Barat">
+                                                            <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+            
+                                                          </div></center>
+                                                        </br>
+                                                    <center> <div class="form-group mb-6">
+                                                                <input type="text" id="staticEmail2" placeholder="Masakan Padang">
+                                                                <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                
+                                                              </div></center>
+                                                            </br>
+                                                            <center> <div class="form-group mb-6">
+                                                                    <input type="text" id="staticEmail2" placeholder="Masakan Jepang">
+                                                                    <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                    
+                                                                  </div></center>
+                                                        </td>
+
+                                                                  <!-- Oleh oleh -->
+                                                                <td>
+                                                                </br>
+                                                                <center><div class="form-group mb-6">
+                                                                                <input type="text" id="staticEmail2" placeholder="Jajanan">
+                                                                                <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                                
+                                                                              </div></center>
+                                                                            </br>
+                                                                        <center> <div class="form-group mb-6">
+                                                                                    <input type="text" id="staticEmail2" placeholder="Topi">
+                                                                                    <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                                    
+                                                                                  </div></center> 
+                                                                                </br>
+                                                                            <center>   <div class="form-group mb-6">
+                                                                                        <input type="text" id="staticEmail2" placeholder="Souvenir">
+                                                                                        <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                                        
+                                                                                      </div></center> 
+                                                                                    </br>
+                                                                                <center> <div class="form-group mb-6">
+                                                                                            <input type="text" id="staticEmail2" placeholder="Makanan Khas">
+                                                                                            <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                                            
+                                                                                          </div></center> 
+                                                                                        </br>
+                                                                                    <center>  <div class="form-group mb-6">
+                                                                                                <input type="text" id="staticEmail2" placeholder="Baju">
+                                                                                                <a href="#"><button type="button" data-toggle="modal" data-target="#1" class="btn btn-primary mb-3" style="margin-left: 0%;">Ganti</button></a>
+                                                
+                                                                                              </div></center> 
+                                                                                              
+                                                                    </td>
+                                    </tr>
+                            
+                            </table>
+                        </div>
+                        <!-- /.admin-box -->
+                        </div>
+                    <!-- /.container-fluid -->
+                <!-- /.admin-content -->
+                </div>
+                </div>
+                <div id="1" class="modal" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" role="document">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <center><h4 class="modal-title">Apakah anda yakin ingin menambahkan in?</h4></center>
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                              </button>
+                            </div>
+                            <div class="modal-footer">
+                              <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
+                              <a href="data.html"><button type="button" class="btn btn-success">Iya</button></a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+	
+
+<div class="admin-box no-padding">
+	<div class="row">
+
+</div><!-- /.admin-box -->
+			</div><!-- /.container-fluid -->
+		</div><!-- /.admin-content -->		
+	</div><!-- /.admin-main -->
+</div><!-- /.admin-wrapper -->
+
+<div class="customizer">
+	<div class="customizer-content">
+		<h2>Color Variant</h2>
+
+		<ul>
+			<li><a href="assets/css/materialist-red.css" class="background-red"></a></li>
+			<li><a href="assets/css/materialist-pink.css" class="background-pink"></a></li>
+			<li><a href="assets/css/materialist-purple.css" class="background-purple"></a></li>			
+			<li><a href="assets/css/materialist-deep-purple.css" class="background-deep-purple"></a></li>			
+			<li><a href="assets/css/materialist-indigo.css" class="background-indigo"></a></li>			
+			<li><a href="assets/css/materialist-blue.css" class="background-blue"></a></li>			
+			<li><a href="assets/css/materialist-light-blue.css" class="background-light-blue"></a></li>			
+			<li><a href="assets/css/materialist-cyan.css" class="background-cyan"></a></li>			
+			<li><a href="assets/css/materialist-teal.css" class="background-teal"></a></li>			
+			<li><a href="assets/css/materialist-green.css" class="background-green"></a></li>			
+			<li><a href="assets/css/materialist-light-green.css" class="background-light-green"></a></li>			
+			<li><a href="assets/css/materialist-lime.css" class="background-lime"></a></li>			
+			<li><a href="assets/css/materialist-yellow.css" class="background-yellow"></a></li>			
+			<li><a href="assets/css/materialist-amber.css" class="background-amber"></a></li>			
+			<li><a href="assets/css/materialist-orange.css" class="background-orange"></a></li>			
+			<li><a href="assets/css/materialist-deep-orange.css" class="background-deep-orange"></a></li>			
+			<li><a href="assets/css/materialist-brown.css" class="background-brown"></a></li>			
+			<li><a href="assets/css/materialist-blue-grey.css" class="background-blue-grey"></a></li>			
+		</ul> 
+	</div><!-- /.customizer-content -->
+
+	<div class="customizer-title">
+		<span><i class="fa fa-cog"></i> Customizer</span>
+	</div><!-- /.customizer-title -->
+</div><!-- /.customizer -->
+
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<script type="text/javascript" src="assets/js/tether.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/leaflet.js"></script>
+<script type="text/javascript" src="assets/js/leaflet.markercluster.js"></script>
+<script type="text/javascript" src="assets/libraries/owl-carousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="assets/js/materialist.js"></script>
+</body>
+</html>
