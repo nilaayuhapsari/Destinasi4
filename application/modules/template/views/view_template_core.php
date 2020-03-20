@@ -64,13 +64,6 @@
 							</ul>							
 						</li>
 					</ul>
-                            <ul class="header-more-menu">
-                                <li><a href="<?= base_url ('login_userr'); ?>">User</a></li>
-                                <li><a href="<?= base_url ('login_admin'); ?>">Admin</a></li>
-                            </ul>                           
-                        </li>
-                    </ul>
-
 					<button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target=".nav-primary-wrapper">
                         <i class="md-icon">menu</i>
                     </button>						
@@ -110,7 +103,7 @@
 </div><!-- /.header-wrapper -->
 
         
-       <?php $this->load->view($namamodule . '/' . $namafileview); ?>
+       <!-- <?php $this->load->view($namamodule . '/' . $namafileview); ?> -->
 
         <div class="footer-wrapper">
                 <div class="footer">
