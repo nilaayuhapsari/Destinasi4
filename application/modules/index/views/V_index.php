@@ -432,9 +432,9 @@
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="k1.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="k1.html" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
+			<a href="listing_detail" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="k1"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="k1" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 							</div><!-- /.col-* -->
