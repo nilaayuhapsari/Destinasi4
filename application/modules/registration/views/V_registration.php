@@ -32,13 +32,13 @@
 				<div class="center">
 					<div class="checkbox">
 						<label>
-							<input type="checkbox"> Dengan mendaftar, Anda setuju dengan <a href="terms-conditions.html">syarat dan ketentuan.</a>.
+							<input type="checkbox"> Dengan mendaftar, Anda setuju dengan <a href="terms_conditions">syarat dan ketentuan.</a>.
 						</label>
 					</div><!-- /.form-group -->
 
 					<!-- <div class="form-group-btn"> -->
 							<div class="form-group-bottom-link">
-									<b><a href="login.html" class="btn btn-primary">Buat Akun</a></b>
+									<b><a href="login" class="btn btn-primary">Buat Akun</a></b>
 								</br></br></br>
 								</div><!-- /.form-group-bottom-link -->
 						<!-- <button type="submit" class="btn btn-primary">Buat Akun</button> -->

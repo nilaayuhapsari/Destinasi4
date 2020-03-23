@@ -9,7 +9,7 @@
 		<h1>Bromo Tengger Semeru Nasional Park</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="listings-map.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="listings_map">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->

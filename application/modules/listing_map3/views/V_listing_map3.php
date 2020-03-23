@@ -36,7 +36,7 @@
 								</div><!-- /.col-* -->
 							
 								<div class="col-md-3">
-									<a href="listings-map3.html"><div class="form-group-btn form-group-btn-placeholder-gap">
+									<a href="listings_map3"><div class="form-group-btn form-group-btn-placeholder-gap">
 										<button type="button" class="btn btn-primary btn-block">Cari</button></a>
 									</div><!-- /.form-group -->		
 								</div><!-- /.col-* -->			
@@ -52,7 +52,7 @@
 					<div class="col-sm-6">
 			<div class="card">
 				<div class="card-image" style="background-image: url('assets/img/wisata/1.jpg');">
-					<a href="listing-detail.html"></a> 
+					<a href="listing_detail"></a> 
 			
 					<div class="card-image-rating">
 						<i class="md-icon">star</i>
@@ -64,14 +64,14 @@
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html">Kebun Binatang</a></h3>
-					<h2><a href="listing-detail.html">Jatim Park</a></h2>
+					<h3><a href="listing_detail">Kebun Binatang</a></h3>
+					<h2><a href="listing_detail">Jatim Park</a></h2>
 				</div><!-- /.card-content -->
 
 				<div class="card-actions">
-				<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-				<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-				<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+				<a href="listing_detail" class="card-action-icon"><i class="md-icon">favorite</i></a>
+				<a href="listing_detail"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+				<a href="listing_detail" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 						</div><!-- /.col-* -->
@@ -79,7 +79,7 @@
 						<div class="col-sm-6">
 								<div class="card">
 					<div class="card-image" style="background-image: url('assets/img/wisata/2.jpg');">
-						<a href="listing-detail2.html"></a> 
+						<a href="listing_detail2"></a> 
 				
 						<div class="card-image-rating">
 							<i class="md-icon">star</i>
@@ -90,14 +90,14 @@
 					</div><!-- /.card-image -->
 				
 					<div class="card-content">
-						<h3><a href="listing-detail2.html">Wisata</a></h3>
-						<h2><a href="listing-detail2.html">Malang Night Paradise</a></h2>
+						<h3><a href="listing_detail2">Wisata</a></h3>
+						<h2><a href="listing_detail2">Malang Night Paradise</a></h2>
 					</div><!-- /.card-content -->
 				
 					<div class="card-actions">
-				<a href="listing-detail2.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-				<a href="listing-detail2.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-				<a href="listing-detail2.html" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+				<a href="listing_detail2" class="card-action-icon"><i class="md-icon">favorite</i></a>
+				<a href="listing_detail2"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+				<a href="listing_detail2" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
 				</div><!-- /.card-actions -->
 				</div><!-- /.card -->
 							</div><!-- /.col-* -->
@@ -105,7 +105,7 @@
 						<div class="col-sm-6">
 							<div class="card">
 				<div class="card-image" style="background-image: url('assets/img/wisata/3.jpg');">
-					<a href="listing-detail3.html"></a> 
+					<a href="listing_detail3"></a> 
 			
 					<div class="card-image-rating">
 						<i class="md-icon">star</i>
@@ -116,14 +116,14 @@
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail3.html">Drink &amp; Food</a></h3>
-					<h2><a href="listing-detail3.html">Flora Wisata San Terra</a></h2>
+					<h3><a href="listing_detail3">Drink &amp; Food</a></h3>
+					<h2><a href="listing_detail3">Flora Wisata San Terra</a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-				<a href="listing-detail3.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-				<a href="listing-detail3.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-				<a href="listing-detail3.html" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+				<a href="listing_detail3" class="card-action-icon"><i class="md-icon">favorite</i></a>
+				<a href="listing_detail3"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+				<a href="listing_detail3" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 						</div><!-- /.col-* -->
@@ -131,7 +131,7 @@
 						<div class="col-sm-6">
 							<div class="card">
 				<div class="card-image" style="background-image: url('assets/img/wisata/6.jpg');">
-					<a href="listing-detail6.html"></a> 
+					<a href="listing_detail6"></a> 
 			
 					<div class="card-image-rating">
 						<i class="md-icon">star</i>
@@ -143,14 +143,14 @@
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail6.html">Wisata</a></h3>
-					<h2><a href="listing-detail6.html">Bukit Kuneer Singosari</a></h2>
+					<h3><a href="listing_detail6">Wisata</a></h3>
+					<h2><a href="listing_detail6">Bukit Kuneer Singosari</a></h2>
 				</div><!-- /.card-content -->
 
 				<div class="card-actions">
-				<a href="listing-detail6.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-				<a href="listing-detail6.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-				<a href="listing-detail6.html" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+				<a href="listing_detail6" class="card-action-icon"><i class="md-icon">favorite</i></a>
+				<a href="listing_detail6"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+				<a href="listing_detail6" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 						</div><!-- /.col-* -->
@@ -158,7 +158,7 @@
 						<div class="col-sm-6">
 							<div class="card">
 				<div class="card-image" style="background-image: url('assets/img/wisata/5.jpg');">
-					<a href="listing-detail5.html"></a> 
+					<a href="listing_detail5"></a> 
 			
 					<div class="card-image-rating">
 						<i class="md-icon">star</i>
@@ -170,14 +170,14 @@
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail5.html">Wisata</a></h3>
-					<h2><a href="listing-detail5.html">Museum Angkut</a></h2>
+					<h3><a href="listing_detail5">Wisata</a></h3>
+					<h2><a href="listing_detail5">Museum Angkut</a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-				<a href="listing-detail5.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-				<a href="listing-detail5.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-				<a href="listing-detail5.html" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+				<a href="listing_detail5" class="card-action-icon"><i class="md-icon">favorite</i></a>
+				<a href="listing_detail5"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+				<a href="listing_detail5" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 						</div><!-- /.col-* -->
@@ -185,7 +185,7 @@
 						<div class="col-sm-6">
 							<div class="card">
 				<div class="card-image" style="background-image: url('assets/img/wisata/6.jpg');">
-					<a href="listing-detail6.html"></a> 
+					<a href="listing_detail6"></a> 
 			
 					<div class="card-image-rating">
 						<i class="md-icon">star</i>
@@ -197,14 +197,14 @@
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail6.html">Wisata</a></h3>
-					<h2><a href="listing-detail6.html">Mata Air Sirra</a></h2>
+					<h3><a href="listing_detail6">Wisata</a></h3>
+					<h2><a href="listing_detail6">Mata Air Sirra</a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-				<a href="listing-detail6.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-				<a href="listing-detail6.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-				<a href="listing-detail6.html" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+				<a href="listing_detail6" class="card-action-icon"><i class="md-icon">favorite</i></a>
+				<a href="listing_detail6"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+				<a href="listing_detail6" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 						</div><!-- /.col-* -->

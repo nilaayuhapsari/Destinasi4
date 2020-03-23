@@ -9,7 +9,7 @@
 		<h1>Spesial Sambel</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="index">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->

@@ -264,8 +264,8 @@
 																<!-- /.card-small-image -->
 				
 																<div class="card-small-content">
-																	<h3><a href="k1.html">Spesial Sambal</a></h3>
-																	<h4><a href="k1.html">Kuliner</a></h4>
+																	<h3><a href="k1">Spesial Sambal</a></h3>
+																	<h4><a href="k1">Kuliner</a></h4>
 																</div>
 																<!-- /.card-small-content -->
 															</div>
@@ -278,8 +278,8 @@
 																<!-- /.card-small-image -->
 				
 																<div class="card-small-content">
-																	<h3><a href="k1.html">Piano Lessons For Beginners</a></h3>
-																	<h4><a href="k1.html">Wisata</a></h4>
+																	<h3><a href="k1">Piano Lessons For Beginners</a></h3>
+																	<h4><a href="k1">Wisata</a></h4>
 																</div>
 																<!-- /.card-small-content -->
 															</div>
@@ -292,8 +292,8 @@
 																<!-- /.card-small-image -->
 				
 																<div class="card-small-content">
-																	<h3><a href="k1.html">Delicious Ocean Restaurant</a></h3>
-																	<h4><a href="k1.html">Kuliner</a></h4>
+																	<h3><a href="k1">Delicious Ocean Restaurant</a></h3>
+																	<h4><a href="k1">Kuliner</a></h4>
 																</div>
 																<!-- /.card-small-content -->
 															</div>
@@ -306,8 +306,8 @@
 																<!-- /.card-small-image -->
 				
 																<div class="card-small-content">
-																	<h3><a href="k1.html">Healthy Breakfast</a></h3>
-																	<h4><a href="k1.html">Kuliner</a></h4>
+																	<h3><a href="k1">Healthy Breakfast</a></h3>
+																	<h4><a href="k1">Kuliner</a></h4>
 																</div>
 																<!-- /.card-small-content -->
 															</div>
@@ -342,7 +342,7 @@
 				</div>
 				<div class="modal-footer">
 				  <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
-				  <a href="index_oleh.html"><button type="button" class="btn btn-primary">Iya</button></a>
+				  <a href="index_oleh"><button type="button" class="btn btn-primary">Iya</button></a>
 				</div>
 			  </div>
 			</div>

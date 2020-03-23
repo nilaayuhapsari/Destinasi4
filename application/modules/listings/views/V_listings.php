@@ -7,7 +7,7 @@
                             <h1><b>Buat Jadwal Anda Disini!</b></h1>
 
                             <ul class="breadcrumb">
-                                <li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+                                <li><a href="index">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
                             <!-- /.breadcrumb -->
                         </div>
                         <!-- /.container -->
@@ -75,7 +75,7 @@
                                                             <!-- /.col-* -->
             
                                                             <div class="col-md-2">
-                                                                <a href="adding.html"><div class="form-group-btn form-group-btn-placeholder-gap">
+                                                                <a href="adding"><div class="form-group-btn form-group-btn-placeholder-gap">
                                                                     <a href="<?= base_url ('cari'); ?>"><button type="submit" class="btn btn-primary btn-block">Buat</button></a>
                                                                 </div></a>
                                                                 <!-- /.form-group -->

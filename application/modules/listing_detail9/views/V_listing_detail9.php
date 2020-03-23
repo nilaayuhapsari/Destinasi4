@@ -9,7 +9,7 @@
 		<h1>Paskal Food Market</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index_kuliner.html">Materialist</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="index_kuliner">Materialist</a> <i class="md-icon">keyboard_arrow_right</i></li>
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
 </div><!-- /.content-title -->

@@ -9,7 +9,7 @@
 		<h1>Krisna</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index_oleh.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="index_oleh">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
 </div><!-- /.content-title -->

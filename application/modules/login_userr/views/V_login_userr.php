@@ -19,11 +19,11 @@
 				</div><!-- /.form-group-btn -->
 
 				<div class="form-group-bottom-link">
-					<a href="reset-password.html"><i class="fa fa-primary pull-left">Lupa Kata Sandi?</i></a>
-					<a href="ganti.html"><i class="fa fa-primary pull-right">Ganti Password?</i></a>
+					<a href="reset_password"><i class="fa fa-primary pull-left">Lupa Kata Sandi?</i></a>
+					<a href="ganti"><i class="fa fa-primary pull-right">Ganti Password?</i></a>
 				</div><!-- /.form-group-bottom-link -->
 				<div class="form-group-bottom-link">
-					<b><p class="text-white-50">Belum punya akun? <a href="registration.html" class="text-black">Daftar sekarang</a></p></b>
+					<b><p class="text-white-50">Belum punya akun? <a href="registration" class="text-black">Daftar sekarang</a></p></b>
 				</div><!-- /.form-group-bottom-link -->
 			</form>
 		</div><!-- /.col-* -->
