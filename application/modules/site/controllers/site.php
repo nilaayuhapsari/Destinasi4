@@ -9,7 +9,7 @@ class Site extends MY_Controller {
     }
 
     function index() {
-        $this->load->view('V_index');
+        $this->load->view('home');
     }
 
 }
