@@ -32,15 +32,15 @@
 					<div class="nav-primary-wrapper collapse navbar-toggleable-sm">
 						<ul class="nav nav-pills ">
 							<li class="nav-item has-submenu">
-								<a href="index.html" class="nav-link active">Halaman Utama</a>							
+								<a href="index" class="nav-link active">Halaman Utama</a>							
 							</li>
 
 							<li class="nav-item has-submenu">
-								<a href="listings.html" class="nav-link ">Buat Jadwal</a>
+								<a href="listings" class="nav-link ">Buat Jadwal</a>
 							</li>
 
 							<li class="nav-item has-submenu">
-									<a href="i1.html" class="nav-link ">Daftarkan Destinasi</a>
+									<a href="i1" class="nav-link ">Daftarkan Destinasi</a>
 								</li>
 						</ul><!-- /.nav -->
 					</div><!-- /.nav-primary-wrapper -->
@@ -52,8 +52,8 @@
 							<span class="user-avatar-status"></span>
 
 							<ul class="header-more-menu">
-								<li><a href="login.html">User</a></li>
-								<li><a href="login-admin.html">Admin</a></li>
+								<li><a href="login">User</a></li>
+								<li><a href="login_admin">Admin</a></li>
 							</ul>							
 						</li>
 					</ul>
@@ -75,11 +75,11 @@
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="listings-map.html" class="nav-link">WISATA</a></li>
+							<li class="nav-item"><a href="listings_map" class="nav-link">WISATA</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="index_kuliner.html" class="nav-link">KULINER</a></li>
+							<li class="nav-item"><a href="index_kuliner" class="nav-link">KULINER</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="index_oleh.html" class="nav-link">OLEH-OLEH</a></li>
+							<li class="nav-item"><a href="index_oleh" class="nav-link">OLEH-OLEH</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 						</ul><!-- /.nav -->
 
@@ -140,9 +140,9 @@
 			<strong class="hidden-sm-down">Atau cari berdasrkan kategori</strong>
 
 			<ul>
-				<li><a href="listings-map.html">Wisata</a></li>
-				<li><a href="index_kuliner.html">Kuliner</a></li>
-				<li><a href="index_oleh.html">Oleh-Oleh</a></li>
+				<li><a href="listings_map">Wisata</a></li>
+				<li><a href="index_kuliner">Kuliner</a></li>
+				<li><a href="index_oleh">Oleh-Oleh</a></li>
 			</ul>
 		</div>
 	</div><!-- /.container -->
@@ -164,7 +164,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line" style="background-image: url('assets/img/wisata/borobudur.jpg');">
-									<a href="listings-map.html"></a>
+									<a href="listings_map"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">room</i>
@@ -178,9 +178,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="listings-map.html">Wisata</a>
+										<a href="listings_map">Wisata</a>
 		
-										<a href="listings-map.html" class="btn btn-transparent">Show All</a>
+										<a href="listings_map" class="btn btn-transparent">Show All</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -189,7 +189,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png');">
-									<a href="index_kuliner.html"></a>
+									<a href="index_kuliner"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">restaurant_menu</i>
@@ -203,9 +203,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="index_kuliner.html">Kuliner</a>
+										<a href="index_kuliner">Kuliner</a>
 		
-										<a href="index_kuliner.html" class="btn btn-transparent">Show All</a>
+										<a href="index_kuliner" class="btn btn-transparent">Show All</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -214,7 +214,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line" style="background-image: url('assets/img/oleh/legong3.jpg');">
-									<a href="index_oleh.html"></a>
+									<a href="index_oleh"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">event</i>
@@ -228,9 +228,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="index_oleh.html">Oleh-oleh</a>
+										<a href="index_oleh">Oleh-oleh</a>
 		
-										<a href="index_oleh.html" class="btn btn-transparent">Show All</a>
+										<a href="index_oleh" class="btn btn-transparent">Show All</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -282,7 +282,7 @@
 						<div class="col-md-11">
 				
 									<h3 class="text-right" style="color: white">Ada di dalam web ini?</h3>
-									<h6 class="text-right" style="color: white"><div>Gampang!Langsung<a href="i1.html" class="text-primary" style="font-family: cursive"> Klik Disini.</a></div></h6>
+									<h6 class="text-right" style="color: white"><div>Gampang!Langsung<a href="i1" class="text-primary" style="font-family: cursive"> Klik Disini.</a></div></h6>
 								
 						</div><!-- /.col-* -->
 						</div>

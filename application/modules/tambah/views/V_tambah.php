@@ -52,7 +52,7 @@
                                 <div class="col-xs-6 col-sm-6 col-lg-4">
                                     <div class="card">
                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png');">
-                                            <a href="listings-map.html"></a>
+                                            <a href="listings_map"></a>
                                             <!-- /.card-image-icon -->
     
                                             <div class="card-image-count">
@@ -75,7 +75,7 @@
                                 <div class="col-xs-12 col-sm-6 col-lg-4">
                                     <div class="card">
                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png');">
-                                            <a href="index_kuliner.html"></a>
+                                            <a href="index_kuliner"></a>
     
                                             <!-- /.card-image-icon -->
     
@@ -98,7 +98,7 @@
                                 <div class="col-xs-12 col-sm-6 col-lg-4">
                                         <div class="card">
                                             <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png');">
-                                                <a href="index_kuliner.html"></a>
+                                                <a href="index_kuliner"></a>
         
                                                 <!-- /.card-image-icon -->
         
@@ -130,7 +130,7 @@
                                                                 <div class="col-xs-6 col-sm-6 col-lg-2">
                                                                     <div class="card">
                                                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                            <a href="listings-map.html"></a>
+                                                                            <a href="listings_map"></a>
                                                                             <!-- /.card-image-icon -->
                             
                                                                             <div class="card-image-count">
@@ -152,7 +152,7 @@
                                                                 <div class="col-xs-6 col-sm-6 col-lg-2">
                                                                         <div class="card">
                                                                             <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                <a href="listings-map.html"></a>
+                                                                                <a href="listings_map"></a>
                                                                                 <!-- /.card-image-icon -->
                                 
                                                                                 <div class="card-image-count">
@@ -176,7 +176,7 @@
                                                                 <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                         <div class="card">
                                                                             <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                <a href="index_kuliner.html"></a>
+                                                                                <a href="index_kuliner"></a>
                                 
                                                                                 <!-- /.card-image-icon -->
                                 
@@ -199,7 +199,7 @@
                                                                     <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                             <div class="card">
                                                                                 <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                    <a href="index_kuliner.html"></a>
+                                                                                    <a href="index_kuliner"></a>
                                     
                                                                                     <!-- /.card-image-icon -->
                                     
@@ -222,7 +222,7 @@
                                                                         <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                 <div class="card">
                                                                                     <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                        <a href="index_kuliner.html"></a>
+                                                                                        <a href="index_kuliner"></a>
                                         
                                                                                         <!-- /.card-image-icon -->
                                         
@@ -246,7 +246,7 @@
                                                                 <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                     <div class="card">
                                                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                            <a href="index_oleh.html"></a>
+                                                                            <a href="index_oleh"></a>
                                                                             <!-- /.card-image-icon -->
                             
                                                                             <div class="card-image-count">
@@ -281,7 +281,7 @@
                                                                             <div class="col-xs-6 col-sm-6 col-lg-2">
                                                                                 <div class="card">
                                                                                     <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                        <a href="listings-map.html"></a>
+                                                                                        <a href="listings_map"></a>
                                                                                         <!-- /.card-image-icon -->
                                         
                                                                                         <div class="card-image-count">
@@ -303,7 +303,7 @@
                                                                             <div class="col-xs-6 col-sm-6 col-lg-2">
                                                                                     <div class="card">
                                                                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                            <a href="listings-map.html"></a>
+                                                                                            <a href="listings_map"></a>
                                                                                             <!-- /.card-image-icon -->
                                             
                                                                                             <div class="card-image-count">
@@ -327,7 +327,7 @@
                                                                             <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                     <div class="card">
                                                                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                            <a href="index_kuliner.html"></a>
+                                                                                            <a href="index_kuliner"></a>
                                             
                                                                                             <!-- /.card-image-icon -->
                                             
@@ -350,7 +350,7 @@
                                                                                 <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                         <div class="card">
                                                                                             <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                                <a href="index_kuliner.html"></a>
+                                                                                                <a href="index_kuliner"></a>
                                                 
                                                                                                 <!-- /.card-image-icon -->
                                                 
@@ -373,7 +373,7 @@
                                                                                     <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                             <div class="card">
                                                                                                 <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                                    <a href="index_kuliner.html"></a>
+                                                                                                    <a href="index_kuliner"></a>
                                                     
                                                                                                     <!-- /.card-image-icon -->
                                                     
@@ -397,7 +397,7 @@
                                                                             <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                 <div class="card">
                                                                                     <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                        <a href="index_oleh.html"></a>
+                                                                                        <a href="index_oleh"></a>
                                                                                         <!-- /.card-image-icon -->
                                         
                                                                                         <div class="card-image-count">
@@ -431,7 +431,7 @@
                                                                                 <div class="col-xs-6 col-sm-6 col-lg-2">
                                                                                     <div class="card">
                                                                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                            <a href="listings-map.html"></a>
+                                                                                            <a href="listings_map"></a>
                                                                                             <!-- /.card-image-icon -->
                                             
                                                                                             <div class="card-image-count">
@@ -477,7 +477,7 @@
                                                                                 <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                         <div class="card">
                                                                                             <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                                <a href="index_kuliner.html"></a>
+                                                                                                <a href="index_kuliner"></a>
                                                 
                                                                                                 <!-- /.card-image-icon -->
                                                 
@@ -500,7 +500,7 @@
                                                                                     <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                             <div class="card">
                                                                                                 <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                                    <a href="index_kuliner.html"></a>
+                                                                                                    <a href="index_kuliner"></a>
                                                     
                                                                                                     <!-- /.card-image-icon -->
                                                     
@@ -523,7 +523,7 @@
                                                                                         <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                                 <div class="card">
                                                                                                     <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                                        <a href="index_kuliner.html"></a>
+                                                                                                        <a href="index_kuliner"></a>
                                                         
                                                                                                         <!-- /.card-image-icon -->
                                                         
@@ -546,7 +546,7 @@
                                                                                 <div class="col-xs-12 col-sm-6 col-lg-2">
                                                                                     <div class="card">
                                                                                         <div class="card-image small no-line" style="background-image: url('assets/img/tanya.png'); height: 100px">
-                                                                                            <a href="index_oleh.html"></a>
+                                                                                            <a href="index_oleh"></a>
                                                                                             <!-- /.card-image-icon -->
                                             
                                                                                             <div class="card-image-count">
@@ -688,7 +688,7 @@
               <center><h4 class="modal-title">Apakah anda ingin menambahkan ini ke daftar kategori?</h4></center>
             </div>
             <div class="modal-footer">
-              <a href="data.html"><button type="button" class="btn btn-success">Oke</button></a>
+              <a href="data"><button type="button" class="btn btn-success">Oke</button></a>
             </div>
           </div>
         </div>

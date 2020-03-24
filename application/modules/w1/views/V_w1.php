@@ -9,7 +9,7 @@
 		<h1>Bromo Tengger Semeru Nasional Park</h1>
 
 		<ul class="breadcrumb">
-			<li><a href="index.html">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
+			<li><a href="index">Kembali</a> <i class="md-icon">keyboard_arrow_right</i></li>
 			
 		</ul><!-- /.breadcrumb -->
 	</div><!-- /.container -->
@@ -349,7 +349,7 @@
 		</div><!-- /.row -->
 
 		<div class="form-group-btn">
-			<a href="w1.html" class="btn btn-primary btn-large pull-right">Post Comment</a>
+			<a href="w1" class="btn btn-primary btn-large pull-right">Post Comment</a>
 		</div><!-- /.form-group-btn -->
 	</form>
 </div><!-- /.comment-create -->
