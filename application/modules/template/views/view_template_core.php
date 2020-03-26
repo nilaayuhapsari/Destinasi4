@@ -106,7 +106,9 @@
 			<p>
 				Dengan web ini,kamu bisa melakukan apa yang kamu suka.seperti melihat dan mencari destinasi wisata,kuliner setempat,hingga mencari oleh-oleh hanya dengan melihat web ini
 			</p>
-
+			<br/>
+			<br/>
+			<br/>
 			<a href="#" class="btn btn-primary">Lihat lebih banyak</a>
 		</div><!-- /.container -->
 	</div><!-- /.hero-content -->
@@ -163,7 +165,7 @@
 				<div class="row">
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
-								<div class="card-image small no-line" style="background-image: url('assets/img/wisata/borobudur.jpg');">
+								<div class="card-image small no-line">
 									<a href="listings_map"></a>
 		
 									<div class="card-image-icon">
@@ -188,7 +190,7 @@
 					
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
-								<div class="card-image small no-line" style="background-image: url('assets/img/kuliner.png');">
+								<div class="card-image small no-line">
 									<a href="index_kuliner"></a>
 		
 									<div class="card-image-icon">
@@ -213,7 +215,7 @@
 					
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
-								<div class="card-image small no-line" style="background-image: url('assets/img/oleh/legong3.jpg');">
+								<div class="card-image small no-line">
 									<a href="index_oleh"></a>
 		
 									<div class="card-image-icon">
@@ -221,7 +223,7 @@
 									</div><!-- /.card-image-icon -->
 		
 									<div class="card-image-count">
-										<strong>92</strong>
+										<strong>0</strong>
 										<span>items</span>
 									</div><!-- /.card-image-count -->
 								</div><!-- /.card-image -->
