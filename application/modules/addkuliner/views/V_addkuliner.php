@@ -132,7 +132,7 @@
 			<div class="col-sm-4">
 				<div class="card">
 	<div class="card-image" style="background-image: url('assets/img/wisata/5.jpg');">
-		<a href="listin_gdetail5"></a> 
+		<a href="listing_detail5"></a> 
 
 		<div class="card-image-rating">
 			<i class="md-icon">star</i>
