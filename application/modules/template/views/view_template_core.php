@@ -32,15 +32,15 @@
 					<div class="nav-primary-wrapper collapse navbar-toggleable-sm">
 						<ul class="nav nav-pills ">
 							<li class="nav-item has-submenu">
-								<a href="index.html" class="nav-link active">Halaman Utama</a>							
+								<a href="index" class="nav-link active">Halaman Utama</a>							
 							</li>
 
 							<li class="nav-item has-submenu">
-								<a href="listings.html" class="nav-link ">Buat Jadwal</a>
+								<a href="listings" class="nav-link ">Buat Jadwal</a>
 							</li>
 
 							<li class="nav-item has-submenu">
-									<a href="i1.html" class="nav-link ">Daftarkan Destinasi</a>
+									<a href="i1" class="nav-link ">Daftarkan Destinasi</a>
 								</li>
 						</ul><!-- /.nav -->
 					</div><!-- /.nav-primary-wrapper -->
@@ -52,8 +52,8 @@
 							<span class="user-avatar-status"></span>
 
 							<ul class="header-more-menu">
-								<li><a href="login.html">User</a></li>
-								<li><a href="login-admin.html">Admin</a></li>
+								<li><a href="login">User</a></li>
+								<li><a href="login-admin">Admin</a></li>
 							</ul>							
 						</li>
 					</ul>
@@ -75,11 +75,11 @@
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="listings-map.html" class="nav-link">WISATA</a></li>
+							<li class="nav-item"><a href="listings-map" class="nav-link">WISATA</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="index_kuliner.html" class="nav-link">KULINER</a></li>
+							<li class="nav-item"><a href="index_kuliner" class="nav-link">KULINER</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
-							<li class="nav-item"><a href="index_oleh.html" class="nav-link">OLEH-OLEH</a></li>
+							<li class="nav-item"><a href="index_oleh" class="nav-link">OLEH-OLEH</a></li>
 							<li class="nav-item"><a href="" class="nav-link">	</a></li>
 						</ul><!-- /.nav -->
 
@@ -140,9 +140,9 @@
 			<strong class="hidden-sm-down">Atau cari berdasrkan kategori</strong>
 
 			<ul>
-				<li><a href="listings-map.html">Wisata</a></li>
-				<li><a href="index_kuliner.html">Kuliner</a></li>
-				<li><a href="index_oleh.html">Oleh-Oleh</a></li>
+				<li><a href="listings-map">Wisata</a></li>
+				<li><a href="index_kuliner">Kuliner</a></li>
+				<li><a href="index_oleh">Oleh-Oleh</a></li>
 			</ul>
 		</div>
 	</div><!-- /.container -->
@@ -164,7 +164,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line">
-									<a href="listings-map.html"></a>
+									<a href="listings-map"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">room</i>
@@ -178,9 +178,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="listings-map.html">Wisata</a>
+										<a href="listings-map">Wisata</a>
 		
-										<a href="listings-map.html" class="btn btn-transparent">Show All</a>
+										<a href="listings-map" class="btn btn-transparent">Show All</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -189,7 +189,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line">
-									<a href="index_kuliner.html"></a>
+									<a href="index_kuliner"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">restaurant_menu</i>
@@ -203,9 +203,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="index_kuliner.html">Kuliner</a>
+										<a href="index_kuliner">Kuliner</a>
 		
-										<a href="index_kuliner.html" class="btn btn-transparent">Show All</a>
+										<a href="index_kuliner" class="btn btn-transparent">Show All</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -214,7 +214,7 @@
 						<div class="col-xs-12 col-sm-6 col-lg-4">
 							<div class="card">
 								<div class="card-image small no-line">
-									<a href="index_oleh.html"></a>
+									<a href="index_oleh"></a>
 		
 									<div class="card-image-icon">
 										<i class="md-icon">event</i>
@@ -228,9 +228,9 @@
 		
 								<div class="card-content">
 									<h2>
-										<a href="index_oleh.html">Oleh-oleh</a>
+										<a href="index_oleh">Oleh-oleh</a>
 		
-										<a href="index_oleh.html" class="btn btn-transparent">Show All</a>
+										<a href="index_oleh" class="btn btn-transparent">Show All</a>
 									</h2>
 								</div><!-- /.card-content -->
 							</div><!-- /.card -->
@@ -249,25 +249,42 @@
 	</div>
 </br>
 	<div class="row">
-		<div class="col-sm-12 col-xl-10">
-			<div class="cards-wrapper">
-				<div class="row">
-					 
-						<div class="col-sm-5 col-md-3">
-							<div class="card">
+	<div class="col-sm-12 col-xl-10">
+	<div class="cards-wrapper">
+	<div class="row">			 
+	<div class="col-sm-5 col-md-3">
+	<div class="card">
 	<div class="card-image">
-		<a href="w1.html"></a> 
+		<a href="#"></a> 
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="w1.html"></a></h3>
-		<h2><a href="w1.html"></a></h2>
+		<h3><a href="#"></a></h3>
+		<h2><a href="#"></a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="w1.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w1.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w1.html" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary text-primary">SELENGKAPNYA</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+</div><!-- /.col-* -->
+<div class="col-sm-5 col-md-3">
+	<div class="card">
+	<div class="card-image">
+		<a href="#"></a> 
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="#"></a></h3>
+		<h2><a href="#"></a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 						</div><!-- /.col-* -->
@@ -275,131 +292,115 @@
 						<div class="col-sm-5 col-md-3">
 							<div class="card">
 	<div class="card-image">
-		<a href="w2.html"></a> 
-	</div><!-- /.card-image -->
-
-	<div class="card-content">
-		<h3><a href="w2.html"></a></h3>
-		<h2><a href="w2.html"></a></h2>
-	</div><!-- /.card-content -->
-
-	<div class="card-actions">
-		<a href="w2.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w2.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w2.html" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
-	</div><!-- /.card-actions -->
-</div><!-- /.card -->
-						</div><!-- /.col-* -->
-					 
-						<div class="col-sm-5 col-md-3">
-							<div class="card">
-	<div class="card-image">
-		<a href="w3.html"></a> 
+		<a href="#"></a> 
 
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="w3.html"></a></h3>
-		<h2><a href="w3.html"></a></h2>
+		<h3><a href="#"></a></h3>
+		<h2><a href="#"></a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="w3.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w3.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w3.html" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
-	</div><!-- /.card-actions -->
-</div><!-- /.card -->
-						</div><!-- /.col-* -->
-					 
-						<div class="col-sm-4 col-md-3">
-							<div class="card">
-	<div class="card-image">
-		<a href="w4.html"></a> 
-	</div><!-- /.card-image -->
-
-	<div class="card-content">
-		<h3><a href="w4.html"></a></h3>
-		<h2><a href="w4.html"></a></h2>
-	</div><!-- /.card-content -->
-
-	<div class="card-actions">
-		<a href="w4.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w4.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w4.html" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
-	</div><!-- /.card-actions -->
-</div><!-- /.card -->
-						</div><!-- /.col-* -->
-						<div class="col-sm-4 col-md-3">
-							<div class="card">
-	<div class="card-image">
-		<a href="w5.html"></a> 
-	</div><!-- /.card-image -->
-
-	<div class="card-content">
-		<h3><a href="w5.html"></a></h3>
-		<h2><a href="w5.html"></a></h2>
-	</div><!-- /.card-content -->
-
-	<div class="card-actions">
-		<a href="w5.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w5.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w5.html" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
-	</div><!-- /.card-actions -->
-</div><!-- /.card -->
-						</div><!-- /.col-* -->
-						<div class="col-sm-4 col-md-3">
-							<div class="card">
-	<div class="card-image">
-		<a href="w6.html"></a> 
-	</div><!-- /.card-image -->
-
-	<div class="card-content">
-		<h3><a href="w6.html"></a></h3>
-		<h2><a href="w6.html"></a></h2>
-	</div><!-- /.card-content -->
-
-	<div class="card-actions">
-		<a href="w6.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w6.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w6.html" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 </div><!-- /.col-* -->
 					 
-	<div class="col-sm-4 col-md-3">
-		<div class="card">
-			<div class="card-image">
-		<a href="w7.html"></a> 
+<div class="col-sm-4 col-md-3">
+	<div class="card">
+	<div class="card-image">
+		<a href="#"></a> 
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="w7.html"></a></h3>
-		<h2><a href="w7.html"></a></h2>
+		<h3><a href="#"></a></h3>
+		<h2><a href="#"></a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="w7.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w7.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w7.html" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 </div><!-- /.col-* -->
-					 
-	<div class="col-sm-4 col-md-3">
-		<div class="card">
-			<div class="card-image">
-		<a href="w8.html"></a>
+<div class="col-sm-4 col-md-3">
+	<div class="card">
+	<div class="card-image">
+		<a href="#"></a> 
 	</div><!-- /.card-image -->
 
 	<div class="card-content">
-		<h3><a href="w8.html"></a></h3>
-		<h2><a href="w8.html"></a></h2>
+		<h3><a href="#"></a></h3>
+		<h2><a href="#"></a></h2>
 	</div><!-- /.card-content -->
 
 	<div class="card-actions">
-		<a href="w8.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-		<a href="w8.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-		<a href="w8.html" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+</div><!-- /.col-* -->
+
+<div class="col-sm-4 col-md-3">
+	<div class="card">
+	<div class="card-image">
+		<a href="#"></a> 
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="#"></a></h3>
+		<h2><a href="#"></a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+</div><!-- /.col-* -->
+
+
+<div class="col-sm-4 col-md-3">
+		<div class="card">
+			<div class="card-image">
+		<a href="#"></a> 
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href=#"></a></h3>
+		<h2><a href="#"></a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
+	</div><!-- /.card-actions -->
+</div><!-- /.card -->
+</div><!-- /.col-* -->
+
+
+	<div class="col-sm-4 col-md-3">
+		<div class="card">
+			<div class="card-image">
+		<a href="#"></a>
+	</div><!-- /.card-image -->
+
+	<div class="card-content">
+		<h3><a href="#"></a></h3>
+		<h2><a href="#"></a></h2>
+	</div><!-- /.card-content -->
+
+	<div class="card-actions">
+		<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+		<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+		<a href="#" class="card-action-btn btn btn-transparent text-primary">SELENGKAPNYA</a>
 	</div><!-- /.card-actions -->
 </div><!-- /.card -->
 						</div><!-- /.col-* -->
