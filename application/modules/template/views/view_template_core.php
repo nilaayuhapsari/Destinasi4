@@ -405,7 +405,7 @@
 </div><!-- /.card -->
 						</div><!-- /.col-* -->
 		<div class="col-md-3">
-		<a href="listings-map.html" class="btn btn-primary text-center">Lihat lebih banyak</a>
+		<a href="listings-map" class="btn btn-primary text-center">Lihat lebih banyak</a>
 		</div><!-- /.form-group -->		
 				</div><!-- /.row -->
 			</div><!-- /.card-wrapper -->
@@ -420,10 +420,8 @@
 		</br>
 	</br>
 </br>
-
-				<a href="#" class="btn btn-primary btn-block">+1-254-689</a>
-
-				<a href="#" class="btn btn-secondary btn-block">Contact</a>
+		<a href="#" class="btn btn-primary btn-block">+1-254-689</a>
+		<a href="#" class="btn btn-secondary btn-block">Contact</a>
 			</div><!-- /.your-space -->
 		</div><!-- /.col-* -->		
 	</div><!-- /.row -->
@@ -433,89 +431,69 @@
 			<div class="col-sm-12">
 					<div class="col-12">
 							<div class="card" style="color: ">
-								<h1 class="btn btn-block text-white" style="font-size: 30px">KULINER</h1>
-								</div>
-								</div>
+							<h1 class="btn btn-block text-white" style="font-size: 30px">KULINER</h1>
+						</div>
+					</div>
 				</div>
 		</div>
 	</br>
 	<div class="row">
-			<div class="col-sm-12 col-xl-12">
-				<div class="cards-wrapper">
-					<div class="row">
-						 
-							<div class="col-sm-5 col-md-3">
-								<div class="card">
+	<div class="col-sm-12 col-xl-12">
+	<div class="cards-wrapper">
+	<div class="row">					 
+		<div class="col-sm-5 col-md-3">
+		<div class="card">
 		<div class="card-image">
-			<a href="k1.html"></a> 
+			<a href="#"></a> 
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="k1.html"></a></h2>
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="k1.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="k1.html" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 </div><!-- /.col-* -->
-						 
+
 <div class="col-sm-5 col-md-3">
 	<div class="card">
 		<div class="card-image">
-			<a href="listing-detail.html"></a> 
+			<a href="#"></a> 
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="listing-detail.html"></a></h2>
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 </div><!-- /.col-* -->
-						 
+
 <div class="col-sm-5 col-md-3">
 	<div class="card">
 		<div class="card-image">
-			<a href="listing-detail.html"></a> 
+			<a href="#"></a> 
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="listing-detail.html"></a></h2>
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
-		</div><!-- /.card-actions -->
-	</div><!-- /.card -->
-</div><!-- /.col-* -->
-						 
-<div class="col-sm-4 col-md-3">
-	<div class="card">
-		<div class="card-image">
-			<a href="listing-detail.html"></a> 
-		</div><!-- /.card-image -->
-	
-		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="listing-detail.html"></a></h2>
-		</div><!-- /.card-content -->
-	
-		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 </div><!-- /.col-* -->
@@ -523,18 +501,18 @@
 <div class="col-sm-4 col-md-3">
 	<div class="card">
 		<div class="card-image">
-			<a href="listing-detail.html"></a> 
+			<a href="#"></a> 
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="listing-detail.html"></a></h2>
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 </div><!-- /.col-* -->
@@ -542,62 +520,81 @@
 <div class="col-sm-4 col-md-3">
 	<div class="card">
 		<div class="card-image">
-			<a href="listing-detail.html"></a> 
+			<a href="#"></a> 
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="listing-detail.html"></a></h2>
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 </div><!-- /.col-* -->
-						 
+
 <div class="col-sm-4 col-md-3">
 	<div class="card">
 		<div class="card-image">
-			<a href="listing-detail.html"></a> 
+			<a href="#"></a> 
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="listing-detail.html"></a></h2>
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 </div><!-- /.col-* -->
-						 
+
 <div class="col-sm-4 col-md-3">
 	<div class="card">
 		<div class="card-image">
-			<a href="listing-detail.html"></a> 
+			<a href="#"></a> 
 		</div><!-- /.card-image -->
 	
 		<div class="card-content">
-			<h3><a href="listing-detail.html"></a></h3>
-			<h2><a href="listing-detail.html"></a></h2>
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
 		</div><!-- /.card-content -->
 	
 		<div class="card-actions">
-			<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-			<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-			<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+		</div><!-- /.card-actions -->
+	</div><!-- /.card -->
+</div><!-- /.col-* -->
+
+<div class="col-sm-4 col-md-3">
+	<div class="card">
+		<div class="card-image">
+			<a href="#"></a> 
+		</div><!-- /.card-image -->
+	
+		<div class="card-content">
+			<h3><a href="#"></a></h3>
+			<h2><a href="#"></a></h2>
+		</div><!-- /.card-content -->
+	
+		<div class="card-actions">
+			<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+			<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+			<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 		</div><!-- /.card-actions -->
 	</div><!-- /.card -->
 </div><!-- /.col-* -->
 
 <div class="col-md-3">
-	<a href="index_kuliner.html" class="btn btn-primary">Lihat lebih banyak</a>
+	<a href="index_kuliner" class="btn btn-primary">Lihat lebih banyak</a>
 		</div><!-- /.form-group -->		
 					</div><!-- /.row -->
 				</div><!-- /.card-wrapper -->
@@ -607,92 +604,91 @@
 				</div><!-- /.page-title -->
 				<div class="row">
 					<div class="col-sm-12">
-							<div class="col-12">
-									<div class="card" style="color: ">
-										<h1 class="btn btn-block text-white" style="font-size: 30px">OLEH-OLEH</h1>
-										</div>
-										</div>
+						<div class="col-12">
+							<div class="card" style="color: ">
+								<h1 class="btn btn-block text-white" style="font-size: 30px">OLEH-OLEH</h1>
+							</div>
 						</div>
+					</div>
 				</div>
 			</br>
-
 <div class="row">
 	<div class="col-sm-12 col-xl-12">
 		<div class="cards-wrapper">
 			<div class="row">
-								 
+
 				<div class="col-sm-5 col-md-3">
 					<div class="card">
 				<div class="card-image">
-					<a href="o1.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="o1.html"></a></h3>
-					<h2><a href="o1.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
-								 
+
 		<div class="col-sm-5 col-md-3">
 			<div class="card">
 				<div class="card-image">
-					<a href="listing-detail.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html"></a></h3>
-					<h2><a href="listing-detail.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
-								 
+
 		<div class="col-sm-5 col-md-3">
 			<div class="card">
 				<div class="card-image">
-					<a href="listing-detail.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html"></a></h3>
-					<h2><a href="listing-detail.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selangkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary">Selangkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
-								 
+
 		<div class="col-sm-4 col-md-3">
 			<div class="card">
 				<div class="card-image">
-					<a href="listing-detail.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html"></a></h3>
-					<h2><a href="listing-detail.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
@@ -700,18 +696,18 @@
 		<div class="col-sm-4 col-md-3">
 			<div class="card">
 				<div class="card-image">
-					<a href="listing-detail.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html"></a></h3>
-					<h2><a href="listing-detail.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
@@ -719,62 +715,62 @@
 		<div class="col-sm-4 col-md-3">
 			<div class="card">
 				<div class="card-image">
-					<a href="listing-detail.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html"></a></h3>
-					<h2><a href="listing-detail.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
-								 
+
 		<div class="col-sm-4 col-md-3">
 			<div class="card">
 				<div class="card-image">
-					<a href="listing-detail.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html"></a></h3>
-					<h2><a href="listing-detail.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
-								 
+
 		<div class="col-sm-4 col-md-3">
 			<div class="card">
 				<div class="card-image">
-					<a href="listing-detail.html"></a> 
+					<a href="#"></a> 
 				</div><!-- /.card-image -->
 			
 				<div class="card-content">
-					<h3><a href="listing-detail.html"></a></h3>
-					<h2><a href="listing-detail.html"></a></h2>
+					<h3><a href="#"></a></h3>
+					<h2><a href="#"></a></h2>
 				</div><!-- /.card-content -->
 			
 				<div class="card-actions">
-					<a href="listing-detail.html" class="card-action-icon"><i class="md-icon">favorite</i></a>
-					<a href="listing-detail.html"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
-					<a href="listing-detail.html" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
+					<a href="#" class="card-action-icon"><i class="md-icon">favorite</i></a>
+					<a href="#"><img src="assets/img/flags/indonesia.png" height="20px"></img></a>
+					<a href="#" class="card-action-btn btn btn-transparent text-primary">Selengkapnya</a>
 				</div><!-- /.card-actions -->
 			</div><!-- /.card -->
 		</div><!-- /.col-* -->
 				
 		<div class="col-md-3">
-				<a href="index_oleh.html" class="btn btn-primary">Lihat lebih banyak</a>
+				<a href="index_oleh" class="btn btn-primary">Lihat lebih banyak</a>
 				</div><!-- /.form-group -->		
 			</div><!-- /.col-* -->
 							</div><!-- /.row -->
@@ -950,7 +946,7 @@
 		<div class="footer-top">
 			<div class="container">
 				<div class="footer-top-left">
-						NHITB,Web terbaik untuk berlibur - Created by <a href="#">Kelompok3</a>
+						NHITB,Web terbaik untuk perjalanan anda - Created by <a href="#">Kelompok3</a>
 				</div><!-- /.footer-top-left -->
 
 				<div class="footer-top-right">
